@@ -37,6 +37,8 @@
             gap: 15px;
             z-index: 100;
             transition: transform 0.3s ease, margin-left 0.3s ease;
+            overflow-y: auto;
+            max-height: 100vh;
         }
 
         .sidebar.collapsed {
@@ -229,11 +231,12 @@
             margin-bottom: 30px;
         }
 
-        select {
+        select, input[type="date"] {
             width: 100%;
             padding: 10px;
             border-radius: 5px;
             border: 1px solid #ccc;
+            box-sizing: border-box;
         }
 
         .btn-export {
@@ -245,6 +248,58 @@
             cursor: pointer;
             font-weight: bold;
             margin-top: 20px;
+        }
+
+        /* Semáforo */
+        .traffic-light {
+            width: 25px;
+            height: 25px;
+            border-radius: 50%;
+            border: 2px solid #ddd;
+            display: inline-block;
+            box-shadow: inset 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .light-red { background: #dc3545; box-shadow: 0 0 10px rgba(220, 53, 69, 0.5); }
+        .light-yellow { background: #ffc107; box-shadow: 0 0 10px rgba(255, 193, 7, 0.5); }
+        .light-green { background: #28a745; box-shadow: 0 0 10px rgba(40, 167, 69, 0.5); }
+
+        /* Headline Cards */
+        .headline-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .headline-card {
+            background: white;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+            border-left: 6px solid #ddd;
+            transition: transform 0.2s;
+        }
+        .headline-card:hover { transform: translateY(-5px); }
+        .headline-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 12px;
+        }
+        .headline-sentiment {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+        }
+        .headline-meta {
+            font-size: 0.85rem;
+            color: #777;
+            margin-bottom: 8px;
+        }
+        .headline-topic {
+            font-size: 1.1rem;
+            font-weight: 700;
+            color: var(--guinda);
+            line-height: 1.3;
         }
     </style>
 </head>
@@ -259,8 +314,19 @@
             <option>Todos</option>
         </select>
 
+        <label>Desde</label>
+        <input type="date" id="f-fecha-desde" onchange="updateDashboard()">
+
+        <label>Hasta</label>
+        <input type="date" id="f-fecha-hasta" onchange="updateDashboard()">
+
         <label>Radiodifusora</label>
         <select id="f-radio" onchange="updateDashboard()">
+            <option>Todos</option>
+        </select>
+
+        <label>Programa</label>
+        <select id="f-prog" onchange="updateDashboard()">
             <option>Todos</option>
         </select>
 
@@ -271,6 +337,11 @@
 
         <label>Clasificación</label>
         <select id="f-clase" onchange="updateDashboard()">
+            <option>Todos</option>
+        </select>
+
+        <label>Estatus</label>
+        <select id="f-estatus" onchange="updateDashboard()">
             <option>Todos</option>
         </select>
 
@@ -348,12 +419,18 @@
                 </div>
             </div>
 
-            <div class="kpi-card" style="margin-top: 20px; width: 100%; border-left: 5px solid var(--guinda);">
+            <div id="kpi-boletin-card" class="kpi-card" style="margin-top: 20px; width: 100%; border-left: 5px solid var(--guinda);">
                 <h3 style="text-align: left;">Réplica de información emitida por gobierno:</h3>
-                <div style="display: flex; align-items: baseline; gap: 15px;">
+                <div style="display: flex; align-items: center; gap: 15px;">
+                    <div id="gov-light" class="traffic-light"></div>
                     <div id="kpi-boletin-pct" class="val" style="font-size: 2.5rem;">0%</div>
                     <div id="kpi-boletin-num" class="subtext">(0 impactos)</div>
                 </div>
+            </div>
+
+            <!-- Gráfico de Género -->
+            <div class="chart-wrapper" style="margin-top: 30px;">
+                <canvas id="chartHeatmapGenero"></canvas>
             </div>
         </div>
 
@@ -386,6 +463,12 @@
         <div class="section-box">
             <div class="kpi-group-title">Análisis Individual por Radiodifusora</div>
             <div id="radio-charts" class="radio-charts-container"></div>
+        </div>
+
+        <!-- Titulares Radioescucha -->
+        <div class="section-box">
+            <div class="kpi-group-title">Información Emitida por Radioescucha</div>
+            <div id="container-headlines" class="headline-grid"></div>
         </div>
 
     </div>
@@ -433,21 +516,33 @@
             };
             fill('f-dia', 'Día');
             fill('f-radio', 'Radiodifusora');
+            fill('f-prog', 'Programa');
             fill('f-dep', 'Dependencia');
             fill('f-clase', 'Clasificación');
+            fill('f-estatus', 'Estatus');
         }
 
         function updateDashboard() {
             const fDia = document.getElementById('f-dia').value;
+            const fDesde = document.getElementById('f-fecha-desde').value;
+            const fHasta = document.getElementById('f-fecha-hasta').value;
             const fRad = document.getElementById('f-radio').value;
+            const fPrg = document.getElementById('f-prog').value;
             const fDep = document.getElementById('f-dep').value;
             const fCla = document.getElementById('f-clase').value;
+            const fEst = document.getElementById('f-estatus').value;
 
             const filtered = rawData.filter(d => {
+                const dFecha = d.Fecha ? d.Fecha.substring(0, 10) : "";
+                const dateMatch = (!fDesde || dFecha >= fDesde) && (!fHasta || dFecha <= fHasta);
+
                 return (fDia === 'Todos' || d.Día === fDia) &&
+                    dateMatch &&
                     (fRad === 'Todos' || d.Radiodifusora === fRad) &&
+                    (fPrg === 'Todos' || d.Programa === fPrg) &&
                     (fDep === 'Todos' || d.Dependencia === fDep) &&
-                    (fCla === 'Todos' || d.Clasificación === fCla);
+                    (fCla === 'Todos' || d.Clasificación === fCla) &&
+                    (fEst === 'Todos' || d.Estatus === fEst);
             });
 
             // Dataset for "Distribución de la información" (only filter by Day)
@@ -466,10 +561,11 @@
             const neg = filtered.filter(d => d.Estatus === 'Negativa').reduce((acc, c) => acc + (Number(c.Recuento) || 0), 0);
             const info = filtered.filter(d => d.Estatus === 'Informativa').reduce((acc, c) => acc + (Number(c.Recuento) || 0), 0);
 
-            // Lógica para Género y Boletín
+            // Lógica para Género y Boletín (Gobernador)
             const boletin = filtered.filter(d => {
                 const gen = d.Género || d.Gnero || d.Genero || "";
-                return gen.toLowerCase().includes('bolet') || gen.toLowerCase().includes('boletin');
+                return gen.includes('Información emitida por gobierno del estado') || 
+                       gen.toLowerCase().includes('bolet');
             }).reduce((acc, c) => acc + (Number(c.Recuento) || 0), 0);
 
             // Lógica para Negativas por Autor
@@ -489,8 +585,71 @@
             document.getElementById('kpi-neg').innerText = neg.toLocaleString();
             document.getElementById('kpi-info').innerText = info.toLocaleString();
 
+            const pctGov = total > 0 ? (boletin / total) * 100 : 0;
             document.getElementById('kpi-boletin-num').innerText = `(${boletin} impactos)`;
-            document.getElementById('kpi-boletin-pct').innerText = (total > 0 ? ((boletin / total) * 100).toFixed(1) : 0) + '%';
+            document.getElementById('kpi-boletin-pct').innerText = pctGov.toFixed(1) + '%';
+
+            // Actualizar Semáforo
+            const light = document.getElementById('gov-light');
+            const govCard = document.getElementById('kpi-boletin-card');
+            if (light && govCard) {
+                light.className = 'traffic-light'; // reset
+                if (pctGov <= 29) {
+                    light.classList.add('light-red');
+                    govCard.style.borderBottomColor = '#dc3545';
+                } else if (pctGov <= 45) {
+                    light.classList.add('light-yellow');
+                    govCard.style.borderBottomColor = '#ffc107';
+                } else {
+                    light.classList.add('light-green');
+                    govCard.style.borderBottomColor = '#28a745';
+                }
+            }
+
+            // --- Gráfico de Género (%) ---
+            const gens = [...new Set(filtered.map(d => d.Género || d.Gnero || d.Genero || "N/A"))].sort((a, b) => {
+                const valA = filtered.filter(d => (d.Género || d.Gnero || d.Genero || "N/A") === a).reduce((acc, c) => acc + (Number(c.Recuento) || 0), 0);
+                const valB = filtered.filter(d => (d.Género || d.Gnero || d.Genero || "N/A") === b).reduce((acc, c) => acc + (Number(c.Recuento) || 0), 0);
+                return valB - valA;
+            }).slice(0, 10);
+
+            const estatusList = ['Informativa', 'Positiva', 'Negativa'];
+            const genDatasets = estatusList.map(est => ({
+                label: est,
+                backgroundColor: colorMap[est],
+                data: gens.map(g => {
+                    const gData = filtered.filter(d => (d.Género || d.Gnero || d.Genero || "N/A") === g);
+                    const gTotal = gData.reduce((acc, c) => acc + (Number(c.Recuento) || 0), 0) || 1;
+                    const eVal = gData.filter(d => d.Estatus === est).reduce((acc, c) => acc + (Number(c.Recuento) || 0), 0);
+                    return Number(((eVal / gTotal) * 100).toFixed(1));
+                })
+            }));
+            updateHeatmap('chartHeatmapGenero', gens, genDatasets, 'Sentimiento por Género (%)');
+
+            // --- Titulares Radioescucha ---
+            const containerHeadlines = document.getElementById('container-headlines');
+            containerHeadlines.innerHTML = '';
+            const radioHeadlines = filtered.filter(d => {
+                const aut = d.Autor || d.Autora || "";
+                return aut.toLowerCase().includes('radioescucha');
+            });
+
+            radioHeadlines.forEach(h => {
+                const card = document.createElement('div');
+                card.className = 'headline-card';
+                card.style.borderLeftColor = colorMap[h.Estatus] || '#ddd';
+                
+                card.innerHTML = `
+                    <div class="headline-header">
+                        <div class="headline-sentiment" style="background: ${colorMap[h.Estatus]}"></div>
+                        <div class="headline-meta" style="font-weight: 600;">${h.Clasificación || ''}</div>
+                    </div>
+                    <div class="headline-meta">${h.Radiodifusora} | ${h.Programa}</div>
+                    <div class="headline-topic">${h.Tema}</div>
+                    <div class="headline-meta" style="margin-top: 10px; color: var(--guinda); font-weight: 600;">${h.Dependencia || ''}</div>
+                `;
+                containerHeadlines.appendChild(card);
+            });
 
             document.getElementById('neg-radio-num').innerText = negRadio.toLocaleString();
             document.getElementById('neg-radio-pct').innerText = ((negRadio / sumNeg) * 100).toFixed(1) + '%';

@@ -301,6 +301,33 @@
             color: var(--guinda);
             line-height: 1.3;
         }
+        .headline-text {
+            font-size: 0.95rem;
+            color: #444;
+            line-height: 1.5;
+            margin-top: 10px;
+            overflow: hidden;
+        }
+        .headline-text.truncated {
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            line-clamp: 3;
+            -webkit-box-orient: vertical;
+        }
+        .read-more-btn {
+            background: none;
+            border: none;
+            color: var(--dorado);
+            font-weight: bold;
+            cursor: pointer;
+            padding: 0;
+            margin-top: 8px;
+            font-size: 0.85rem;
+        }
+        .read-more-btn:hover {
+            color: var(--guinda);
+            text-decoration: underline;
+        }
     </style>
 </head>
 
@@ -504,6 +531,14 @@
             sidebar.classList.toggle('collapsed');
         }
 
+        function toggleReadMore(btn) {
+            const textContainer = btn.previousElementSibling;
+            const isExpanded = textContainer.classList.toggle('truncated');
+            // Invert logic: we toggle 'truncated' class. 
+            // If 'truncated' is present, text is cut. If not, it's expanded.
+            btn.innerText = textContainer.classList.contains('truncated') ? 'Leer más' : 'Leer menos';
+        }
+
         function setupFilters() {
             const fill = (id, field) => {
                 const sel = document.getElementById(id);
@@ -639,6 +674,9 @@
                 card.className = 'headline-card';
                 card.style.borderLeftColor = colorMap[h.Estatus] || '#ddd';
                 
+                const headlineText = h.Titular || h.Tema || '';
+                const isLong = headlineText.length > 150;
+
                 card.innerHTML = `
                     <div class="headline-header">
                         <div class="headline-sentiment" style="background: ${colorMap[h.Estatus]}"></div>
@@ -646,6 +684,8 @@
                     </div>
                     <div class="headline-meta">${h.Radiodifusora} | ${h.Programa}</div>
                     <div class="headline-topic">${h.Tema}</div>
+                    <div class="headline-text ${isLong ? 'truncated' : ''}">${headlineText}</div>
+                    ${isLong ? `<button class="read-more-btn" onclick="toggleReadMore(this)">Leer más</button>` : ''}
                     <div class="headline-meta" style="margin-top: 10px; color: var(--guinda); font-weight: 600;">${h.Dependencia || ''}</div>
                 `;
                 containerHeadlines.appendChild(card);

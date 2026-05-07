@@ -523,6 +523,13 @@
                 updateDashboard();
             } catch (e) {
                 console.error("Error cargando datos:", e);
+                document.getElementById('report-area').innerHTML = `
+                    <div style="padding: 20px; color: #721c24; background-color: #f8d7da; border: 1px solid #f5c6cb; border-radius: 5px; margin: 20px;">
+                        <h3>Error al cargar los datos</h3>
+                        <p>No se pudo cargar el archivo <strong>data_radio.json</strong>. Esto puede deberse a un formato incorrecto en los datos o a que el archivo no se encuentra en la misma carpeta que este reporte.</p>
+                        <p>Detalle técnico: <code>${e.message}</code></p>
+                    </div>
+                `;
             }
         }
 

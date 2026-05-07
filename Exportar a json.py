@@ -52,10 +52,13 @@ def auditoria_excel():
         # 5. Exportar a JSON
         ruta_json = os.path.join(os.path.dirname(__file__), "data_radio.json")
         
+        # Reemplazar valores nulos (NaN) por None para generar JSON válido
+        df = df.where(pd.notnull(df), None)
+        
         # Convertir a records y guardar con encoding correcto
         records = df.to_dict(orient='records')
         with open(ruta_json, 'w', encoding='utf-8') as f:
-            json.dump(records, f, ensure_ascii=False, indent=4, default=str)
+            json.dump(records, f, ensure_ascii=False, indent=4)
 
         # 6. Resumen para el usuario
         total_filas = len(df)

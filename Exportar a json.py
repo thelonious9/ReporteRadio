@@ -49,6 +49,11 @@ def auditoria_excel():
         # 4. Normalización de nombres de columnas (quitar espacios, etc)
         df.columns = [c.strip() if isinstance(c, str) else c for c in df.columns]
 
+        # 4.5 Convertir columnas de fecha a string para que sean serializables
+        for col in df.columns:
+            if pd.api.types.is_datetime64_any_dtype(df[col]):
+                df[col] = df[col].dt.strftime('%Y-%m-%d %H:%M:%S').str.replace(' 00:00:00', '')
+
         # 5. Exportar a JSON
         ruta_json = os.path.join(os.path.dirname(__file__), "data_radio.json")
         
@@ -58,7 +63,7 @@ def auditoria_excel():
         # Convertir a records y guardar con encoding correcto
         records = df.to_dict(orient='records')
         with open(ruta_json, 'w', encoding='utf-8') as f:
-            json.dump(records, f, ensure_ascii=False, indent=4)
+            json.dump(records, f, ensure_ascii=False, indent=4, default=str)
 
         # 6. Resumen para el usuario
         total_filas = len(df)

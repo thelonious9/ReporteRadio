@@ -1,0 +1,1554 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NotasRadio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>La Comisión de Agua y Alcantarillado del Municipio de Tulancingo, informa la suspensión de agua por trabajado de cambio de válvula en un pozo de San Nicolás El Chico.</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Ayuntamiento</Dependencia>
+		<Organismo>Agua</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Reparación De Tubería</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Tulancingo</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Una persona perdió la vida el 7 de octubre de 2026 tras la volcadura de un automóvil compacto en la carretera estatal Pachuca-Actopan, a la altura del barrio El Judío, en los límites de Pachuca y San Agustín Tlaxiaca. Cuerpos de emergencia y personal pericial acudieron al sitio para realizar las diligencias correspondientes, sin que las autoridades informaran inicialmente la identidad de la víctima.</Titular>
+		<Autor>Jessenia Romero</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Ayuntamiento</Dependencia>
+		<Organismo>Ayuntamiento</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Auxilio a la ciudadanía</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>San Agustín Tlaxiaca</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Un hombre sobrevivió a un ataque con arma de fuego, al ser atacado por los ocupantes de una moto, en calles del centro del municipio de Tlaxcoapan. La víctima, un hombre de entre 35 a 40 años de edad caminaba sobre la calle 20 de Noviembre cuando fue atacado por los ocupantes del vehículo ligero. El ataque armado fue sin mediar palabra y de manera prácticamente directa a centímetros de distancia; el hombre logró arrastrarse y refugiarse en un negocio cercano en un intento desesperado por salvar su vida. Los agresores huyeron del sitio, sin importar la situación del lesionado; al sitio acudieron elementos policiacos, tras recibir notificación sobre el ataque. Personal de la Procuraduría General de Justicia del Estado de Hidalgo acudieron para iniciar las investigaciones respectivas al caso. Hasta el momento no se reportan personas detenidas que pudieran estar relacionadas con el ataque con arma de fuego.</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>PGJEH</Dependencia>
+		<Organismo>PGJEH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Ataque Armado</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Tlaxcoapan</Municipio>
+		<Contenido>Un hombre sobrevivió a un ataque con arma de fuego al ser atacado por los ocupantes de una moto en calles del centro del municipio de Tlaxcoapan. La víctima, un hombre de entre 35 a 40 años de edad, caminaba sobre la calle 20 de noviembre cuando fue atacado por los ocupantes del vehículo ligero. El ataque armado fue sin mediar palabra y de manera prácticamente directa, a centímetros de distancia. El hombre logró arrastrarse y refugiarse en un negocio cercano en un intento desesperado por salvar su vida. Los agresores huyeron del sitio sin importar la situación del lesionado. Al sitio acudieron elementos policíacos tras recibir notificación sobre el ataque personal de la Procuraduría General de Justicia del Estado de Hidalgo. Acudieron para iniciar las investigaciones respectivas al caso. Hasta el momento no se reportan personas detenidas que pudieran estar relacionadas con el ataque con arma de fuego.</Contenido>
+		<Liga>https://drive.google.com/file/d/1k_s38C6x2lrzcK3mThRyHf2H0cpX7dBf/view?usp=drivesdk</Liga>
+		<Duracion>Sí</Duracion>
+		<Medida_de_tiempo>50</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Medio_de_origen>Ultra Noticias</Medio_de_origen>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>suspención de agua por cambio de cálvula caasim</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Sipdus</Dependencia>
+		<Organismo>Caasim</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Reparación De Tubería</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Pachuca</Municipio>
+		<Duracion>No</Duracion>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>SSPH desmantela punto presuntamente utilizado para la venta y distribución de narcóticos en Tlaxcoapan</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>SSPH</Dependencia>
+		<Organismo>SSPH</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Combate Al Narcomenudeo</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Tlaxcoapan</Municipio>
+		<Contenido>Elementos de la Secretaría Pública del Estado de Hidalgo desmantelaron un punto presuntamente utilizado para la venta y distribución de narcóticos mediante un cateo realizado en un inmueble de la Colonia Centro, este en el municipio de Tlaxcoapan. Durante las acciones fueron aseguradas 279 dosis de sustancias con características similares a la marihuana y al cristal, cuatro fusiles de asalto de alto calibre y tres armas cortas de uso exclusivo del ejército y las fuerzas armadas, así como cuatro chalecos balísticos. El operativo fue realizado en coordinación con la Secretaría de Defensa Nacional y la Procuraduría General de Justicia del Estado de Hidalgo como parte de la estrategia para combatir la distribución de narcóticos y fortalecer la seguridad en la región. Del total de sustancias aseguradas, 133 dosis corresponden a hierba verde con características similares a la marihuana y 146 a una sustancia granulada con características similares al cristal. También fue localizada una báscula digital de precisión de las denominadas como grameras. Entre el armamento y asegurados se encuentran cuatro fusiles de asalto de alto calibre y tres armas cortas, además de 11 cargadores y 47 cartuchos útiles. Asimismo fueron localizados dos cascos y cuatro chalecos balísticos, Así como un juego de candados de mano Todo lo decomisado quedó a disposición de la autoridad competente Para las investigaciones y diligencias correspondientes</Contenido>
+		<Liga>https://drive.google.com/file/d/1IEgxwG2H05jlvmLbp-o0xPZFLNT_3GnP/view?usp=drivesdk</Liga>
+		<Duracion>Sí</Duracion>
+		<Medida_de_tiempo>68</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Medio_de_origen>Comunicado gubernamental</Medio_de_origen>
+		<Personas_mencionadas>Salvador Cruz Neri</Personas_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Un incendio registrado en un predio de la colonia Ampliación Rojo Gómez, en Tulancingo, movilizó a elementos del H. Cuerpo de Bomberos, quienes acudieron para controlar la quema de material acumulado de recicljae y llantas en el lugar. La emergencia generó una densa columna de humo, además de preocupación entre habitantes de la zona debido a la cercanía del fuego con inmuebles aledaños. Ante estas condiciones y como medida preventiva, las autoridades determinaron la evacuación de alumnos y personal de la Telesecundaria 449 «Ignacio Manuel Altamirano», con el objetivo de evitar que estudiantes y trabajadores quedaran expuestos al humo o a algún posible avance de las llamas.</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Ayuntamiento</Dependencia>
+		<Organismo>Ayuntamiento</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Control de incendio</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Tulancingo</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Una mujer fue localizada sin vida al fondo de una barranca durante la tarde de este miércoles, en las inmediaciones de la zona conocida como la bajada de La Cruz, en la colonia La Peña, municipio de Mixquiahuala de Juárez.Unirse a causas El hallazgo fue realizado por personas que transitaban por el lugar, quienes alertaron a las autoridades tras observar el cuerpo. Al sitio arribaron elementos de la Policía Municipal, quienes acordonaron el área para preservar posibles indicios y permitir el desarrollo de las diligencias correspondientes. De manera preliminar, se informó que la víctima sería una mujer joven, quien vestía pantalón negro y presentaba ropa desgarrada. Hasta el momento, su identidad no ha sido confirmada oficialmente. Personal especializado realizó las labores correspondientes para recuperar el cuerpo y trasladarlo al Servicio Médico Forense (Semefo), donde se practicarán los estudios de ley. Las autoridades mantienen las investigaciones en curso para determinar las circunstancias y causas del deceso, así como establecer la identidad de la víctima.Superar el duelo</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Ayuntamiento</Dependencia>
+		<Organismo>Policía municipal</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Localización de cuerpo</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Mixquiahuala</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>La tarde de este miércoles se registró el hallazgo de un cuerpo al interior de una cisterna en la comunidad de Acayuca, municipio de Zapotlán de Juárez. El hecho ocurrió sobre avenida Revolución, sitio al que acudieron elementos de la Policía Municipal, Bomberos y una ambulancia para atender la emergencia. De manera preliminar, trascendió que la persona localizada podría corresponder a Héctor Hugo Palacios Pacheco, quien contaba con un reporte de desaparición desde el pasado 16 de septiembre; sin embargo, esta información no ha sido confirmada de manera oficial.</Titular>
+		<Autor>Jessenia Romero</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Ayuntamiento</Dependencia>
+		<Organismo>Policía municipal</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Localización de cuerpo</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Zapotlán</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Policías de la Dirección de Seguridad Pública de Tulancingo rescataron esta noche a un hombre señalado como probable ladrón, quien era golpeado por vecinos de la colonia Zapotlán de Allende. El incidente movilizó a por lo menos cinco patrullas y una veintena de uniformados, incluidos oficiales del área de Movilidad y Transporte, quienes intervinieron para evitar que los habitantes continuaran agrediendo al individuo. En videos difundidos a través de grupos de WhatsApp y redes sociales se observa cómo los policías rodean al hombre y lo trasladan para ponerlo a salvo, mientras varios vecinos los siguen e incluso consiguen golpearlo en repetidas ocasiones e intentan arrebatárselo a los agentes. Finalmente, el señalado fue subido a la batea de una patrulla y trasladado al área de retención del cuartel general de Seguridad Pública. De acuerdo con el procedimiento, permanecerá retenido mientras se define su situación.</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Ayuntamiento</Dependencia>
+		<Organismo>Policía municipal</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Justicia Por Propia Mano</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Tulancingo</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>será emitida convocatoria para candidaturas a gobierno municipales morena ariatna montie</Titular>
+		<Autor>Jessenia Romero</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Morena</Dependencia>
+		<Organismo>Morena</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Candidaturas</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>El presidente de la Junta de la Mesa Directiva del Congreso local, este Juan Pablo Escalante, dio a conocer que el próximo jueves 22 de octubre a las 4 de la tarde va a comparecer el oficial mayor del Gobierno del Estado, Orlando Ángeles Pérez, como parte del cuarto informe de la glosa del cuarto informe de gobierno que encabeza Julio Menchaca Salazar en Hidalgo. Es la primera vez que va a comparecer el oficial mayor. Y por su parte, eh por su oficina pasan autorizaciones de presupuestos, de acciones, de obras, etcétera, etcétera. La comparecencia de Onésimo Serrano, actualmente encargado de la Unidad de Planeación y Prospectiva, será el martes 20 de octubre; o sea, van a hacer un ajuste en cuanto a las comparecencias. De acuerdo con la Ley Orgánica de la Administración Pública del Estado, es el área encargada de administrar los recursos humanos, materiales y administrativos del Poder Ejecutivo estatal, así como coordinar las compras, contrataciones y servicios necesarios para la operación del gobierno.</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Oficialía Mayor</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Pachuca</Municipio>
+		<Contenido>Hablando de asuntos legislativos, esto a nivel Congreso del Estado de Hidalgo, el presidente de la Junta de la Mesa Directiva del Congreso Local, Juan Pablo Escalante, dio a conocer que el próximo jueves 22 de octubre, a las 4 de la tarde, va a comparecer el oficial mayor del Gobierno del Estado, Orlando Ángeles Pérez, como parte del cuarto informe de la Glosa, el cuarto informe de gobierno que encabeza Julio Menchaca Salazar en Hidalgo. Es la primera vez que va a comparecer el oficial mayor, y por su parte, por su oficina, pasan autorizaciones de presupuestos, de acciones, de obras, etc. El cargo no es menor, y por ello la importancia de esta comparecencia. Y, a ver, resulta que la comparecencia de Don Encimo Serrano, actualmente encargado de la unidad de planeación y prospectiva será el martes 20 de octubre, se van a hacer un ajuste en cuanto a las comparecencias reitero, es la primera vez que esta área que la oficial es mayor va a comparecer de acuerdo con la ley de administración pública del estado es el área encargada de administrar los recursos humanos, materiales y administrativos del poder ejecutivo estatal así como coordinar las compras, contrataciones y servicios necesarios para la operación del gobierno, no es un asunto menor ahora sí que la Secretaría de Administración y Finanzas es la que lleva eso, la administración y el manejo de la lana, pero quien hace las contrataciones quien está a cargo de las compras públicas, servicios generales, recursos materiales, recursos humanos patrimonio inmobiliario, innovación gubernamental de organización y rediseño institucional entre otras cuestiones, es oficial de mayor es una dependencia sumamente sumamente importante</Contenido>
+		<Liga>https://drive.google.com/file/d/1bsP_Rc1FiY0-zVzySc1lXq3f220EQQkH/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>105</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Dependencias_mencionadas>Oficialía Mayor del Gobierno del Estado de Hidalgo, Unidad de Planeación y Prospectiva, Secretaría de Hacienda</Dependencias_mencionadas>
+		<Personas_mencionadas>Edgar Orlando Ángeles Pérez, Juan Pablo Escalante</Personas_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Luego de la última reforma al Código Electoral del Estado de Hidalgo, serán menos los cargos que los hidalguenses elegirán el próximo 6 de junio de 2027, ya que en los 84 ayuntamientos desaparecen 14 sindicaturas y 160 regidurías. Además del argumento de austeridad, los cambios responden al nuevo diseño constitucional y buscan racionalizar el tamaño de los cabildos, aunque mantienen espacios de representación proporcional para las fuerzas políticas distintas a la mayoritaria. El artículo 16 del Código Electoral establece que los ayuntamientos con menos de 20 mil habitantes tendrán una sindicatura de mayoría relativa, cuatro regidurías de mayoría relativa y tres de representación proporcional. Los municipios con población de 20 mil a 50 mil habitantes contarán con una sindicatura de mayoría relativa, cinco regidurías de mayoría y cuatro de representación proporcional; mientras que aquellos con más de 50 mil habitantes tendrán una sindicatura y 15 regidurías: ocho de mayoría relativa y siete de representación proporcional. En la legislación anterior estaban en disputa mil 94 cargos municipales: 84 presidencias, 98 sindicaturas y 912 regidurías. La nueva integración reduce la cifra a 920 cargos: 84 presidencias, 84 sindicaturas y 752 regidurías, es decir, 174 posiciones menos, una reducción de casi 16 por ciento. De acuerdo con la Encuesta Intercensal 2025 del Instituto Nacional de Estadística y Geografía (INEGI), 42 municipios tienen menos de 20 mil habitantes, por lo que sus ayuntamientos estarán integrados por un presidente, un síndico y siete regidores. Otros 28 municipios, con poblaciones de entre 20 mil y 50 mil habitantes, tendrán un presidente, un síndico y nueve regidores. En tanto, los 14 municipios con más de 50 mil habitantes —entre ellos Pachuca, Mineral de la Reforma, Tulancingo, Tizayuca, Tula de Allende, Huejutla y Tepeji del Río— tendrán un presidente, un síndico y 15 regidores. La reducción de espacios ocurre en un escenario donde aumenta el número de fuerzas políticas que podrían participar en la elección. Hasta ahora son 11: ocho partidos nacionales —PAN, PRI, PT, PVEM, MC, Morena, PAZ y Somos— y tres con registro local: Nueva Alianza Hidalgo, PRD Hidalgo y Encuentro Solidario Hidalgo. En el caso de Espacio Hidalgo, continúa la etapa impugnativa para recuperar su acreditación, luego de perderla por no alcanzar el número mínimo de afiliados. Así, mientras habrá menos posiciones disponibles en los cabildos, serán más las fuerzas políticas que buscarán ocuparlas. Sin coaliciones, el número de candidaturas municipales podría superar las 10 mil, aunque la cifra final dependerá de las alianzas y reglas de postulación que se definan para el proceso. Además de los ayuntamientos, en 2027 se renovarán en Hidalgo siete diputaciones federales y las 30 diputaciones del Congreso local, 18 de mayoría relativa y 12 de representación proporcional. A nivel nacional estarán en disputa más de 19 mil cargos de elección popular, incluida la renovación de las 500 diputaciones federales. Para Hidalgo, sin embargo, la elección municipal tendrá una particularidad: habrá menos cargos que repartir, pero más fuerzas políticas buscando un lugar dentro de los 84 cabildos.</Titular>
+		<Autor>Jessenia Romero</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Congreso</Dependencia>
+		<Organismo>Congreso</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Reforma Electoral</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Danién Martínez respecto a que aprueba el Congreso de Hidalgo que municipios celebren contratos sin aprobación de Cabildo, que esto es muy malo porque se puede prestar para malos manejos. Le parece un retroceso y asevera que se parecen tanto a los que criticaban</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Congreso</Dependencia>
+		<Organismo>Congreso</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Reforma Electoral</Tema>
+		<Estatus>Negativo</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Con una discusión entre diputados del Congreso del Estado de Hidalgo, fue aprobada, con 23 votos a favor y siete en contra, la reforma constitucional en materia de modernización de la gestión administrativa municipal. Una de las modificaciones legales consiste en eliminar la disposición que otorga al Ayuntamiento la atribución de facultar al presidente municipal para celebrar contratos con particulares e instituciones oficiales sobre asuntos de interés público. De acuerdo con el diputado de Movimiento de Regeneración Nacional (Morena), Miguel Moreno, se elimina la autorización del Cabildo para celebrar contratos de interés público, con el objetivo de dar mayor agilidad a sus administraciones y facilitar el cumplimiento de sus responsabilidades frente a la ciudadanía. El dictamen contempla que el Ayuntamiento conserve la facultad de decidir sobre ciertos asuntos que pueden tener efectos importantes o durar más allá de la administración municipal actual, pero para aprobarlos necesita una mayoría especial: dos terceras partes de todos sus integrantes. La diputada del PRI, Johanna Montcerrat Hernández, se pronunció en contra al señalar que la reforma busca que los regidores no tengan facultad de votar los contratos y convenios que comprometan a los municipios; además, pone en riesgo la integridad jurídica de los alcaldes. Su compañero de bancada, Marco Mendoza, señaló que se perpetra la “muerte del municipio libre”, pues señaló que al romperse el equilibrio, se elimina el debate público. Por su parte, la diputada del PAN, Claudia Lilia Luna, al señalar que las leyes de ingresos se realizan de manera colegiada y que, para su aplicación, no se puede dejar todo en una sola persona. Además, afirmó que los regidores no tendrán voz ni voto. El diputado José María Alejandro, de Nueva Alianza, dijo que actualmente el proceso de adquisición pública es lento y burocrático, y que quitar el candado permite atender con prontitud las necesidades sociales. Por Movimiento Ciudadano, el diputado Alejandro Alcántara Carbajal asumió que se quitan contrapesos y aseguró que las decisiones deben tomarse de forma colegiada y que el poder no debe recaer sobre una sola persona. La legisladora Diana Rangel expresó que las autoridades municipales continuarán obligadas a actuar conforme a la ley, al presupuesto autorizado y a las disposiciones en materia de transparencia y fiscalización. Agregó que se busca confundir a la población, pues no se eliminan contrapesos, ya que se busca hacer una administración pública más ágil y cercana al pueblo. Los legisladores que votaron en contra fueron Tania Meza y Cinthia Citlali Delgado, de Morena; Marco Mendoza y Johanna Montcerrat, del PRI; así como Karla Perales y Alejandro Alcántara, de Movimiento Ciudadano. El dictamen debe ser aprobado por más de la mitad de los cabildos para que pueda ser avalada y con ello que entre en vigor.</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Congreso</Dependencia>
+		<Organismo>Congreso</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Reforma De Ley</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Habitantes de la comunidad de las Ánimas, municipio de Cuautepec de Hinojosa, Hidalgo reportaron el colapso de una coladera y de la red de drenaje que lleva más de siete semanas derramando desechos a cielo abierto, generando olores insoportables, proliferación de fauna nociva y un riesgo sanitario para quienes transitan diariamente por la zona.Consultar atlas De acuerdo con quejas ciudadanas, el problema afecta a todas las personas que utilizan este camino todos los días, debido al olor desagradable que emerge de forma permanente y que se vuelve insoportable.Filtros de agua Los vecinos señalaron que el problema no es nuevo y viene de administraciones pasadas, cuando el proyecto de drenaje no se ejecutó en forma correcta y únicamente se le dio salida provisional con unos tubos, lo que desde entonces perjudica a comunidades vecinas con el desagüe. La situación ha generado la propagación de plagas como moscos y ratas, además de cuadros de infección sanitaria, ya que los desechos son arrastrados por las llantas de vehículos y motocicletas que circulan por el lugar. Advirtieron que la problemática se agrava en temporada de lluvias, cuando las aguas negras se mezclan con el agua pluvial y son arrastradas hasta llegar a la Laguna de Tecocomulco, provocando contaminación ambiental en este cuerpo de agua. Ante ello, hacen un llamado urgente a las autoridades correspondientes, para que tomen cartas en el asunto y den una solución definitiva.</Titular>
+		<Autor>Jessenia Romero</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Ayuntamiento</Dependencia>
+		<Organismo>Ayuntamiento</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Fuga De Drenaje</Tema>
+		<Estatus>Negativo</Estatus>
+		<Municipio>Cuautepec</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Los cuernudos de Calnali llevarán el carnaval de la Huasteca al Festival Internacional Cervantino</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Cultura</Dependencia>
+		<Organismo>Cultura</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Carnavales</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Guanajuato</Municipio>
+		<Contenido>Los Cornudos de Calnali son toda una tradición, son parte de la característica de ese municipio en la Sierra Norte del Estado de Hidalgo, pues que se van a ir a presentar en Guanajuato. De hecho, la presentación de los Cornudos de Calnali es este próximo domingo 11 de octubre. La comparsa se formará a las 4 de la tarde en la Plaza Allende, allá en Guanajuato Capital, y de ahí partirá el recorrido que durará una hora y concluirá en el Teatro Juárez, uno de los recintos emblemáticos de esta ciudad que es Patrimonio Cultural de la Humanidad. Y le voy a decir una cosa, no es sencillo y por lo tanto no es casualidad que te inviten al Festival Internacional Cervantino. Ahora sí que necesitas tener una altísima calidad y un ambiente cultural para que formes parte de los festejos del Cervantino. En este sentido el festival la programó dentro de la categoría de calle y espacios alternativos Misma que agrupa las propuestas que se presentan fuera de las salas en una edición que tiene a Francia como país invitado La de este año, durante el recorrido la comparsa convive con quienes la miran de modo que el público no se parte Veo mi tuna pasar y yo le voy a cantar a la mujer que amo y cosas de ese tipo Aquí te van a poner a bailar a las y a los guanajuatenses y a los... visitantes a las y a los visitantes del Festival Internacional Cervantino, por obvias razones si es en calle pues va a ser el acceso gratuito por lo que quienes deseen acompañar lo pueden llegar al Cervantino y en las redes de asistente de Cultura del Estado de Hidalgo que es participante que es invitado los cuernos recordamos insisto se ha llevado las expresiones de las comunidades hidalguenses a escenarios de otros estados y se trabaja para que más portadores de tradición sigan este camino.</Contenido>
+		<Liga>https://drive.google.com/file/d/1_OXKI7qzuHHOkyHroNtzsWoJaOnpY8IM/view?usp=drivesdk</Liga>
+		<Duracion>Sí</Duracion>
+		<Medida_de_tiempo>119</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Medio_de_origen>Comunicado gubernamental</Medio_de_origen>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>El gobernador Julio Menchaca Salazar no descartó la posibilidad de implementar de manera permanente el servicio nocturno del Sistema de Transporte Metropolitano (Tuzobús), como se brindaba en la anterior administración. El titular del Ejecutivo estatal señaló que, con la reciente inversión para la adquisición de 140 nuevas unidades para el transporte masivo, ha aumentado considerablemente el número de personas que utilizan este servicio a diario. Además, se trabaja en la modernización de las estaciones, por lo que “Si el mercado, si la población requiere, deben de ampliarse los horarios”, señaló el mandatario, al considerar que se debe aprovechar la inversión realizada en el sistema de transporte. “Lo importante es que se utilice esta inversión, que le dé comodidad y que le dé seguridad a los usuarios”. Normalmente, el servicio del Tuzobús se brinda de lunes a viernes de 5:30 de la mañana a 10:30 de la noche; los sábados, de 6 de la mañana a diez de la noche, y los domingos, de 7 de la mañana a diez de la noche. Con motivo de la Feria San Francisco 2026, se implementó un operativo especial nocturno con unidades tipo vagoneta, que ofrecen servicio de las once de la noche a las tres de la madrugada, con un recorrido desde la Central de Téllez hasta el Centro Histórico de Pachuca. Mientras que el servicio troncal se extendió hasta las once de la noche, con ascenso y descenso de pasajeros en las estaciones Vicente Segura y Juan C. Doria por su cercanía al recinto.</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Gobernador</Dependencia>
+		<Organismo>Gobernador</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Ampliación de horario</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Pachuca</Municipio>
+		<Contenido>Hablando de transporte, ahorita que está vigente el servicio nocturno del Tuzobús junto con las troncales, ¿hay alguna posibilidad de que el servicio se quede [de manera permanente]?   Jessenia Romero: ...no del Tuzobús como se brindaba en la anterior administración, el titular del Ejecutivo estatal señaló que ha aumentado considerablemente el número de personas que utilizan este servicio a diario. Además, se trabaja en la modernización de las estaciones, por lo que, si la población lo requiere, deben de ampliarse los horarios, señaló el mandatario al considerar que se debe aprovechar la inversión realizada en el sistema de transporte. "Lo importante es que se utilice esta inversión que le dé comodidad y que le dé seguridad a los usuarios". Normalmente el servicio del Tuzobús se brinda de lunes a viernes de 5:30 de la mañana a 10:30 de la noche; los sábados de 6:00 de la mañana a 10:00 de la noche, y los domingos de 7:00 de la mañana a 10:00 de la noche; pero con motivo de la Feria San Francisco 2026, se implementó un operativo especial nocturno con unidades tipo vagoneta que ofrecen servicio de las 11:00 de la noche a las 3:00 de la madrugada, con un recorrido desde la Central de Telles hasta el Centro Histórico de Pachuca. Mientras que el servicio troncal se extendió hasta las 11:00 de la noche con ascenso y descenso de pasajeros en las estaciones Vicente Segura y Juan C. Doria por su cercanía con el recinto.   Daniel Martínez: O sea, ¿básicamente depende si va a haber—y tiene lógica, Jess—depende si va a haber demanda, si va a haber usuarios que utilicen el el Tuzobús por la noche y la primera parte de la madrugada?   Jessenia Romero: Efectivamente, menciona el gobernador, no se descarta esta posibilidad obviamente si hay pues también una petición por parte de los usuarios que se pueda ampliar el horario como en la anterior administración, pues se tomaría en cuenta.</Contenido>
+		<Liga>https://drive.google.com/file/d/1uBG63KKl9rKH4hWg5Uc3WSgRXr2-1Xe2/view?usp=drivesdk</Liga>
+		<Duracion>Sí</Duracion>
+		<Medida_de_tiempo>112</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Medio_de_origen>Ultra Noticias</Medio_de_origen>
+		<Personas_mencionadas>Julio Menchaca</Personas_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>El Ayuntamiento de Pachuca informó que han retirado 292 anuncios irregulares, entre espectaculares colocados sobre viviendas, estructuras instaladas en camellones y publicidad que obstruía banquetas y espacios destinados al paso peatonal. El presidente municipal, Jorge Alberto Reyes Hernández, explicó que su administración mantiene un operativo permanente de inspección para identificar anuncios que incumplen con la normativa de imagen urbana, particularmente aquellos espectaculares instalados sobre techos de viviendas o edificios pequeños. Señaló que actualmente se realiza un censo y se han emitido diversas notificaciones, principalmente en zonas como el bulevar Felipe Ángeles, a la altura de Venta Prieta, donde se han detectado estructuras que, de acuerdo con el municipio, no cumplen con las características establecidas en la Ley de Imagen Urbana. Reyes Hernández indicó que algunos propietarios ya aceptaron retirar las estructuras, mientras que otros han recurrido a recursos legales para evitar su retiro. “Hay más de 10 notificaciones, incluso ya hay algunos que se han amparado para no retirarlos”, explicó el presidente municipal, quien agregó que hasta el momento se tienen identificados cuatro amparos relacionados con estos procedimientos. Jorge Reyes también informó que el municipio de Pachuca implementó un operativo para ordenar el tránsito y estacionamiento en los alrededores del Palacio de Gobierno de Hidalgo. Explicó que se retiraron vehículos y comerciantes de las laterales para evitar estacionamientos en doble fila y mejorar el ascenso y descenso del transporte público. Además, se habilitó y delimitó una bahía para que taxis, combis y unidades de transporte puedan realizar estas maniobras sin bloquear la circulación. El alcalde advirtió que los vehículos que se estacionen en doble fila serán sancionados, independientemente de si pertenecen a particulares, funcionarios públicos o dependencias gubernamentales. Las acciones de ordenamiento también comenzaron sobre la avenida Madero, donde se pretende delimitar los espacios de estacionamiento y evitar que los vehículos ocupen hasta dos o tres filas.</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Ayuntamiento</Dependencia>
+		<Organismo>Alcalde</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Imagen Urbana</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>El gobierno municipal de Pachuca analiza la posible reinstalación de parquímetros en distintos espacios, como la colonia Periodistas, algunos espacios del centro de la ciudad, así como la Zona Plateada. Lo anterior fue informado por el alcalde Jorge Reyes Hernández, señalando que se ha iniciado diálogo con comerciantes y habitantes de los sectores considerados para conocer su opinión sobre la reinstalación de los parquímetros. Puntualizó que la propuesta inicial es que los aparatos se instalen donde no han estado operando, quedando pendiente sugerencias sobre su ubicación. Lo anterior, debido a que proyecto no se ha podido avanzar en el proceso legal que mantiene el municipio con la empresa que anteriormente operaba los parquímetros. De acuerdo a lo señalado por el Tribunal Administrativo, dicha resolución podría tardar un buen lapso de tiempo, incluso años. La propuesta contempla un sistema digital que permita realizar pagos mediante aplicaciones o recargas en tiendas de conveniencia. Se trataría de una propuesta diferente a la forma en la que operaban los anteriores aparatos, los cuales fueron retirados durante la anterior administración municipal. Cabe señalar que el retiro se concretó luego de protestas y manifestaciones por parte de vecinos de las zonas donde se habían colocado originalmente los aparatos. Pero sobre todo, por el inicio de un proceso administrativo donde se exigían pagos a la empresa a cargo del funcionamiento de los parquímetros, reclamando pagos que se deberían realizar al gobierno municipal.</Titular>
+		<Autor>Jessenia Romero</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Ayuntamiento</Dependencia>
+		<Organismo>Ayuntamiento</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Parquímetros</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Vía telefónica el reporte de Bombero y Protección Civil con Abner Yáñez informa de las diversas emergencias reportadas por la ciudadanía y que fueron atendidas. Asimismo, señala que las fiestas patrias dejaron saldo blanco en el municipio.</Titular>
+		<Autor>Abner Yáñez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Ayuntamiento</Dependencia>
+		<Organismo>Ayuntamiento</Organismo>
+		<Genero>Participación</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Auxilio a la ciudadanía</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Tulancingo</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Con el inicio de la temporada de frentes fríos 2026, el Gobierno Municipal de Tulancingo mantiene vigilancia permanente sobre las condiciones meteorológicas y fortalece las acciones preventivas para proteger a la población ante posibles descensos de temperatura, lluvias, fuertes vientos y otros efectos asociados a estos fenómenos. Jesús García Ávila, director de Protección Civil, informó que, de acuerdo con el Servicio Meteorológico Nacional (SMN), se prevé la presencia de 56 frentes fríos durante la temporada, que podría extenderse hasta mayo de 2027. Detalló que para octubre se pronostican siete sistemas frontales; ocho en noviembre, nueve en diciembre, ocho en enero de 2027, siete en febrero, seis en marzo, seis en abril y dos en mayo. Ante este escenario, señaló que por instrucciones de la presidenta municipal Lorena García Cázares, se mantiene un seguimiento puntual de la evolución de los fenómenos meteorológicos, con especial atención a las condiciones que pudieran representar algún riesgo para la población. Explicó que durante esta temporada las masas de aire frío provenientes de Canadá y Estados Unidos, al interactuar con humedad, pueden generar condiciones para la presencia de lluvias, fuertes vientos, tormentas eléctricas e incluso tormentas invernales en algunas regiones del país. Asimismo, se prevé que durante los próximos días continúe el descenso de temperaturas en regiones del norte y centro de México, debido a la interacción de sistemas frontales con zonas de baja presión y canales de humedad. Por ello, Protección Civil Municipal recomienda a la población vestirse en capas y cubrir adecuadamente rostro, cabeza, manos y oídos; consumir alimentos nutritivos y bebidas calientes; además de cubrir nariz y boca al salir de lugares templados, con el propósito de reducir los efectos de los cambios bruscos de temperatura. Finalmente, el funcionario exhortó a las familias a mantenerse atentas a los comunicados oficiales y evitar difundir información no confirmada, recordando que la prevención comienza en casa y que mantenerse informados permite tomar mejores decisiones ante cualquier eventualidad.</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Ayuntamiento</Dependencia>
+		<Organismo>Ayuntamiento</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Prevención De Riesgos</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Tulancingo</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Tras dos días de fuertes lluvias en buena parte del Estado de Hidalgo, lo que derivó que se estableciera semáforo rojo sobre todo para el norte de la entidad, a partir del miércoles 7 de octubre se activó el semáforo amarillo. La Subsecretaría de Protección Civil y Gestión de Riesgos estatal estableció bajar la alerta, al bajar la cantidad de descargas pluviales, así como de vientos que le acompañan. Sin embargo, aún existe presencia de encharcamientos, escurrimientos e incremento en los niveles de ríos y arroyos, además de favorecer deslaves y derrumbes en zonas susceptibles. Debido a la humedad acumulada en el terreno por las lluvias de los últimos días, las autoridades mantienen el llamado a la población a mantener las medidas preventivas, especialmente en zonas de ladera, cauces y caminos que han presentado afectaciones. Se pidió a la población a mantenerse alerta, consultar los canales oficiales y atender las indicaciones de Protección Civil, además de tener sus documentos a la mano, protegidos y listos para transporta. Así como ubicar los puntos de reunión y refugios temporales indicados por las autoridades. 169 escuelas públicas privadas de educación básica en Hidalgo suspendieron clases presenciales el día de ayer mi La subsecretaría de educación básica y de la Secretar de Educación Pública de Hidalgo reportó que las 169 escuelas activaron las clases a distancia como medida preventiva cifra que redujo en comparación con los 177 planteles que se suspendieron actividades el día martes 6 de octubre. Se mantuvo el semáforo rojo por las lluvias. Entre las escuelas con suspensión se encuentran 10 planteles de educación inicial y preescolar indígena, 53 de preescolar general, además de 64 primarias, 40 secundarias y dos secundarias generales, donde los alumnos continúan con actividades en línea. La SEP Hidalgo informó que continúa pendiente de la evolución de las condiciones climáticas y en comunicación permanente con las autoridades escolares con el fin de priorizar la seguridad y el bienestar de estudiantes, docentes y personal educativo. algunos municipios donde se suspendieron clases fueron en Molango, Tlanchinol, Mestitlán, Lolotla, Tepehuacán de Guerrero, Juárez, Juárez Hidalgo, Tlahuiltepa, Molango, Xochicuatlán y Calnali.</Titular>
+		<Autor>Jessenia Romero</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>PC</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Alerta Meteorológica</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>N/A</Municipio>
+		<Contenido>Y abundamos, y es precisamente de los detalles, tanto de este semáforo amarillo que tenemos en este momento en cuestión climatológica y algunas acciones que se tomaron para evitar emergencias, como por ejemplo la suspensión de clases en varios planteles en zonas donde llovió de manera importante desde el domingo por la tarde. Así es Daniel, tras dos días de fuertes lluvias en buena parte del estado de Hidalgo Darles a conocer que esto derivó a que se estableciera un semáforo rojo Sobre todo para el norte de la entidad A partir del miércoles 7 de octubre se activó ya el semáforo amarillo La subsecretaría de protección y gestión de riesgos estatal estableció bajar la alerta Al bajar la cantidad de descargas pluviales así como vientos que lo acompañan Sin embargo, aún existe presencia de encharcamientos, escurrimientos e incremento en los niveles de ríos y arroyos, además de favorecer deslaves y derrumbes en zonas susceptibles debido a la humedad acumulada en el terreno por las lluvias de los últimos días. Las autoridades mantienen el llamado a la población a mantener las medidas preventivas, especialmente en zonas de ladera, cauces y caminos que han presentado afectaciones. Se pidió también a la población que se mantenga alerta, que consulte los canales oficiales, que atienda las indicaciones de protección civil, además de mantener sus documentos a la mano protegidos y listos para transportar, ubicar puntos de reunión, refugios temporales indicados por las autoridades. y debido a las condiciones meteorológicas registradas en el territorio estatal, 169 escuelas públicas privadas de educación básica en Hidalgo suspendieron clases presenciales el día de ayer mi La subsecretaría de educación básica y de la Secretar de Educación Pública de Hidalgo reportó que las 169 escuelas activaron las clases a distancia como medida preventiva cifra que redujo en comparación con los 177 planteles que se suspendieron actividades el día martes 6 de octubre. Se mantuvo el semáforo rojo por las lluvias. Entre las escuelas con suspensión se encuentran 10 planteles de educación inicial y preescolar indígena, 53 de preescolar general, además de 64 primarias, 40 secundarias y dos secundarias generales, donde los alumnos continúan con actividades en línea. La SEP Hidalgo informó que continúa pendiente de la evolución de las condiciones climáticas y en comunicación permanente con las autoridades escolares con el fin de priorizar la seguridad y el bienestar de estudiantes, docentes y personal educativo. algunos municipios donde se suspendieron clases fueron en Molango, Tlanchinol, Mestitlán, Lolotla, Tepehuacán de Guerrero, Juárez, Juárez Hidalgo, Tlahuiltepa, Molango, Xochicuatlán y Calnali. Bueno, va a seguir lloviendo, de hecho amanece nublado en el Valle Tulancingo, lo que significa que en las zonas serranas todavía es más complejo el asunto. Reiteramos lo que comentaste al inicio de este espacio, Yes. Precaución, precaución y más precaución. Así es, tener mucha precaución y lo hemos dicho también a lo largo de estos días Por favor, estar muy pendientes y atentos de los canales oficiales y seguir indicaciones de protección civil</Contenido>
+		<Liga>https://drive.google.com/file/d/14QakCpryQ0hxhheLXP4LS1IX3oo_Mf7k/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>184</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Dependencias_mencionadas>SEPH</Dependencias_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Inspectores del Sistema de Transporte Masivo de Hidalgo (Sitmah), fueron agredidos por un automovilista particular, quien luego de insultarlos verbalmente, les arrojó un líquido caliente. La situación se registró la mañana del miércoles 7 de octubre al exterior de la estación San Antonio, en sentido sur. El hecho sucedió mientras el personal del organismo realizaba labores de supervisión y vigilancia, durante las cuales se intervino a una persona motociclista por hacer uso indebido del carril confinado. Mientras se desarrollaba esta intervención, una persona totalmente ajena al asunto a bordo de un vehículo particular que circulaba por los carriles centrales se aproximó al lugar y agredió de manera física y verbal a personal del Sitmah. Ante esta situación, uno de los inspectores realizó una intervención para contener la agresión por parte del automovilista. Posteriormente, la persona señalada como agresora se retiró del lugar, pero regresó para arrojar líquido hirviente en contra del personal de inspección. Derivado de estos hechos, se procedió el inicio de una carpeta de investigación ante la autoridad competente, a fin de que se determine la posible responsabilidad de la persona involucrada conforme a derecho. Hasta el momento no se ha dado a conocer el estado de salud de los inspectores agredidos; tampoco se conoce de alguna persona detenida, como responsable de la situación.</Titular>
+		<Autor>Jessenia Romero</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Semot</Dependencia>
+		<Organismo>Sitmah</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Agresión a servidor público</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Pachuca</Municipio>
+		<Contenido>Lo que ocurrió el día de ayer sobre Boulevard Felipe Ángeles, esto alguien por alguna razón que no conocemos, pero que no se justifica de ninguna forma, ninguna manera de violencia, agrede a personal del sistema integral de transporte masivo allá en la capital del estado. ¿Qué es lo que ocurrió? ¿En qué va el asunto? Si hay personas detenidas, ¿qué es lo que pasó en ese sentido? Gracias. hacer uso indebido del carril confinado. Mientras se desarrollaba esta intervención, una persona totalmente ajena al asunto, a bordo de un vehículo particular que circulaba por los carriles centrales se aproximó al lugar y agredió de manera f y verbal a personal del SITMAH Ante esta situación uno de los inspectores realizó una intervención para contener la agresión por parte del automovilista Posteriormente la persona se como agresora se retiró del lugar pero regresó para arrojar líquido hirviente en contra del personal de inspección. Hazme el favor. Sí, derivado de estos hechos, se procedió el inicio de una carpeta de investigación ante la autoridad competente a fin de que se determine la posible responsabilidad de la persona involucrada conforme a derecho. Hasta el momento no se ha dado a conocer el estado de salud del bebido, tampoco se conoce si hubo alguna detención como resplatención este hecho de violencia. Y esa es otra de las cuestiones que no se pueden normalizar, y lo digo en el sentido de que... En ocasiones, sea en este caso los inspectores... ...segures, corres al medientes y por lo que se narra o por lo que se sabe, esta persona era totalmente ajena a la situación que se estaba viviendo en esos momentos, entonces por eso todavía llama muchísimo más la atención.</Contenido>
+		<Liga>https://drive.google.com/file/d/1Uj3wtsBtuo5BrZcp0UhmUv6Ao6AeAIAt/view?usp=drivesdk</Liga>
+		<Duracion>Sí</Duracion>
+		<Medida_de_tiempo>145</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Medio_de_origen>Ultra Noticias</Medio_de_origen>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>61 niñas, niños y adolescentes han encontrado un nuevo hogar durante la actual administración del Sistema DIF Hidalgo, sumados tres menores de edad más, quienes fueron integrados a sus nuevas familias en ceremonia realizada el pasado 1 de octubre. La presidenta del Patronato del organismo asistencial estatal, Edda Vite Ramos, informó que actualmente el DIF Hidalgo tiene a 16 adolescentes susceptibles de adopción. Sin embargo, no hay familias interesadas en incluirlas a sus hogares, debido a que presentan alguna condición de discapacidad física, motriz o intelectual leve. “Generalmente han estado al cuidado del Sistema DIF Hidalgo a lo largo de su vida, principalmente porque no encontramos familias que tengan la disposición o la apertura de incorporar a su núcleo familiar a un niño o niña con estas características”. Entre los niños que en esta ocasión se integraron a sus nuevas familias bajo el programa denominado “Puente de Amor”, se encuentra Elías Gabriel, de dos años y dos meses, quien encontró un hogar después de dos años de espera y procedimientos. Él pequeño, quien tiene acondroplasia, un trastorno genético que afecta el crecimiento óseo; fue recibido con cariño por su padre, Elías, y su madre, Juana Elena. La titular de la Procuraduría de Protección de Niñas, Niños, Adolescentes y la Familia del Sistema DIF Hidalgo, Laura Karina Ramírez Jiménez, explicó que el proceso certificado para determinar la viabilidad de las familias solicitantes tiene una duración desde seis meses, siempre que cumplan con los requisitos establecidos por la ley. Entre los procedimientos se encuentran las valoraciones psicométricas y socioeconómicas, así como la integración de los documentos que deben presentarse ante el juzgado para acreditar que las personas solicitantes cuentan con las condiciones necesarias para adoptar. “La espera radica principalmente en encontrar las habilidades en la familia de acuerdo con las necesidades en particular que tienen las niñas y niños susceptibles de adopción”. Entre los principales factores que pueden determinar que una solicitud no sea viable se encuentran los duelos no resueltos, los problemas de violencia o los conflictos en la pareja, así como los casos en los que las personas buscan resolver expectativas personales mediante la adopción. “Lo que buscamos en la adopción es restituir el derecho de niñas y niños a vivir en familia, y buscamos aquellas familias que auténticamente quieran ejercer una paternidad y maternidad responsables respecto de niñas y niños que tienen derecho a vivir en familia”, señaló la funcionaria.</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>DIFH</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Adopción De Menores</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Pachuca</Municipio>
+		<Contenido>Son 61 niños, niñas y adolescentes quienes han encontrado un nuevo hogar durante la actual administración del sistema DIFIDALGO, sumados tres menores de edad más, que fueron integrados a sus nuevas familias justamente la semana pasada, el jueves 1 de octubre. La presidenta del Patronato del Sistema DIF Hidalgo, Estatal, Eda Víte Ramos, informó que actualmente el DIFIDALGO tiene a 16 adolescentes que son susceptibles de adopción. Sin embargo, no hay familias interesadas en incluirlas en sus hogares debido a que presentan alguna condición de discapacidad física motriz o intelectual leve. Víctor Ramos lo ha dicho en muchísimas ocasiones. La primera vez que su servidor tuvo ocasión de platicar con la señora Víctor Ramos fue en noviembre del 2022. Y fue en práctica desde el primer momento que tomó las riendas del patronato del Sistema de Hidalgo. las niñas y los niños luego nos los piden incluso con determinadas características físicas físicas a ver, esto no es el catálogo eso ya se ha agregado en su servidor esto no es el catálogo de niñas y niños guapetones esto es un compromiso social que se tiene hacia quien requiere un nuevo hogar, un nuevo espacio y recordando también por parte de la se V Ramos que requieren de mucha atención de mucho espacio emocional por las situaciones de las que provienen en muchas muchas ocasiones Han estado las y los adolescentes que están en espera de tener un nuevo hogar, han estado al cuidado del sistema DIF Hidalgo a lo largo de su vida, principalmente porque no encontramos familias que tengan la disposición o la apertura de incorporar a su núcleo familiar a un niño o una niña con estas características. Entre los niños que en esta ocasión se integraron a sus nuevas familias bajo el programa denominado Puente de Amor, se encuentra Elías Gabriel de dos años y dos meses, quien encontró un hogar después de dos años de espera y procedimientos. El pequeño, quien tiene acondroplasia, un trastorno genético que afecta el crecimiento óseo, fue recibido con cariño por su padre Elías y su madre Juan Elena. Ya son mamá y papá, y así se les tiene que denominar. Por su parte, la titular de la Procuraduría de Protección de Niños, Niñas y Adolescentes y la Familia del Sistema Difícil, Laura Carina Ramírez Jiménez, explicó que el proceso es certificado para determinar la viabilidad de las familias solicitadas. Al respecto, la sub procuradora señala que la espera radica principalmente en encontrar las habilidades en la familia de acuerdo con las necesidades en particular que tienen las niñas y niños susceptibles de adopción. entre los principales factores que pueden determinar que una solicitud no sea viable se encuentran los emociones.</Contenido>
+		<Liga>https://drive.google.com/file/d/1xa4q8JXmCdzW4--T9S_ZmWD1113KULm3/view?usp=drivesdk</Liga>
+		<Duracion>Sí</Duracion>
+		<Medida_de_tiempo>169</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Medio_de_origen>Ultra Noticias</Medio_de_origen>
+		<Personas_mencionadas>Edda Vite</Personas_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Dos de cada diez casos de violencia vicaria registrados en la región Tulancingo son atendidos por la Instancia Municipal de las Mujeres, ofreciendo apoyo sicológico, así como asesoría jurídica. Abigail de la Cruz Morales, titular del espacio de atención social, recordó que se considera violencia vicaria cuando niñas, niños o adolescentes son utilizados como medio para provocar daño a la madre. Ello se presenta desde amenazas relacionadas con los hijos hasta la obstaculización de la convivencia, la retención o sustracción de menores y la manipulación para generar rechazo hacia la madre. En ocasiones, no es tan evidente la violencia vicaria, como en los casos donde se utiliza a los hijos para obtener información sobre la madre o involucrarlos en los conflictos entre los progenitores. También puede ocurrir que se hace participar a los hijos en procesos o situaciones familiares y legales como mecanismos de presión. De la Cruz Morales señaló que estas situaciones requieren de apoyo sicológico tanto para hijas e hijos involucrados, como para las madres de estos. Luego de realizar la estabilización emocional, se otorga asesoría jurídica en los casos que la madre acepte, y de acuerdo al conflicto que deba enfrentar, con acompañamiento en todos los casos. Los servicios que otorga la Instancia Municipal de la Mujer, como los señalados y otros más que otorgan, son de forma completamente gratuita. La funcionaria municipal reconoció que este tipo de casos son complicados que sean denunciados por la madre afectada, por lo que señaló que es fundamental que exista una red de apoyo, conformada por amigos, vecinos o familiares cercanos. A través de ellos se puede lograr la canalización de la mujer a atender, así como dar seguimiento a las etapas de acompañamiento y atención. La oficina de la Instancia Municipal de las Mujeres se encuentra en calle Tolteca esquina Azteca, en la colonia Guadalupe.</Titular>
+		<Autor>Jessenia Romero</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Ayuntamiento</Dependencia>
+		<Organismo>Ayuntamiento</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Violencia Vicaria</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Tulancingo</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Hidalgo alcanza 93.26% de efectividad en localización de personas</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>Segobh</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Búsqueda de personas</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Pachuca</Municipio>
+		<Duracion>Sí</Duracion>
+		<Medio_de_origen>Comunicado gubernamental</Medio_de_origen>
+		<Personas_mencionadas>José Francisco García Reyes</Personas_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>SSPH desmantela punto presuntamente utilizado para la venta y distribución de narcóticos en Tlaxcoapan</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>SSPH</Dependencia>
+		<Organismo>SSPH</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Combate Al Narcomenudeo</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Tlaxcoapan</Municipio>
+		<Duracion>Sí</Duracion>
+		<Medio_de_origen>Comunicado gubernamental</Medio_de_origen>
+		<Personas_mencionadas>Salvador Cruz Neri</Personas_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Elementos de la Secretaría de Seguridad Pública de Pachuca intervinieron ante un reporte ciudadano relacionado con la posible comercialización de sustancias ilícitas en inmediaciones de una tienda ubicada en la calle Gómez Farías, en el barrio de Santiago y Arizpe, colonia La Surtidora. Durante recorridos de vigilancia sobre la calle Bartolomé de Medina, un ciudadano informó a los agentes sobre la presencia de una persona que presuntamente ofrecía pequeñas dosis de una sustancia. En atención al reporte, los elementos se trasladaron al sitio, donde localizaron a un hombre cuyas características coincidían con las proporcionadas. Al realizar una inspección preventiva, le fue localizada en una cartera de color café, que llevaba en la bolsa frontal izquierda de su pantalón, ocho bolsas tipo ziploc transparentes que contenían un material blanco granulado, con un peso aproximado de 5.66 gramos. El hombre fue detenido y puesto a disposición del Ministerio Público de la Procuraduría General de Justicia del Estado de Hidalgo, junto con el material asegurado, para las investigaciones correspondientes y el deslinde de responsabilidades.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Ayuntamiento</Dependencia>
+		<Organismo>Policía municipal</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Combate Al Narcomenudeo</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>La SIPDUS informa sobre las siguientes acciones realizadas en las últimas horas, a fin de retirar material de derrumbes y habilitar la circulación en caminos y carreteras que resultaron afectadas a causa de las recientes lluvias.</Titular>
+		<Autor>Aldo Falcón</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Sipdus</Dependencia>
+		<Organismo>Sipdus</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Atención Afectaciones Por Lluvias</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>N/A</Municipio>
+		<Duracion>Sí</Duracion>
+		<Medio_de_origen>Comunicado gubernamental</Medio_de_origen>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Como parte de la estrategia de cercanía impulsada por el presidente municipal Jorge Reyes, el Gobierno de Pachuca llevó la jornada Colonia x Colonia al fraccionamiento Bugambilias, donde se realizaron 564 acciones en beneficio de las y los vecinos. En estas jornadas, la ciudadanía puede encontrar en su propia colonia personal de las distintas áreas del Ayuntamiento, realizar trámites, plantear solicitudes y recibir orientación sobre los servicios municipales, sin necesidad de trasladarse hasta las oficinas. La presencia de las dependencias en Bugambilias permitió que las familias expusieran inquietudes relacionadas con su entorno y conocieran de primera mano las alternativas y procedimientos disponibles para resolver distintos planteamientos. “Queremos que las familias sepan que el Ayuntamiento está cerca y que pueden encontrar en su propia colonia a las áreas que pueden ayudarles a resolver sus necesidades”, señaló Jorge Reyes. La estrategia Colonia x Colonia continuará en diferentes puntos de Pachuca, con el propósito de mantener una presencia constante del Ayuntamiento en la ciudad.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Ayuntamiento</Dependencia>
+		<Organismo>Alcalde</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Atención Ciudadana</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Invierten 20.4 mdp a nuevo Bachillerato Nacional en Tezontepec de Aldama</Titular>
+		<Autor>Aldo Falcón</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>SEPH</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Bachillerato Nacional</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Tezontepec de Aldama</Municipio>
+		<Duracion>No</Duracion>
+		<Medio_de_origen>Comunicado gubernamental</Medio_de_origen>
+		<Personas_mencionadas>Natividad Castrejón</Personas_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Ayer los diputados de la LXVI Legislatura del Congreso, en uso de sus facultades, la Junta de Gobierno y como parte de los ejercicios de análisis y rendición de cuentas, bueno pues, acordaron la comparecencia del titular de la Oficialía Mayor del Gobierno del Estado, Edgar Orlando Ángeles Pérez, quien acudirá ante ese pleno el próximo 22 de octubre a las 4 de la tarde, con el objetivo de abonar, de impulsar, de enraizar la cultura de la transparencia. En las comparecencias anteriores, no solamente del gobernador Julio Menchaca sino de todas las que se llevaron anteriormente, los oficiales mayores no comparecían. El propósito de este llamado, de esta invitación a al oficial mayor es abonar a la transparencia y explicarle a los diputados y por supuesto a todos los hidalguenses cómo, cuándo y en qué, pero también por qué se gasta el dinero público.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Congreso</Dependencia>
+		<Organismo>Junta de Gobierno</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>La madrugada de este día se presentó un incendio de un vehículo en la carretera Pachuca-Ciudad Sahagún, en su tramo correspondiente a Zempoala. Personal de Bomberos acudió al lugar, aparentemente este incidente esta conflagración se presentó por una falla mecánica, no se reportan personas lesionadas, solamente daños materiales.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Ayuntamiento</Dependencia>
+		<Organismo>Ayuntamiento</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Auxilio a la ciudadanía</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Zempoala</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>En Zempoala sigue el problema entre esta regidora, esta integrante del cabildo que fue separada de su cargo y el presidente municipal de Zempoala, Don Sinyué Ramírez. Este, la regidora pues sube videos, hace denuncias públicas. Ya le clausuraron su oficina, ya no la dejan entrar ni dejan que saque cosas. Bueno, la cosa se está poniendo muy complicada allá en Zempoala en términos de pues este quién tiene la razón y quién no la tiene. El asunto es que eh pues hay una crisis de, yo diría, credibilidad en el Ayuntamiento de Zempoala.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Ayuntamiento</Dependencia>
+		<Organismo>Alcalde</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Desavenencias</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Zempoala</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>El gobernador Julio Menchaca Salazar asistió a los festejos conmemorativos realizados en el Auditorio Nacional en la Ciudad de México. Comenta en sus redes: "La fuerza de la Cuarta Transformación en México y su gente en estos 15 años ha dejado su lucha por un país más justo. Seguimos trabajando sin descanso, siempre con el pueblo y para el pueblo". El gobernador se tomó una fotografía ahí tras bambalinas, tras backstage en el Auditorio Nacional con los gobernadores de Morena que asistieron de todo el país, que asistieron a este evento.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Gobernador</Dependencia>
+		<Organismo>Gobernador</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Conmemoración Aniversario</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>CDMX</Municipio>
+		<Duracion>No</Duracion>
+		<Personas_mencionadas>Julio Menchaca</Personas_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Mañana la presidenta Claudia Sheinbaum Pardo visitará el municipio de Metztitlán para supervisar la clínica del IMSS.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Presidencia</Dependencia>
+		<Organismo>Presidencia</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Visita Sheinbaum</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Metztitlán</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Hoy viene Martí Batres, Director General del ISSSTE para realizar una supervisión médica en la Unidad de Medicina Familiar de Actopan.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Presidencia</Dependencia>
+		<Organismo>Presidencia</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Reocorrido por instalaciones</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Actopan</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Se anunció que en próximos días se publicará la convocatoria para el registro de aspirantes a las coordinaciones municipales en Hidalgo. Entre los registros recientes a coordinaciones distritales se mencionaron al Dr. Norberto Martínez y Areli Beltrán por Ixmiquilpan.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Morena</Dependencia>
+		<Organismo>Morena</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Candidaturas</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Ixmiquilpan</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>En el Viaducto Río de las Avenidas de Pachuca, una persona se arrojó al vacío y fue impactada por un vehículo que transitaba en el paso a desnivel, falleciendo en el sitio. El túnel permaneció cerrado durante varias horas para los peritajes de la PGJH.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>SSH</Dependencia>
+		<Organismo>SSH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Suicidio</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Ayer el gobernador del estado de Hidalgo en sus redes sociales, sus condolencias, dice el gobernador Julio Menchaca Salazar: "Mis condolencias a mi amigo y compañero, el secretario Guillermo Olivares Reina, y a toda su familia por la lamentable partida de su hermano Cupertino Olivares Reina". Todos los trabajadores de Las Voces Radio nos unimos a este sentimiento, enviamos un abrazo muy cariñoso a nuestro jefe y amigo Guillermo Olivares Reina por esta situación y bueno pues, nos unimos a la pena que embarga a la familia Olivares Reina por esta situación, murió el señor Cuauhtémoc Olivares Reina, hermano del secretario de Gobierno de nuestro estado.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Gobernador</Dependencia>
+		<Organismo>Gobernador</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Condolencias</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Pachuca</Municipio>
+		<Duracion>No</Duracion>
+		<Personas_mencionadas>Julio Menchaca</Personas_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Las brigadas de empleados, trabajadores, los especialistas en estos temas pertenecientes al sistema de Protección Civil, a la Secretaría de Infraestructura, pues trabajan en las diferentes zonas para restablecer la comunicación en aquellas carreteras donde hubo deslizamiento de materiales, donde hubo derrumbes y bueno, pues prácticamente tenemos en este momento todas las carreteras ya libres, en algunas zonas hay el espacio está limitado, pero la circulación ya se restableció en todas las carreteras, en todas las vías que fueron afectadas.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Sipdus</Dependencia>
+		<Organismo>Sipdus</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Atención Afectaciones Por Lluvias</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>N/A</Municipio>
+		<Duracion>No</Duracion>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>La Subsecretaría de Protección Civil y el Gobierno del Estado mantienen monitoreo permanente en ríos, arroyos, presas y presas de gavión por el temporal de lluvias reciente. Se prevé que las precipitaciones continúen de manera más ligera en la mayor parte de la entidad.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>PC</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Prevención De Riesgos</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>N/A</Municipio>
+		<Duracion>No</Duracion>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>Durante la emisión, el especialista deportivo Gustavo Rosales, inició la sección informando sobre el lamentable fallecimiento de "El Búho", un réferi de 70 años en la Arena 11 de Julio de la capital hidalguense. La defunción ocurrió a causa de un martinete, un castigo prohibido por la comisión de box y lucha debido a su alto riesgo. La situación generó una intensa polémica, la clausura del recinto por falta de permisos y la detención del luchador involucrado (hijo de Fishman) mientras avanzan las investigaciones correspondientes.</Titular>
+		<Autor>Juan Carlos Santamaría</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>PGJEH</Dependencia>
+		<Organismo>PGJEH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Homicidios</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Mineral de la Reforma</Municipio>
+		<Contenido>Tengo el gusto ya de recibir en esta cabina a nuestro especialista en materia deportiva, Gustavo Rosales. Gustavo, muy buen día. ¿Y qué te parece si empezamos con las malas para que luego nos reconforten un poco las buenas noticias en materia deportiva? Buenas noticias las hay en ciclismo, en clavados, en fútbol incluso. Platícanos, por favor, muy buen día. ¿Qué tal, Juan Carlos? ¿Cómo estás? Muy buenos días, amigos de Enlace Hidalgo, instalados el día de hoy ya en la información deportiva. Y como ya lo has dicho y como se adelantaba al inicio de nuestro enlace noticioso, bueno, pues platicar de lo que sucedió allá en la arena 11 de julio, específicamente aquí en la capital hidalguense, en donde lamentablemente falleció este referee, el búho de 70 años, una persona ya de la tercera edad que todavía se dedicaba a estar sobre el pancrasio. y hay una polémica muy importante porque la defunción fue originada por un martinete aplicado por el hijo de Fishman. Es un castigo que está prohibido por la Comisión de Vox y Lucha, y tener aquí en cuenta que este castigo no se debe llevar a cabo, est prohibido por la situaci en la que el cerebro golpea directamente contra el encordado golpea directamente contra el ring Es un castigo de verdad bastante fuerte que en apariencia no se ve tan llamativo tan aparatoso pero en esta ocasi bueno pues le tocó a este referee, en donde ya ha salido alguna usuaria, hace unos minutos ha subido su testimonio a redes sociales, y ha dicho que el hijo de Fishman no lo ha hecho con ninguna intención, pues obviamente no lo hace con ninguna intención, sin embargo, ahí esta situación quedará para la investigación, ya ha sido detenido y ha sido consignado a las autoridades este luchador profesional y justamente también ya se ha aclausurado este gimnasio, esta arena de lucha libre por parte de las autoridades correspondientes debido a que no contaba con la autorización para llevar a cabo este evento y ellos argumentan que por lo menos 15 días antes se tiene que tramitar este permiso y bueno, pues ahora se viene un largo proceso en donde se deben deslindar responsabilidades, se debe determinar qué fue lo que pasó. Hay videos ya en redes sociales en donde se determinará y servirá justamente como prueba para ver si queda esta situación ahí como homicidio imputado al hijo de Fishman. Entonces, bueno, pues una polémica importante y saber que también la lucha libre tiene límites y uno de estos límites es justamente este castigo, Juan Carlos. Así es, es parte de la preparación que tienen para poner justamente esos límites. Es lamentable la situación.</Contenido>
+		<Liga>https://drive.google.com/file/d/1fqgexSxeHvAeLbFjKGNDJyW0dQgbWgk0/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>166</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>Locutor Jesús Riveros da lectura a comentario de radioescucha que señala: "Buenas tardes, ¿por qué diario hay reportes de las colectivas y las autoridades no hacen nada?" Por lo mismo, mire, aquí el reporte, sí, es obviamente que se canalizan, pero es más importante que usted también, que usted también la haga a través de las líneas que le estoy compartiendo. Es bien importante que lo haga, eh, a la Secretaría de Movilidad y Transporte. Recuerde que, en alguna ocasión, solo lo compartimos a a a, perdón, entrevistamos a la titular de la Secretaría de Movilidad y Transporte, quien nos decía que no quede nada más en un reporte, digamos, al aire, sino que también se tiene que hacer de manera, de manera oficial al 800 503 2002, 800 503 2002 o bien al 771 526 1284, 771 526 1284.</Titular>
+		<Autor>Radioescucha</Autor>
+		<Programa>Enlace Hidalgo2</Programa>
+		<Dependencia>Semot</Dependencia>
+		<Organismo>STCH</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Queja transporte público</Tema>
+		<Estatus>Negativo</Estatus>
+		<Municipio>Tulancingo</Municipio>
+		<Contenido>Por acá nos dicen buenas tardes, porque diario hay reportes de las colectivas y las autoridades no hacen nada. Por lo mismo, mire, aquí el reporte, sí, es obviamente que se canalizan, pero es más importante que usted también, que usted también la haga a través de las líneas que le estoy compartiendo. Es bien importante que lo haga a la Secretaría de Movilidad y Transporte. y recuerde que en alguna ocasión se lo compartimos a, perdón, entrevistamos a la titular de la Secretaría de Movilidad y Transporte, quien nos decía que no quede nada más en un reporte, digamos, al aire, sino que también se tiene que hacer de manera oficial, al 800-503-2002, 800-503-2002, o bien al 771-526-1284.</Contenido>
+		<Liga>https://drive.google.com/file/d/1Rk-_IcngIIdgGXbLjCnlLvpwXuo2aA6R/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>59</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>Locutor Jesús Riveros da lectura a comentario de radioescucha, que emite una queja ciudadana acompañada de una fotografía en la que se observa a una unidad colectiva de la ruta San José pasarse la luz roja del semáforo sobre la carretera México-Tuxpan. El locutor señaló que esta situación es frecuente en la bajada de San José, provocando accidentes viales que llegan a reportarse al menos una vez al día.</Titular>
+		<Autor>Radioescucha</Autor>
+		<Programa>Enlace Hidalgo2</Programa>
+		<Dependencia>Semot</Dependencia>
+		<Organismo>STCH</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Queja transporte público</Tema>
+		<Estatus>Negativo</Estatus>
+		<Municipio>Tulancingo</Municipio>
+		<Contenido>Nos envían una fotografía de una colectiva, nos dice por acá: "Urge que capaciten a los chóferes, ruta de San José, de cada 10 que circulan en la México-Tuxpan, prácticamente todos se pasan el alto". Y sí, justamente me están compartiendo esta imagen, es una colectiva de esta ruta, de la ruta de San José, pasándose el alto, y pues sí, por luego por ello se ocasionan los los accidentes, y más en esta en esta bajada de San José, que vaya como como suceden los accidentes. Eh, prácticamente, por lo menos uno a diario, eh, uno a diario se se reporta en esta vialidad.</Contenido>
+		<Liga>https://drive.google.com/file/d/1Vztra_2VGJQbao-8IOY1rsuwKNRd0YVm/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>44</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>El municipio de Tulancingo recuperó un espacio en el parque Nicolás Bravo para establecer un nuevo punto de encuentro cívico y cultural, donde se izará una nueva asta bandera a partir del próximo 19 de octubre. La ceremonia inaugural iniciará a las 9:00 horas con la participación de la Secretaría de la Defensa Nacional, la telesecundaria Nicolás Bravo y el ensamble veranda. De acuerdo con Guadalupe Rodríguez Uribe, secretaria de Cultura, Educación, Deporte y Juventud, se espera la asistencia de unas 300 personas como parte de las acciones para fortalecer la identidad y la memoria colectiva en el municipio.</Titular>
+		<Autor>Jesús Riveros</Autor>
+		<Programa>Enlace Hidalgo2</Programa>
+		<Dependencia>Ayuntamiento</Dependencia>
+		<Organismo>Ayuntamiento</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Tulancingo</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>Jesús Riveros envió sus más sinceras condolencias al licenciado Guillermo Olivares Reyna y a la maestra Teresa Olivares Reyna por el sensible fallecimiento de su hermano, don Cupertino Olivares Reyna. El mensaje de solidaridad y apoyo fue externado a nombre de la familia Wong Martínez y del medio NQ La Radio Sin Límites.</Titular>
+		<Autor>Jesús Riveros</Autor>
+		<Programa>Enlace Hidalgo2</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Condolencias</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>N/A</Municipio>
+		<Contenido>Déjame aprovechar esta oportunidad para para enviar nuestras nuestras sinceras condolencias a al licenciado Guillermo Olivares Reyna y la maestra Teresa Olivares Reyna, ante el sensible fallecimiento de su hermano, don Cupertino Olivares Reyna. Descanse en paz. Estas estas condolencias que por supuesto externamos a nombre, a nombre de todo el del del NQ, perdón, la Radio Sin Límites, la familia Wong Martínez. Lamentamos profundamente la pérdida de don Compertino Olivares Reyna y pues nos unimos con respeto y solidaridad al dolor que embarga a su familia y seres queridos en estos momentos tan difíciles, que que su familia, que su memoria y su legado permanezcan siempre en el corazón de quienes los conocieron. Descanse en paz. De parte, le insisto, de la familia Wong Martínez y NQ La Radio La Radio Sin Límites.</Contenido>
+		<Liga>https://drive.google.com/file/d/1vhCJ9mGfEY0gzBi_kNRmpYF0fueZ_xe4/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>61</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>La Secretaría de Seguridad Pública de Hidalgo, en coordinación con la Procuraduría General de Justicia y la Secretaría de la Defensa Nacional, llevó a cabo operativos en Pachuca y Huasca (en la colonia El Jilotillo y La Palma), logrando el aseguramiento de un total de 3,790 dosis de sustancias ilícitas (entre cristal, marihuana y pastillas), además de equipo de pesaje, comunicaciones y una motocicleta sin placas. Como resultado de estas acciones contra la venta y distribución de droga, tres personas fueron detenidas y puestas a disposición de la autoridad competente.</Titular>
+		<Autor>Jesús Riveros</Autor>
+		<Programa>Enlace Hidalgo2</Programa>
+		<Dependencia>SSPH</Dependencia>
+		<Organismo>SSPH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Combate Al Narcomenudeo</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>N/A</Municipio>
+		<Contenido>representa la mayor parte del total reportado en ambos municipios, es decir, 2,293 dosis, si se suman las porciones de hierba, las de la sustancia granulada y las tres pastillas localizadas en La Palma. En la colonia El Jilotillo, esto hablando en Huasca, los elementos aseguraron 97 dosis de sustancias con características similares al cristal y 1,400 dosis de hierba seca con características similares a la marihuana. En el mismo predio, encontraron una báscula de precisión, recipientes para dosificar, un teléfono celular y una motocicleta que tampoco tenía placas. Las sumas de la suma, perdón, de todas estas sustancias localizadas en Huasca fue de 1,497 dosis y pues sumadas ahora sí a las 2,293 reportadas en Pachuca, se obtiene un total de 3,790 dosis de sustancias ilícitas, según informa la Secretaría de Seguridad Pública del Estado de Hidalgo. Las intervenciones se llevaron a cabo en coordinación con la Procuraduría General de Justicia y la Secretaría de la Defensa Nacional; las tres personas detenidas y los indicios quedaron a disposición de la autoridad competente, que pues obviamente dará seguimiento a las investigaciones. También la Secretaría de Seguridad Pública de Hidalgo señaló que los operativos forman parte de acciones de inteligencia y coordinación contra la venta y distribución de droga. Así el tema aquí en el estado de Hidalgo.</Contenido>
+		<Liga>https://drive.google.com/file/d/1A5x91xhYTB11DTQabCnVT-lD3ovOdn3Z/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>99</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Dependencias_mencionadas>Procuraduría General de Justicia</Dependencias_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ke Buena 106.7 FM</Radiodifusora>
+		<Titular>Invierten 20.4 mdp a nuevo Bachillerato Nacional en Tezontepec de Aldama</Titular>
+		<Autor>David Cárdenas</Autor>
+		<Programa>Noticias 106.7</Programa>
+		<Dependencia>SEPH</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Bachillerato Nacional</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Tezontepec de Aldama</Municipio>
+		<Contenido>Como parte de las acciones para fortalecer y ampliar la cobertura educativa en Hidalgo, el secretario de Educación Pública del Estado, Natividad Castrejón Valdez, encabezó la colocación de la primera piedra del Bachillerato Nacional Margarita Maza en Tezontepec de Aldama, obra que contará con una inversión de 20.4 millones de pesos. Durante el acto, el titular de la Secretaría de Educación Pública de Hidalgo destacó que la educación media superior constituye un nivel decisivo dentro del sistema educativo, pues además de representar un derecho establecido en la Constitución, es una etapa fundamental en la que las y los jóvenes construyen su identidad, fortalecen su autonomía y amplían sus perspectivas para comprender y transformar su entorno. Por su parte, la presidenta municipal de Tezontepec de Aldama destacó que la construcción del bachillerato representa una oportunidad para las nuevas generaciones y refleja el compromiso de las instituciones con el derecho de cada estudiante a contar con mejores condiciones para construir el futuro. El nuevo plantel contará con dos niveles y tres aulas, además de sanitarios, áreas administrativas, aula de cómputo, taller de arte, cancha de usos múltiples y techado, así como infraestructura que permitirá generar condiciones adecuadas para el desarrollo académico, deportivo y cultural de las y los estudiantes.</Contenido>
+		<Liga>https://drive.google.com/file/d/1iKb9HB6GErcqXvfQB_MKJds8Zn1emKN-/view?usp=drivesdk</Liga>
+		<Duracion>Sí</Duracion>
+		<Medida_de_tiempo>97</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Medio_de_origen>Comunicado gubernamental</Medio_de_origen>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ke Buena 106.7 FM</Radiodifusora>
+		<Titular>Artesanas y artesanos del Valle del Mezquital suman nuevas técnicas a su trabajo.</Titular>
+		<Autor>David Cárdenas</Autor>
+		<Programa>Noticias 106.7</Programa>
+		<Dependencia>Bienestar</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Capacitación a artesanos</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Valle del Mezquital</Municipio>
+		<Contenido>A continuación, te presento el análisis de la transmisión de audio conforme a la estructura solicitada:Versión estenográficaArtesanas y artesanos del Valle del Mezquital suman nuevas técnicas a su trabajo. Las manos que durante años han dado forma a la fibra vegetal que forman parte de la riqueza cultural del Valle del Mezquital encontraron nuevas formas, nuevas maneras de trabajar. Durante 21 días, tres semanas, 30 artesanas y artesanos de Alfajayucan e Ixmiquilpan compartieron conocimientos, practicaron nuevas técnicas y han trabajado en el mejoramiento de sus piezas. Para el gobierno de Hidalgo, fortalecer el trabajo de las personas artesanas tiene y significa respaldar los conocimientos, las historias y las tradiciones que forman parte de la identidad de Hidalgo.   Esta acción fue impulsada por la Secretaría de Bienestar a través de la Dirección General de Fomento Artesanal con el propósito de proporcionar herramientas y nuevos conocimientos que ayuden a fortalecer el trabajo que realizan las comunidades. El curso, a cargo del artesano Jerónimo González —a quien le enviamos un saludo—, fue impartido en distintos puntos de Alfajayucan, la delegación de la comunidad de San Lucas, Guapilla, San Antonio Tixquiapan y la biblioteca ubicada en la cabecera municipal. Durante su visita a San Lucas, el secretario de esta secretaría destacó que la capacitación surgió gracias a solicitudes en Alfajayucan, donde una de las prioridades fue entregar directamente el recurso y que este se destinara a la capacitación.   Buscamos la manera de hacerlo de manera responsable, señaló el funcionario, cuyo propósito es mejorar las técnicas que artesanas y artesanos ya implementan en todo el tejido, pues no se trata de dejar atrás lo que ya se sabe hacer, sino de sumar nuevas técnicas a estos conocimientos que han pasado de una generación a otra. La capacitación forma parte de los apoyos económicos a personas artesanas para acceder a capacitación técnica impulsados por el gobierno del estado con el propósito de que las y los artesanos puedan fortalecer su trabajo, aprender nuevas formas de elaborar sus piezas y encontrar posibilidades para desarrollar su actividad y que formen parte del desarrollo económico.</Contenido>
+		<Liga>https://drive.google.com/file/d/1eV8SF5YgdBIr8w_PedsUc2cBc01wgRab/view?usp=drivesdk</Liga>
+		<Duracion>Sí</Duracion>
+		<Medida_de_tiempo>126</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Medio_de_origen>Comunicado gubernamental</Medio_de_origen>
+		<Dependencias_mencionadas>Gobierno de Hidalgo</Dependencias_mencionadas>
+		<Personas_mencionadas>Ricardo Gómez Moreno</Personas_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ke Buena 106.7 FM</Radiodifusora>
+		<Titular>Hidalgo alcanza 93.26 % de efectividad en localización de personas</Titular>
+		<Autor>David Cárdenas</Autor>
+		<Programa>Noticias 106.7</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>CBPEH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Ficha De Búsqueda</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Pachuca</Municipio>
+		<Contenido>Reportan 93.26% de efectividad en la localización de personas en Hidalgo durante 2026, le informo. El día de ayer se llevó a cabo una sesión en el barrio El Arbolito en Pachuca de Soto, Hidalgo, encabezada por el secretario de Gobierno y presidente del Sistema de Búsqueda de Personas para el Estado de Hidalgo, licenciado Guillermo Olivares Reyna. Con 346 personas localizadas de 371 reportes iniciados entre enero y septiembre del presente año, Hidalgo ha alcanzado una efectividad del 93.26% en la localización de personas, así lo informó la Comisión de Búsqueda de Personas del Estado de Hidalgo durante la tercera sesión ordinaria del Sistema de Búsqueda de Personas 2026. La sesión, encabezada por el secretario de Gobierno, destaca la importancia de mantener la participación activa de las instituciones y de la ciudadanía para optimizar los mecanismos de búsqueda y brindar respuesta oportuna, señaló el secretario de Gobierno del Estado de Hidalgo: es el trabajo en territorio lo que permite alcanzar resultados positivos y que las personas sepan que no están solas en su búsqueda, en sus problemas, sino que existe la respuesta inmediata acudiendo de manera directa y presencial en donde se encuentran estos problemas, darles solución es la meta, así lo expresó el secretario Guillermo Olivares Reyna.
+
+Guillermo Olivares Reyna: Por eso es de que estas sesiones de lo que es el sistema estatal de búsqueda de personas las llevamos a cabo con la gente, con la población. Y no podríamos estar en una oficina y ahí dar lugar a las opiniones de los integrantes del sistema y decir que bueno, hemos avanzado, hemos logrado buenos resultados. Tenemos en cuenta de que nos invitamos a sus pechos nosotros desde la comunidad de una oficina. Se trata que ustedes sepan a dónde acudir cuando se haga necesario. Y por eso es que estamos aquí con ustedes. Así que aquí por ustedes en su colonia les decimos, si nos necesitan, estamos para servirles. Ese es el mensaje de Julio Menchaca Salazar y de su servidor y amigo Guillermo Olivares Reyna, secretario de gobierno, que les hace llegar a ustedes un fuerte y caluroso abrazo.
+
+Locutor: En este a esta reunión en esos trabajos, José Francisco García Reyes presentó los resultados de la campaña "Que nadie falte", estrategia preventiva que busca alertar a las juventudes sobre los riesgos relacionados con el reclutamiento a través de redes sociales y videojuegos en línea para involucrarlos en actividades ilícitas. Este es un tema individual, es un tema familiar, es un tema social. Eh hemos comentado que es importante pues conocer las ligas que tienen los hijos, con quién chatean, cuáles son los términos, no no para supervisar, no para afectar su individualidad; tienen derecho, por supuesto, todas las personas, pero también a tener un seguimiento de cómo estamos usando las plataformas en casa y, por supuesto, los menores de edad. Los adolescentes, todos hemos tenido esta edad en donde nos atrae pues eh no el camino largo, sino los atajos. Cuando pensamos en estudiar para tener una carrera, dices, bueno, pues son tres años de secundaria, la preparatoria, otros tres, la carrera, y por otro lado están, diría yo, coloquialmente, el canto de las sirenas, eh atajos para poder alcanzar recursos, fama. Y esto atrae y a además, lo que prioritariamente conocemos en distintos medios, puede ser el cine, puede ser el libro, pero el tintinear de las campanas hace pensar a algún adolescente que es muy sencillo el poder acortar los caminos para lo que llaman, entre comillas, perdón, hecho. Eh los medios de comunicación tenemos una responsabilidad social y en esta, cuando tenemos esta información y viene sustentada en palabras de una autoridad, como la que estamos dando a conocer ahorita, la estrategia preventiva busca alertar a las juventudes sobre los riesgos relacionados con el reclutamiento a través de redes sociales y videojuegos en línea para involucrarlos en actividades ilícitas. La recomendación es que conozcamos con quién se chatean, cuáles son los términos y sobre todo cuáles son los llamados que en ocasiones hacen a los adolescentes para ser enganchados, perdón el término, para ser atraídos por eh personas que lo que buscan es sumarlos a la delincuencia. Durante los trabajos, José Francisco García Reyes presentó los resultados de esta campaña, también destacó que desde septiembre a la fecha esta campaña ha impactado directamente a 6718 personas mediante visitas a 11 planteles educativos y actividades de sensibilización dirigidas a estudiantes, docentes, madres y padres de familia, y hablando precisamente de la educación, las jornadas se han desarrollado en preparatorias y planteles del COBAE en el estado de Hidalgo con presencia en municipios como Actopan, Mineral del Monte, Singuilucan...</Contenido>
+		<Liga>https://drive.google.com/file/d/1OJob0_Zjav5UM2YbKijpLTr0bDDJQiz7/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>362</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Dependencias_mencionadas>COBAEH</Dependencias_mencionadas>
+		<Personas_mencionadas>Guillermo Olivares Reyna</Personas_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ke Buena 106.7 FM</Radiodifusora>
+		<Titular>El alumno Raúl Emiliano León García, del Colegio de Bachilleres del Estado de Hidalgo (Plantel Tizayuca), participará en la Paranacional CONADE 2026 representando al estado en Guadalajara, Jalisco, del 7 al 10 de octubre. El evento reúne a 2500 atletas juveniles de deporte adaptado en disciplinas como baloncesto en silla de ruedas, atletismo y natación, bajo la organización de la CONADE y la SEP. El director general de COBAE, Rubén López Valdés, reconoció la disciplina y el esfuerzo del estudiante.</Titular>
+		<Autor>David Cárdenas</Autor>
+		<Programa>Noticias 106.7</Programa>
+		<Dependencia>SEPH</Dependencia>
+		<Organismo>Media superior</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Paranacionales Conade</Tema>
+		<Estatus>Positivo</Estatus>
+		<Municipio>Jalisco</Municipio>
+		<Contenido>Vamos contigo, Alberto. Gracias. Un alumno del COBAE va a participar en la Paranacionales. El alumno Raúl Emiliano León García, perteneciente al Colegio de Bachilleres del Estado de Hidalgo, Plantel Tizayuca, participará en la Paranacional CONADE 2026, como parte de la delegación estatal que representará a nuestra entidad en dicha justa deportiva, que reunirá a 2500 atletas juveniles de deporte adaptado provenientes de diversos rincones del país. Dicho evento se realizará del 7 al 10 de octubre del presente año en la ciudad de Guadalajara, Jalisco. Es organizado por la Comisión Nacional de Cultura Física y Deporte en conjunto con la Secretaría de Educación Pública y diversos órganos estatales y federales, quienes convocaron a jóvenes deportistas de entre los 13 y 23 años que compitan en disciplinas de deporte adaptado como baloncesto en silla de ruedas, fútbol para débiles visuales, atletismo, ciclismo, danza deportiva, powerlifting, natación, tenis de mesa y triatlón en sus respectivas modalidades. Para el director general de COBAE, Rubén López Valdés, reconoce el esfuerzo y dedicación del joven bachiller, pues la superación personal es un procedimiento que requiere de disciplina y constancia, pero para Raúl representa un estilo de vida. Es recordarse diariamente que ciertas actividades que son cotidianas para la mayoría, para él conllevan un cierto nivel de reto, pero que debido a su actitud inquebrantable y el apoyo de familiares y amigos, ha logrado consolidarse como un miembro distinguido de nuestra comunidad educativa.</Contenido>
+		<Liga>https://drive.google.com/file/d/1dNZ0J8gUpQcFV2KSBBrytcLZ4wDfsRTi/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>89</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Personas_mencionadas>Rubén López Valdés</Personas_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ke Buena 106.7 FM</Radiodifusora>
+		<Titular>La Contraloría informó ayer que nace "Transparencia para el Pueblo de Hidalgo", al operar con 12 servidores públicos, Hidalgo da un paso a un nuevo modelo de fiscalización y acceso a la información con la creación del organismo desconcentrado Transferencia Transparencia para el Pueblo de Hidalgo, adscrito a la Secretaría de Contraloría, con una estructura inicial de 12 servidores públicos; la institución va a operar sin comisionados y con salarios homologados al Poder Ejecutivo, logrando un ahorro superior al 50% en el gasto corriente al aprovechar la infraestructura del complejo Hidalgo Honesto. El nuevo organismo tendrá la rectoría para dirigir y vigilar el cumplimiento de las disposiciones de transparencia, apoyándose directamente en las contralorías internas de municipios, dependencias y organismos autónomos. Este modelo de simplificación orgánica se fundamenta en la aprobación unánime emitida por el pleno del Congreso estatal sobre las nuevas leyes de transparencia y de protección de datos personales, alineado al estado de Hidalgo con la estrategia nacional de austeridad.</Titular>
+		<Autor>David Cárdenas</Autor>
+		<Programa>Noticias 106.7</Programa>
+		<Dependencia>Contraloría</Dependencia>
+		<Organismo>Contraloría</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Transparencia para el Pueblo</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>N/A</Municipio>
+		<Contenido>Continuamos con la información en el estado de Hidalgo. La Contraloría informó ayer que nace "Transparencia para el Pueblo de Hidalgo", al operar con 12 servidores públicos, Hidalgo da un paso a un nuevo modelo de fiscalización y acceso a la información con la creación del organismo desconcentrado Transferencia Transparencia para el Pueblo de Hidalgo, adscrito a la Secretaría de Contraloría, con una estructura inicial de 12 servidores públicos; la institución va a operar sin comisionados y con salarios homologados al Poder Ejecutivo, logrando un ahorro superior al 50% en el gasto corriente al aprovechar la infraestructura del complejo Hidalgo Honesto. El nuevo organismo tendrá la rectoría para dirigir y vigilar el cumplimiento de las disposiciones de transparencia, apoyándose directamente en las contralorías internas de municipios, dependencias y organismos autónomos. Este modelo de simplificación orgánica se fundamenta en la aprobación unánime emitida por el pleno del Congreso estatal sobre las nuevas leyes de transparencia y de protección de datos personales, alineado al estado de Hidalgo con la estrategia nacional de austeridad.</Contenido>
+		<Liga>https://drive.google.com/file/d/1ZbgkkX6NjwYIITkoZeEaQMnSYXJtczWD/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>69</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Ke Buena 106.7 FM</Radiodifusora>
+		<Titular>SSPH desmantela punto presuntamente utilizado para la venta y distribución de narcóticos en Tlaxcoapan</Titular>
+		<Autor>David Cárdenas</Autor>
+		<Programa>Noticias 106.7</Programa>
+		<Dependencia>SSPH</Dependencia>
+		<Organismo>SSPH</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Combate Al Narcomenudeo</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Tlaxcoapan</Municipio>
+		<Contenido>utilizado presuntamente para venta y distribución de narcóticos esto en Tezontepec. Fueron aseguradas dosis, centenas de dosis con características similares a droga, cuatro fusiles de asalto de alto calibre, tres armas cortas, chalecos balísticos. Elementos de la Secretaría de Seguridad Pública de Hidalgo desmantelaron este inmueble utilizado para la venta y distribución de narcóticos mediante un cateo realizado en la zona centro en Tezontepec. Durante las acciones se aseguraron, le reitero, cientos de dosis de sustancias con características similares a drogas, fusiles, armas cortas, chalecos. El operativo se realizó en coordinación con la Secretaría de la Defensa Nacional, la Procuraduría General de Justicia del Estado de Hidalgo como parte de la estrategia para combatir la distribución de narcóticos y fortalecer la seguridad en la región. Desde total de sustancias aseguradas, muchas de ellas corresponden a hierba verde, otras a sustancias granuladas, el armamento y todo fue puesto a disposición del Ministerio Público. La tarea diaria es llevar a cabo estas investigaciones, dar con los lugares, presentarlos al Ministerio Público</Contenido>
+		<Liga>https://drive.google.com/file/d/1IBYOh8_lsQWT42h2jVVwSqiELRjQRLWb/view?usp=drivesdk</Liga>
+		<Duracion>Sí</Duracion>
+		<Medida_de_tiempo>78</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Medio_de_origen>Comunicado gubernamental</Medio_de_origen>
+		<Dependencias_mencionadas>Procuraduría General de Justicia del Estado de Hidalgo</Dependencias_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>Las tradicionales comparsas del carnaval de Calnali llamarán la atención y formarán parte de la gran fiesta de cultura y arte en Guanajuato durante la 54ª edición del Festival Internacional Cervantino. Esta participación destaca con orgullo la trascendencia de la cultura hidalguense a nivel interestatal e internacional, comentó locutor Juan Carlos Santamaría, posterior a dar lectura al Boletín de Cultura.</Titular>
+		<Autor>Juan Carlos Santamaría</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>Cultura</Dependencia>
+		<Organismo>Cultura</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Carnavales</Tema>
+		<Estatus>Positivo</Estatus>
+		<Municipio>Guanajuato</Municipio>
+		<Contenido>Sin duda, pues que llamarán mucho la atención estas comparsas tradicionales del carnaval en Calnali y que, bueno, pues serán parte de este esta gran fiesta de la cultura y el arte que se celebra en Guanajuato, el Festival Internacional Cervantino, que ya llega a su 54ª edición e Hidalgo estará presente y es algo pues que nos nos llena de orgullo el hecho de saber que la cultura hidalguense trasciende, trasciende fronteras entre entidades y también, por supuesto, ha trascendido a nivel internacional.</Contenido>
+		<Liga>https://drive.google.com/file/d/1XhY38BcgzidjKIjnl-1VqGXTd_E-RnxG/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>39</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>Los cuernudos de Calnali llevarán el carnaval de la Huasteca al Festival Internacional Cervantino</Titular>
+		<Autor>Juan Carlos Santamaría</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>Cultura</Dependencia>
+		<Organismo>Cultura</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Carnavales</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Guanajuato</Municipio>
+		<Contenido>Bien, por otra parte, en estos mismos temas, en este tenor, le cuento que los cuernudos de Canali llevarán una de las expresiones festivas más reconocibles de Hidalgo a la edición, a la 54ª edición del Festival Internacional Cervantino, con un pasacalles que recorrerá parte de Guanajuato y esto será el próximo domingo, este domingo 11 de octubre. La comparsa se formará a las 4 de la tarde, a las 16 horas, en la Plaza Allende y de ahí partirá el recorrido que durará una hora y concluirá en el Teatro Juárez, uno de los recintos emblemáticos de esta ciudad, la ciudad de Guanajuato, que es patrimonio cultural de la humanidad. El festival se programa dentro de la categoría de calle y espacios alternativos, misma que agrupa las propuestas que se presentan fuera de las salas en una edición que tiene a Francia como país invitado. Durante el recorrido, la comparsa convive con quienes la miran de modo que el público no se queda a un lado de la calle, sino que acaba formando parte de la fiesta. el acceso es gratuito por lo que quienes deseen acompañar el recorrido pueden llegar a la plaza allende antes de la hora señalada a las 4 de la tarde y la programación completa por supuesto puede consultarse en los canales del festival y en las redes sociales tambi de la secretar de cultura del estado de hidalgo los cornudos cabe recordar son personajes mitad diablo y mitad charro nacidos en la sierra hidalguense que en el carnaval de Canali encarnan la dualidad entre lo humano y lo animal, entre lo sagrado y lo profano. Danzan con máscaras, cuernos de venado, espejos y sombreros, una vestimenta simbólica que representa la casa y que se complementa con camisas de colores vivos, chalecos de cuero, chaparreras y espuelas. Al ritmo de sones interpretados por bandas de viento tradicionales, los contingentes avanzan en zig-zag por las calles y compiten con coreografías que evocan la caza ritual, el juego simbólico y la resistencia cultural. En Calnalli el carnaval se celebra los tres días previos al miércoles de ceniza en el mes de febrero y enfrenta año con año a los barrios de San Juan, La Esperanza, Barrio Nuevo y Tlala en una competencia que ya suma dos siglos de historia. Toda esta historia y esta tradición de Hidalgo se traslada al Festival Internacional Cervantino. La participación la presenta de manera conjunta la Secretaría de Cultura del Estado, la Presidencia Municipal de Calnalli y el colectivo Juntos Rescatando Calnalli. Con el respaldo del gobierno del Estado, la Secretaría de Cultura ha llevado estas expresiones de las comunidades hidalguenses a escenarios de otras entidades y trabaja para que más portadores de tradición sigan ese camino.</Contenido>
+		<Liga>https://drive.google.com/file/d/1PXOQChRbmBg1hkPjXCnuJYosPezhZlor/view?usp=drivesdk</Liga>
+		<Duracion>Sí</Duracion>
+		<Medida_de_tiempo>191</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Medio_de_origen>Comunicado gubernamental</Medio_de_origen>
+		<Dependencias_mencionadas>Gobierno del Estado de Hidalgo</Dependencias_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>Artesanas y artesanos del Valle del Mezquital suman nuevas técnicas a su trabajo.</Titular>
+		<Autor>Juan Carlos Santamaría</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>Bienestar</Dependencia>
+		<Organismo>Bienestar</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Capacitación a artesanos</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Valle del Mezquital</Municipio>
+		<Contenido>Le platico que artesanos del Valle del Mezquital han tenido la oportunidad de tener capacitación técnica. Estas manos que durante años han dado forma a la fibra vegetal que forman parte de la riqueza cultural del Valle del Mezquital, pues encontraron nuevas formas para trabajarla. Durante tres semanas, 30 artesanas y artesanos de Alfa Jayucan y de Xmiquilpan compartieron conocimientos, practicaron nuevas técnicas y trabajaron en el mejoramiento de sus piezas. El curso estuvo a cargo del artesano Jerónimo Gonzalo Rodríguez y fue impartido en distintos puntos de Alfajayucan. La delegación de la comunidad de San Lucas, Guapilla, San Antonio, Tezoquipan y la biblioteca en la cabecera municipal fueron las sedes de este curso, en las que, bueno, por supuesto, lo más importante es este conocimiento y esta tradición que se va heredando, que forma parte de las familias artesanas. Sin embargo, por supuesto, también es importante que puedan capacitarse, mejorar sus técnicas, que les permita una mejor producción y que con ello pues se incrementen también sus posibilidades de bienestar y de desarrollo para los artesanos y claro también para sus familias.</Contenido>
+		<Liga>https://drive.google.com/file/d/1ACd3njpUdm8m8f52xCYrjjHfQfkJMvbT/view?usp=drivesdk</Liga>
+		<Duracion>Sí</Duracion>
+		<Medida_de_tiempo>85</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Medio_de_origen>Comunicado gubernamental</Medio_de_origen>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>La Junta de Gobierno del Congreso del Estado de Hidalgo acordó la comparecencia del titular de la Oficialía Mayor del Gobierno estatal, Edgar Orlando Ángeles Pérez, quien acudirá ante el Pleno el próximo jueves 22 de octubre a las 16:00 horas. El acuerdo fue establecido de común acuerdo entre el Poder Legislativo y el Poder Ejecutivo, como parte de los ejercicios de análisis y rendición de cuentas, bajo principios de diálogo, coordinación y respeto institucional.</Titular>
+		<Autor>Juan Carlos Santamaría</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>Congreso</Dependencia>
+		<Organismo>Junta de Gobierno</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>Hidalgo alcanza 93.26 % de efectividad en localización de personas</Titular>
+		<Autor>Juan Carlos Santamaría</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>CBPEH</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Búsqueda de personas</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Pachuca</Municipio>
+		<Contenido>de la mañana con 22 minutos, continuamos en Pachuca y le platico que con 346 personas localizadas de 371 reportes iniciados entre enero y septiembre de este año, Hidalgo alcanzó una efectividad de 93.26% en la localización de personas. Así lo informó la Comisión de Búsqueda de Personas del Estado de Hidalgo durante la tercera sesión ordinaria del Sistema de Búsqueda 2026. Como parte de la política de cercanía y atención que impulsa el gobernador del estado, Julio Menchaca Salazar, se mantiene como prioridad el fortalecimiento de la coordinación institucional, las acciones de búsqueda y, de manera especial, la prevención de situaciones que puedan poner en riesgo, sobre todo a niñas, niños, adolescentes y sus familias. Así lo informa la Secretaría de Gobierno. La sesión realizada en el barrio de El Arbolito en la capital del estado fue encabezada por el secretario de gobierno y presidente del Sistema de Búsqueda de Personas para el Estado de Hidalgo, Guillermo Olivares Reyna, quien destacó la importancia de mantener la participación activa de las instituciones y de la ciudadanía para optimizar los mecanismos de búsqueda y brindar respuestas oportunas. Durante los trabajos, el titular de la comisión, José Francisco García Reyes, presentó los resultados de la campaña "Que nadie falte", estrategia preventiva que busca alertar a las juventudes sobre el riesgo relacionado con el reclutamiento a través de redes sociales y videojuegos en línea para involucrarlos en actividades ilícitas. Desde septiembre a la fecha, esta campaña ha impactado directamente a 6,718 personas mediante visitas a 11 planteles educativos y actividades de sensibilización dirigidas a estudiantes, docentes, madres y padres de familia. Las jornadas se han desarrollado en preparatorias y planteles del Colegio de Bachilleres del Estado de Hidalgo con presencia en municipios como Actopan, Mineral del Monte y San Agustín Tlaxiaca, entre otros. Durante estos acercamientos también se promueve entre las y los adolescentes la importancia del cuidado y protección de las personas adultas mayores, ampliando el componente preventivo y de sensibilización de esta estrategia. En cuanto a los resultados de búsqueda, García Reyes detalló que del 1 de enero al 30 de septiembre de 2026 se iniciaron 371 reportes, de los cuales se logró la localización de 346 personas, equivalente a una efectividad del 93.26%. Estas acciones forman parte del trabajo coordinado que mantiene la administración estatal para fortalecer la capacidad institucional en materia de búsqueda, localización e identificación de personas, así como la prevención y atención cercana a las familias. Se hizo un llamado a la ciudadanía a reportar de manera inmediata cualquier desaparición y no esperar 24 o 48 horas. La población puede comunicarse —este es de los números que debemos tener siempre a la mano esperando también no utilizarlos, pero que mejor que estén ahí— el 771 130 7436, 771 130 7436 o acudir a la agencia del Ministerio Público más cercana para iniciar la carpeta correspondiente por desaparición de persona, y no esperar este este tiempo de 24 a 48 horas, sino reportarlo de manera inmediata.</Contenido>
+		<Liga>https://drive.google.com/file/d/1-kgPNyBzCbCO_T4Dnp2LB-DKbT-j1sdr/view?usp=drivesdk</Liga>
+		<Duracion>Sí</Duracion>
+		<Medida_de_tiempo>222</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Medio_de_origen>Comunicado gubernamental</Medio_de_origen>
+		<Personas_mencionadas>José Francisco García Reyes</Personas_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>La Subsecretaría de Protección Civil y Gestión de Riesgos pronosticó para hoy chubascos, temperaturas mínimas de cero a cinco grados y rachas de viento en el estado de Hidalgo. Se advirtió que el riesgo de deslaves, derrumbes y desprendimientos persiste debido a la humedad acumulada en zonas previamente afectadas. Las autoridades recomendaron extremar precauciones, evitar cruzar corrientes de agua o zonas de riesgo, respetar los cierres carreteros y abrigarse adecuadamente ante las bajas temperaturas.</Titular>
+		<Autor>Jesús Riveros</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>PC</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Alerta Meteorológica</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>N/A</Municipio>
+		<Contenido>Bueno, y también retomando que para hoy se prevén intervalos de chubascos de 5 a 25 milímetros, temperaturas mínimas de cero a cinco grados, rachas de viento de 30 km/h en distintos puntos del estado de Hidalgo. Y la Subsecretaría de Protección Civil y Gestión de Riesgos señaló que, aunque disminuya la intensidad de las lluvias, el riesgo continúa; la humedad acumulada en el terreno puede favorecer nuevos deslaves, derrumbes y desprendimientos de material, especialmente en zonas que han presentado afectaciones durante los últimos días. Ya sabe que las recomendaciones son: no cruzar ríos, arroyos, vados ni calles inundadas, ni a pie ni en vehículo; mantenerse alejados de cauces, barrancas y laderas inestables; respetar los cierres carreteros, no intenten atravesar caminos afectados y atiendan las indicaciones de las autoridades. Ante las bajas temperaturas previstas, abrigarse adecuadamente, especialmente durante la madrugada y las primeras horas de el día. La Subsecretaría de Protección Civil y Gestión de Riesgos mantiene monitoreo permanente y coordinación con las unidades municipales de protección civil para dar seguimiento a las condiciones en riesgo. Así que no se confíe en el tema, en el tema de las lluvias y en el tema, por supuesto, de de los fríos, eh pues a sacar ya las cobijas del tigre y todas esas cobijas calentitas, a sacarlas ya porque ya son necesarias. Bueno, gracias.</Contenido>
+		<Liga>https://drive.google.com/file/d/1SzWg_BocfhQg-DZCD5EAo1DkbW-FcnXQ/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>92</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>La SIPDUS informa sobre las siguientes acciones realizadas en las últimas horas, a fin de retirar material de derrumbes y habilitar la circulación en caminos y carreteras que resultaron afectadas a causa de las recientes lluvias.</Titular>
+		<Autor>Juan Carlos Santamaría</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>Sipdus</Dependencia>
+		<Organismo>Sipdus</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Atención Afectaciones Por Lluvias</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>N/A</Municipio>
+		<Contenido>La Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible informa sobre las acciones realizadas recientemente a fin de retirar material de derrumbes y habilitar la circulación en caminos y carreteras que resultaron afectadas a causa de las recientes lluvias. Se trasladó una retroexcavadora a la carretera estatal Tlachinol-Huejutla para el retiro de derrumbes. Por otra parte, personal de la residencia regional de Huejutla retiró material en la carretera estatal Orizatlán-Cuauhtla-San José, en entronque con la carretera Pachuca-Tempual, además de la carretera Pachuca-Tempual-Santa María y la carretera estatal Jaltocán-Cuauhtla. En Zimapán, en la Sierra Gorda hidalguense, en la carretera estatal Simapán-Boquilla, se limpiaron cunetas y se retiró material producto de derrumbes, mientras que en el municipio de Huautla, personal de la residencia regional de Huejutla realizó el dragado del río en la localidad de Chiatipán con la finalidad de aumentar su capacidad y disminuir el riesgo de desbordamientos. En el municipio de Mexitlán, en el tramo que comprende la carretera estatal San Juan Mexitlán-Soquiapán, se limpiaron y desasolvaron cunetas. En tanto, en Tlachinol, en las carreteras estatales Tlachinol-Huejutla, Temango, Santa Lucía y Temango-Paguayo, Zacatempa, San Salvador, Toctitlán, Tlachinol, Apantlazol, Lolotla y Caseta-Otongo, personal de la residencia regional de Molango realizó el retiro de caídos consistentes en piedras y ramas. En tanto, en los municipios de Calnali y Huautla, se retiraron piedras y se cuantificaron los derrumbes en los tramos carreteros estatales Tonchitlán-San Pedro, Huautla-Ixtlahuaco, Calnali y Calnali-Papatla, acceso a Tempa, y en la carretera Calnali-San Andrés-Santa Lucía. Asimismo, tras una lluvia ligera, personal de la residencia de Molango descamilló un pequeño derrumbe que interrumpió la circulación en un carril de la carretera estatal Ahuacatlán-Calnali con ayuda de una retroexcavadora. Y en tanto, en el municipio de Tepehuacán de Guerrero, uno de los que al inicio de la semana se reportaba con mayores daños, personal de la residencia regional de Molango realizó el retiro de material de derrumbe en la carretera estatal Otongo-Tepehuacán de Guerrero, San Juan Ahuehueco, Hautepango y en la carretera estatal Teyahuala -Texcapa – Xilitla. Personal de la residencia de Ixmiquilpan, por su parte, desalojó material en la carretera Ramal Pisa Flores. El monitoreo de la red carretera estatal es permanente en las diversas regiones de la entidad a fin de implementar las acciones necesarias que contribuyan a la rehabilitación de las diversas vías de comunicación que permitan a las y los hidalguenses desplazarse de manera más ágil y segura. Finalmente, la Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible solicitó a la población permanecer atenta a los reportes de las autoridades correspondientes para mantenerse a salvo y bajo la coordinación interinstitucional de los tres niveles de gobierno designar a la institución que atienda cada incidencia. Así pues, las autoridades en este sentido informando de la atención que dan a las circunstancias generadas por las las lluvias, las lluvias que pues al inicio de la semana fueron pues de una mayor intensidad, ha disminuido la intensidad, sin embargo, las consecuencias persisten y es importante mantenerse atentos, reiteramos, insistimos en ello en los canales oficiales y en los medios de comunicación que corroboramos con las autoridades la información para poder proporcionársela, porque de esta manera obtiene usted verdaderamente información que nos pueda servir para tomar decisiones y no datos que alarman innecesariamente y que generan y pueden generar confusión. Así es que es importante sin duda mantener estos canales de comunicación y estos datos sobre los tramos carreteros que están siendo intervenidos, en este caso le he compartido ampliamente por la Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible.</Contenido>
+		<Liga>https://drive.google.com/file/d/1SwsZn_5-h--g7quYirPvQRjvsGMHFbD8/view?usp=drivesdk</Liga>
+		<Duracion>Sí</Duracion>
+		<Medida_de_tiempo>281</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Medio_de_origen>Comunicado gubernamental</Medio_de_origen>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>SSPH mantiene apoyo y vigilancia ante afectaciones por lluvias</Titular>
+		<Autor>Juan Carlos Santamaría</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>SSPH</Dependencia>
+		<Organismo>SSPH</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Atención Afectaciones Por Lluvias</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>N/A</Municipio>
+		<Contenido>Desde Pachuca. Y bien, pues las lluvias parecen dar una tregua en cuanto a la intensidad y el fenómeno meteorológico que se forma en el océano, eh, en el Golfo de México, pues alejándose del territorio nacional. Sin embargo, bueno, pues octubre, los lo sabemos, se anticipan que habrá más, más lluvias. Así es que hay que tomar precauciones al respecto y, por supuesto, las autoridades también están atentas al desarrollo de estos fenómenos meteorológicos y los que ya han ocurrido, por supuesto, a inicio de esta semana, fueron de bastante intensidad, sobre todo en la región norte del estado. Y derivado de las precipitaciones pluviales, también elementos de la Secretaría de Seguridad Pública de Hidalgo participan en acciones de auxilio, abanderamiento y vigilancia en carreteras y caminos de comunidades, principalmente en los municipios de Tlachinol, Zahuatlán, Soteapan, Huejutla de Reyes y Tenango de Doria, entre otras localidades. En coordinación con otras instancias, se realizan maniobras para liberar vialidades, prevenir accidentes y mantener cierres preventivos en zonas de riesgo ante derrumbes y afectaciones en puentes y aumento de los niveles de agua en el cuerpo de agua como los ríos. Bien, en este mismo tenor le comento, esto es lo que informa la Secretaría de Seguridad Pública en la entidad sobre las acciones de sus elementos, eh, coadyuvando para liberar caminos y en acciones preventivas.</Contenido>
+		<Liga>https://drive.google.com/file/d/1aZf2LE2LE5QTWviyp2Ys007iGq0Y56KX/view?usp=drivesdk</Liga>
+		<Duracion>Sí</Duracion>
+		<Medida_de_tiempo>99</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Medio_de_origen>Comunicado gubernamental</Medio_de_origen>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>Jesús Riveros lamentó profundamente el fallecimiento de Gerardo Germán Pineda, conocido como "El Búho", un réferi de la lucha libre de más de 70 años originario de la capital hidalguense. El caso se encuentra bajo la investigación de la Procuraduría General de Justicia del Estado de Hidalgo, lo que ha reabierto el debate sobre los límites y los riesgos que enfrentan los involucrados en este deporte.</Titular>
+		<Autor>Jesús Riveros</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>PGJEH</Dependencia>
+		<Organismo>PGJEH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Homicidios</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Mineral de la Reforma</Municipio>
+		<Contenido>Lamentable, lamentable la muerte de Gerardo Germán Pineda, conocido como "El Búho", refiri de la lucha libre allá en la capital hidalguense. Y pues bueno, ya está la investigación en manos de la Procuraduría, de la Procuraduría General de Justicia del Estado de Hidalgo, pero nuevamente, nuevamente se pone en tela de juicio sobre eh hasta dónde, hasta dónde pues tienen tienen los eh los alcances, hasta dónde están los límites del deporte y el riesgo en la lucha en la lucha libre, tomando en cuenta ya en este caso, como lo decía nuestro compañero Gustavo Rosales, ya el refri "El Búho" ya tenía más de 70 70 años de edad, una persona adulta mayor que, sin embargo, pues se mantenía realizando lo que en en alguna ocasión expresó que es su pasión estar dentro de la lucha libre.</Contenido>
+		<Liga>https://drive.google.com/file/d/18PIsdm9CDH-eHrVBpXKiwuB4bzoa0WxW/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>60</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>Padres de familia de la escuela telesecundaria número 750, en el barrio de San Miguel, en Ixmiquilpan, se manifestaron la mañana de hoy, jueves, frente a las instalaciones del plantel para acusar sobre cupo de alumnos dentro de los grupos de primer grado, por lo que solicitan la creación de un nuevo grupo de ese año. AUDIO PADRES DE FAMILIA “ La mayoría somos padres del primer año, exigiendo una apertura de un aula, de un aula y de un maestro que asignen para que esa aula tenga un dirigente. Hemos ido a Pachuca en varias ocasiones, hemos tenido algunas respuestas nulas, algunas hasta con burla, que no van a hacer nada, sino si, aunque sea lo que sea Ixniquilpan, no van a hacer nada para vernos un año más o un año más. Y esta es una de las causas que estamos aquí. Exigimos que, por favor, nos den un aula más y un profesor más. El aula ya la hicimos los papás, ni siquiera necesitamos de que SEP o ellos nos las entreguen, ya está hecha por nosotros. Se hizo una cooperación, se hizo varias cosas y el aula ya está hecha. Solamente también necesitamos la aprobación de ellos y algún maestro que nos puedan asignar”</Titular>
+		<Autor>Jesús González</Autor>
+		<Programa>Enfoque Regional Meridiano</Programa>
+		<Dependencia>SEPH</Dependencia>
+		<Organismo>Básica</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Queja padres de familia</Tema>
+		<Estatus>Muy negativo</Estatus>
+		<Municipio>Ixmiquilpan</Municipio>
+		<Contenido>Padres de familia de la escuela telesecundaria número 750, en el barrio de San Miguel, en Ixmiquilpan, se manifestaron la mañana de hoy, jueves, frente a las instalaciones del plantel para acusar sobre cupo de alumnos dentro de los grupos de primer grado, por lo que solicitan la creación de un nuevo grupo de ese año. AUDIO PADRES DE FAMILIA “ La mayoría somos padres del primer año, exigiendo una apertura de un aula, de un aula y de un maestro que asignen para que esa aula tenga un dirigente. Hemos ido a Pachuca en varias ocasiones, hemos tenido algunas respuestas nulas, algunas hasta con burla, que no van a hacer nada, sino si, aunque sea lo que sea Ixmiquilpan, no van a hacer nada para vernos un año más o un año más. Y esta es una de las causas que estamos aquí. Exigimos que, por favor, nos den un aula más y un profesor más. El aula ya la hicimos los papás, ni siquiera necesitamos de que SEP o ellos nos las entreguen, ya está hecha por nosotros. Se hizo una cooperación, se hizo varias cosas y el aula ya está hecha. Solamente también necesitamos la aprobación de ellos y algún maestro que nos puedan asignar”</Contenido>
+		<Liga>https://drive.google.com/file/d/1xgqXeMVso4pHVnCuFty7hE7PsLvvDsZk/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>63</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>La mujer localizada ayer sin vida al fondo de una barranca en la zona conocida como la Bajada de la Cruz, en La Peña, en Mixquiahuala, ya fue reconocida. Según información extraoficial, se trata de una mujer de iniciales NTP, quien era originaria de la colonia La Reforma, en Mixquiahuala de Juárez. La necropsia practicada al cuerpo determinó como causa de fallecimiento asfixia por broncoaspiración, al encontrarse restos de alimentos en las vías respiratorias. Además, se determinó que no habrían identificado huellas visibles de violencia física. Las investigaciones continúan ante la posible participación de terceras personas en este hecho, quienes presuntamente habrían arrojado el cuerpo de la mujer al fondo del barranco para ocultarlo, versiones que deben confirmar las autoridades. El hallazgo fue realizado ayer por ciudadanos que transitaban por la zona, quienes dieron aviso, lo que permitió la intervención de corporaciones de seguridad y personal especializado.</Titular>
+		<Autor>Jesús González</Autor>
+		<Programa>Enfoque Regional Meridiano</Programa>
+		<Dependencia>Otros</Dependencia>
+		<Organismo>Otros</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Mixquiahuala</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>Ayer le informé sobre la muerte de un referee allá en Mineral de la Reforma, esto ha puesto sobre la mesa el tema de que el martinete volvió al centro de la conversación sobre la lucha libre tras la muerte del referee Gerardo Germán Pineda, conocido como el búho, durante una función en Mineral de la Reforma. Los reportes señalan que habría recibido este castigo antes de desvanecer sobre el cuadrilátero.La maniobra se caracteriza por colocar al oponente en posición invertida y dirigirlo hacia la lona. Su peligrosidad radica en el impacto que pueden recibir la cabeza y el cuello, por lo que se identifica como un movimiento prohibido en la lucha libre mexicana. El fallecimiento del búho derivó en la detención del hijo de Fishman, el luchador, y en una investigación para esclarecer los hechos. Las investigaciones deberán determinar las responsabilidades correspondientes. Los señalamientos difundidos sobre el martinete no sustituyen los resultados periciales ni permiten establecer por sí solos la causa médica de su fallecimiento.</Titular>
+		<Autor>Jesús González</Autor>
+		<Programa>Enfoque Regional Meridiano</Programa>
+		<Dependencia>Otros</Dependencia>
+		<Organismo>Otros</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Homicidios</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Mineral de la Reforma</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>En el Congreso del Estado de Hidalgo, el diputado José Luis Rodríguez Sigarera, habló sobre los trabajos que se llevan a cabo en la presa Endó, destacando que una de las máquinas está descompuesta, así como el retraso de la llegada de nuevas máquinas trituradoras.</Titular>
+		<Autor>Jesús González</Autor>
+		<Programa>Enfoque Regional Meridiano</Programa>
+		<Dependencia>Congreso</Dependencia>
+		<Organismo>GLMorena</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Tula</Municipio>
+		<Contenido>En otro tema, en el Congreso del Estado de Hidalgo, el diputado José Luis Rodríguez Sigarera, habló sobre los trabajos que se llevan a cabo en la presa Endó, destacando que una de las máquinas está descompuesta, así como el retraso de la llegada de nuevas máquinas trituradoras.
+Desde junio del dos mil veinticinco hasta esta fecha llevan mil setecientos catorce hectáreas supuestamente limpias, son cifras de Conagua, tienen tres máquinas trituradoras que están trabajando, una cuarta le faltaba un filtro de aceite y no podía trabajar, ya lleva dos meses parada, y hay una máquina que se había tenido en en el convenio que habían firmado en la Secretaría de Gobernación, lugareños del lugar, pero además tenían el compromiso en que los últimos días de agosto iban a traer un tipo barco que iban a empacar el lirio y que le iban a sacar muchas cosas de beneficio, hasta un biogás y no sé qué tantas cosas. Ya vamos en octubre y no ha llegado. Ahora dicen que porque los tienen detenidos en la aduana, es ese es el pretexto.
+A mí lo que me preocupa es que es que hay una propaganda por parte de gente de comunicación social del gobierno de México, que ellos dicen que hay veinte y mil seiscientos habitantes de las veintidós comunidades ribereñas de la presa Endo, que han sido beneficiadas. Yo quisiera explicar, que me expliquen en qué están siendo beneficiadas, porque de hace dos años que toqué este punto, ahorita está peor, la situación está peor, está como nunca. El legislador por el distrito local de Tula dijo que se debe atender la situación ambiental de las comunidades ribereñas de la presa Endo.
+Vengo a hablar de estas comunidades de mi distrito integrada por las familias que viven alrededor de la presa Endo, porque todos los días enfrentan el hilo acuático, la proliferación del mosquito cúlex, y una proliferación del mosquito cúlex, y una problemática ambiental que no nació ayer, ni puede resolverse con medidas temporales. Mi voz es de denuncia, con datos obtenidos de documentos oficiales, y de estar presente en dicho lugar, donde se cuenta con suficiente evidencia institucional de los distintos órdenes de gobierno. Lo que está ocurriendo en la región de Tula no es una percepción, ni una exageración política.
+Por ejemplo, ya el 26 de septiembre del 2024, el gobierno de México publicó en el diario oficial de la federación, el decreto mediante el cual se declaró zona de restauración ecológica, el área de influencia de la presa Endo. José Luis Rodríguez Sigareda, conocido como el Puma, dijo que se deben conocer los resultados de las acciones que se realizan en torno a la problemática de la presa Endo, trabajando de manera coordinada. Ya no basta preguntar que qué van a hacer, ahora tenemos que preguntar cuándo van a concluirlo, cuántos recursos se ha ejercido, qué metas se han cumplido, qué falta por cumplir, qué indicadores ambientales epidemiológicos demuestran que las condiciones de nuestra gente están mejorando.
+Desde esta tribuna, se hace un llamado respetuoso a Conagua, a Semarnat, Secretaría de Salud, a Senaprece, al gobierno del estado, a las autoridades municipales, para que no abandonemos esta coordinación. Hay que fortalecerla, publiquemos periódicamente los resultados, transparentemos los recursos, midamos la calidad del agua, mantengamos la vigilancia epidemiológica, continuemos retirando el lirio, combatamos al mosco desde sus etapas larvarias, y no únicamente cuando ya invaden nuestras comunidades. La propia Secretaría de Salud cuenta desde abril del dos mil veintiséis con una guía operativa para el control de mosquitos cúlex elaborada por la Secretaría de Salud.
+está en contacto con la resultados. La Secretaría de Salud para informarles sobre los resultados. La Secretaría de Salud.
+tiene derecho constitucional a vivir en un medio ambiente sano, por la dignidad de nuestra gente, por nuestra región de Tula.</Contenido>
+		<Liga>https://drive.google.com/file/d/1DLiOTI9XO0QRFbbYp6auGNhZniV5e6rr/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>268</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Dependencias_mencionadas>SSH, SEMARNATH</Dependencias_mencionadas>
+		<Personas_mencionadas>José Luis Rodríguez Sigarera</Personas_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>Todo parece indicar que el próximo domingo, a temprana hora, alrededor de las ocho de la mañana, se va, se van a inaugurar las canchas de tenis de la unidad deportiva de Tula, unas canchas remodeladas al cien por ciento, van a tener gradas, van a tener luz, van a estar muy bonitas estas gradas, vamos a tratar de confirmar esa información, pero todo parece indicar que serán echadas a andar el próximo domingo.</Titular>
+		<Autor>Jesús González</Autor>
+		<Programa>Enfoque Regional Meridiano</Programa>
+		<Dependencia>Ayuntamiento</Dependencia>
+		<Organismo>Ayuntamiento</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Tula</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>Enlace clima Luis García de la Conagua en la Republica Mexicana e Hidalgo, zona huasteca máxima de 29 mínima de 20, para la Sierra 25 máxima mínima de 16, Altiplano máxima de 20 mínima de 9, para Pachuca y Tizayuca 19 mínima de 9, en la Zona Tepehua máxima de 25 mínima de 16, Valle de Tulancingo máxima de 19 mínima de 8 en el Valle del Mezquital máxima 21 mínimas de 11 , Huichapan y Tecozayutla máxima 20 y mínima de 11. El nivel de las presas en el estado de Hidalgo es el siguiente: la presa Taxhimay se encuentra al 85.8%; presa Requena al 70.5%; presa Endhó al 101.5%; presa Rojo Gómez al 102.7%; presa Vicente Aguirre al 100.9%; presa La Esperanza al 100% y presa Zimapán al 86.3%.</Titular>
+		<Autor>Jesús González</Autor>
+		<Programa>Enfoque Regional Meridiano</Programa>
+		<Dependencia>Presidencia</Dependencia>
+		<Organismo>Conagua</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Alerta Meteorológica</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>La Subsecretaría de Protección Civil y Gestión de Riesgos alertó por las condiciones meteorológicas previstas para hoy jueves aquí en Hidalgo, donde se esperan intervalos de chubascos de entre 5 y 25 milímetros, además de temperaturas mínimas de 0 a 5 °C. Las autoridades señalaron que las lluvias podrían generar encharcamientos, escurrimientos e incrementos en los niveles de ríos y arroyos, así como deslaves y derrumbes en zonas susceptibles. A estos riesgos se suma la saturación de humedad en el terreno debido a las lluvias registradas durante los últimos días, porque sí que ha llovido, por lo que persisten condiciones de riesgo en zonas de laderas, cauces, caminos y comunidades que ya han presentado algunas afectaciones.</Titular>
+		<Autor>Jesús González</Autor>
+		<Programa>Enfoque Regional Meridiano</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>PC</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Alerta Meteorológica</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>N/A</Municipio>
+		<Contenido>La Subsecretaría de Protección Civil y Gestión de Riesgos alertó por las condiciones meteorológicas previstas para hoy jueves aquí en Hidalgo, donde se esperan intervalos de chubascos de entre 5 y 25 milímetros, además de temperaturas mínimas de 0 a 5 °C. Las autoridades señalaron que las lluvias podrían generar encharcamientos, escurrimientos e incrementos en los niveles de ríos y arroyos, así como deslaves y derrumbes en zonas susceptibles. A estos riesgos se suma la saturación de humedad en el terreno debido a las lluvias registradas durante los últimos días, porque sí que ha llovido, por lo que persisten condiciones de riesgo en zonas de laderas, cauces, caminos y comunidades que ya han presentado algunas afectaciones.</Contenido>
+		<Liga>https://drive.google.com/file/d/1jJhGL1NB7lOKey0zyo4LqORbRPf4VsYi/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>42</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>Con 346 personas localizadas de 371 reportes iniciados entre enero y septiembre de este año, Hidalgo alcanzó una efectividad del 93.26 por ciento en la localización de personas, informó la Comisión de Búsqueda de Personas del Estado de Hidalgo (CBPEH) durante la Tercera Sesión Ordinaria del Sistema de Búsqueda de Personas 2026.Como parte de la política de cercanía y atención que impulsa el gobernador Julio Menchaca Salazar, se mantiene como prioridad el fortalecimiento de la coordinación institucional, las acciones de búsqueda y, de manera especial, la prevención de situaciones que puedan poner en riesgo a niñas, niños, adolescentes y sus familias.</Titular>
+		<Autor>Jesús González</Autor>
+		<Programa>Enfoque Regional Meridiano</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Búsqueda de personas</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Pachuca</Municipio>
+		<Contenido>Con 346 personas localizadas de 371 reportes iniciados entre enero y septiembre de este año, Hidalgo alcanzó una efectividad del 93.26 por ciento en la localización de personas, informó la Comisión de Búsqueda de Personas del Estado de Hidalgo (CBPEH) durante la Tercera Sesión Ordinaria del Sistema de Búsqueda de Personas 2026.Como parte de la política de cercanía y atención que impulsa el gobernador Julio Menchaca Salazar, se mantiene como prioridad el fortalecimiento de la coordinación institucional, las acciones de búsqueda y, de manera especial, la prevención de situaciones que puedan poner en riesgo a niñas, niños, adolescentes y sus familias. La sesión, realizada en el barrio El Arbolito, en Pachuca de Soto, fue encabezada por el secretario de Gobierno y presidente del Sistema de Búsqueda de Personas para el Estado de Hidalgo, Guillermo Olivares Reyna, quien destacó la importancia de mantener la participación activa de las instituciones y de la ciudadanía para optimizar los mecanismos de búsqueda y brindar respuestas oportunas. "Por eso es de que estas sesiones de lo que es el Sistema Estatal de Búsqueda de Personas la llevamos a cabo con la gente, con la población. Bien podríamos estar en una oficinita y ahí dar lugar a las opiniones de los integrantes del Sistema y decir que bueno, hemos avanzado, hemos logrado buenos resultados. Pero no se trata de que nos sintamos satisfechos nosotros desde la comodidad de una oficina. Se trata que ustedes sepan a dónde acudir cuando se haga necesario. Y por eso es que estamos aquí con ustedes. Así que aquí por ustedes, en su colonia, les decimos: si nos necesitan, estamos para servirles. Ese es el mensaje de Julio Menchaca Salazar y de... y de su servidor y amigo, Guillermo Olivares Reyna, secretario de Gobierno, que les hace llegar a ustedes un fuerte y caluroso abrazo”</Contenido>
+		<Liga>https://drive.google.com/file/d/1njdwtehZWAyF6NrPBx6DUIYvZ8z8ORuO/view?usp=drivesdk</Liga>
+		<Duracion>Sí</Duracion>
+		<Medida_de_tiempo>116</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Medio_de_origen>Comunicado gubernamental</Medio_de_origen>
+		<Personas_mencionadas>Guillermo Olivares Reyna</Personas_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>Vía telefonica secretaria de Turismo del Estado de Hidalgo, Elizabeth Quintanar con el tema : 18 Festival del Paste en Real del Monte e Invitación a Feria Pachuca. Por su parte, la secretaria de Turismo de Hidalgo, Liz Quintanar, invitó al Festival del Paste en Real del Monte, destacando la variedad gastronómica de pastes y la oferta cultural. Asimismo, resaltó la cercanía del municipio con la capital, sugirió precauciones al conducir por la neblina o lluvia, y promovió las atracciones de la Feria San Francisco en Pachuca, como el Circo Atayde y el show sobre hielo.</Titular>
+		<Autor>Jesús González</Autor>
+		<Programa>Enfoque Regional Meridiano</Programa>
+		<Dependencia>Turismo</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Entrevista</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Feria Pachuca</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Pachuca</Municipio>
+		<Contenido>Y me da mucho gusto saludar, siempre es un placer saludar a la secretaria de Turismo del Estado de Hidalgo, Elizabeth Quintanar. Secretaria, ¿cómo está? Muy buena tarde.   Elizabeth Quintanar (Secretaria de Turismo de Hidalgo): ¡Amigos de Súper Estéreo, Jesús, qué alegría saludarles y decirles que Hidalgo tiene algo especial para cada uno de ustedes!   Locutor (Jesús): En esta ocasión, secretaria, me gustaría platicar con usted sobre el Festival del Paste que ya se viene en una edición más aquí en el Estado de Hidalgo, secretaria.   Elizabeth Quintanar: 9, 10 y 11 Real del Monte ofrece el sabor del paste. Las casas productoras de paste, las familias que preparan de generación en generación esta receta han preparado para ustedes pastes... Les voy a decir de lo que yo he encontrado y con esto hago la invitación a nombre del gobernador Julio Menchaca, porque el gobernador está invitando a todas y a todos. Estuvimos en una reunión, permítanme compartirles, con diferentes personas de la Guardia Nacional hablando de diferentes temas, y entonces les decía: «Oiga, vengan», como llegó el nuevo dirigente, el general de la Guardia Nacional, le dijo: «Oiga, ¿usted quiere conocer Hidalgo?», lo mismo que yo le repito a todas y a todos los que no lo conocen y los que lo conocen regresen, dijo: «Vaya al Festival del Paste porque es nuestro platillo emblemático de la montaña que nos heredaron los ingleses, pero que las madres de familia, las mamás, las tías, las abuelitas han modificado y chuleado la receta». Y con esto les compartía: he visto pastes de bacalao, de chile en nogada, por supuesto de arroz con leche, de piña, de papa, de frijol, de mole verde, de mole rojo, y es una gran oportunidad para venir a este pueblo en la montaña a probar un café, un chocolate de olla, un paste, un elote, unos esquites y disfrutar de este pueblo mágico que ofrece cinco diferentes museos y pasar un estupendo fin de semana.   Locutor (Jesús): Ya nos dio hambre con eso que nos acaba de decir, secretaria. Ir a disfrutar de los pastes allá en Real del Monte, que además es un pueblo mágico que está precioso, secretaria.   Elizabeth Quintanar: Al estar casi a 3000 metros sobre el nivel del mar, con esas casas características de dos techos de agua en donde escurre el aguanieve, característico la neblina y esa lloviznita, pues es una gran oportunidad subirse a un turibús y dejarse guiar por uno de los guías que cuentan la historia de lo que fue este pueblo minero que hoy ofrece estas calles empedradas, esta comida deliciosa, porque no solo hay pastes, hay restaurantes que ofrecen gastronomía de todo tipo, desde cortes hasta enchiladas mineras, tlacoyos tulancingueños, mole, panza, de todo. Así es que vengan a Real del Monte, caminen, disfruten de la mano de quien más quieran: abuelita, abuelito, novia, novio, hijos. ¿Saben qué es muy hermoso? Ir descubriendo las fachadas, la arquitectura, por supuesto la historia de este hermoso pueblo acá muy cerca del cielo con esta neblina y esta brisna.   Locutor (Jesús): Secretaria, además de que está muy cerca de la capital del estado, está muy fácil el acceso, hay facilidades para poder llegar a este hermoso lugar que tiene Hidalgo.   Elizabeth Quintanar: Vengan con mucho cuidado, se los recomiendo, a cualquier destino. Vengan con mucho cuidado y revisen su auto, y hay dos accesos: lo que llamamos carretera vieja, que es subiendo por San Juan Pachuca. Está a 12 km de Pachuca. En una canción que traigas en tu... te iba a decir en tu estéreo, en Súper Estéreo, en tu CD, en tu memoria, en la radio, en lo que traigas de música, en una canción estás en Pachuca, concluye la canción y ya estás en Real. Porque la llegada es muy, muy breve. Por el corredor de la montaña, que además nos da el inicio de este triángulo mágico de Real del Monte, Huasca, Mineral del Chico, vengan con cuidado porque está lloviendo, pero si usted maneja a 40 por hora con las intermitentes y de manera muy adecuada no hay por qué suceda nada. Así es que vengan, manejen con precaución y visiten Real del Monte en este Festival del Paste 9, 10 y 11 a partir de las 10 de la mañana, que además tiene una cartelera cultural porque hay música, hay danza. En Hidalgo Travel, en Secretaría de Turismo, en Liz Quintanar, en el Ayuntamiento de Real del Monte está la cartelera.   Locutor (Jesús): Va a haber muchos eventos culturales alrededor de este gran evento. Fíjese nada más el plan para fin de semana, secretaria: la gente puede ir a Pachuca, está la feria, y darse tiempo también para ir a este festival tan importante para el Estado de Hidalgo.   Elizabeth Quintanar: Quédese en un hotel, dense ese regalo. No diga: «Luego lo hago, luego que encuentre a alguien, ahorita tengo este pendiente», ¡no, no, no! Hay hoteles a partir de 550 pesos, 900 para dos personas, para tres o para cuatro. Desde 600 pesos hay hoteles o cabañas: 600, 900, 1200, 1500 con diferentes amenidades, pero dense ese lujo, de eso se trata la vida. Todas las doctoras y los doctores deberían de recomendar hacer turismo para que las personas la pasen bien emocionalmente, físicamente y energéticamente. Dense ese regalo, reserve un hotel. Como bien lo dices, Jesús: Feria San Francisco y después Festival del Paste, ¡qué buen plan!   Locutor (Jesús): Secretaria de Turismo aquí en Hidalgo, Liz Quintanar, muchas gracias, siempre es un gusto platicar con usted por toda la manera en que expresa Hidalgo, porque como usted lo dice: «Hidalgo tiene algo», secretaria.   Elizabeth Quintanar: Sí, amigos de Súper Estéreo, vengan fin de semana. 60 pesos la entrada de la feria, 40 pesos a niños y tercera edad. Jesús, permíteme decirles que vengan al festival... a la feria, que vengan al evento del circo, es la familia Atayde, es esa garantía, es ese sello. Es un circo que en cualquier ciudad costaría quizás 600 u 700 u 800 pesos la entrada y aquí lo goza solo al pagar su boleto de la feria. Fue un compromiso del gobernador Julio Menchaca. Y el espectáculo sobre hielo se llama Destino, es de la calidad de Broadway..de cualquier lugar del mundo, désele ese regalo a su familia. El espectáculo sobre hielo, el circo, el megadomo de las estrellas, y visitas del pabellón. Mirá, algo tiene algo, porque están los pueblos mágicos, los pueblos con sabor y muchas personas ofertando sus destinos, entre ellos el Festival del Paste. Hay que ir al Festival del Paste y a la feria. Gracias secretaria que tengan buena tarde. Jesús amigos, un abrazo y sean felices viniendo fin de semana aquí a la feria y al Festival del Paste, los esperamos Muchas gracias, ella es la secretaria de turismo aquí en Hidalgo, Liz Quintanar</Contenido>
+		<Liga>https://drive.google.com/file/d/1bD_pNk8i2ZDlDxZyxGN-Gda5ucNccUP-/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>388</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Personas_mencionadas>Elizabeth Quintanar</Personas_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>Vía telefonica secretaria de Turismo del Estado de Hidalgo, Elizabeth Quintanar con el tema : 18 Festival del Paste en Real del Monte e Invitación a Feria Pachuca. Por su parte, la secretaria de Turismo de Hidalgo, Liz Quintanar, invitó al Festival del Paste en Real del Monte, destacando la variedad gastronómica de pastes y la oferta cultural. Asimismo, resaltó la cercanía del municipio con la capital, sugirió precauciones al conducir por la neblina o lluvia, y promovió las atracciones de la Feria San Francisco en Pachuca, como el Circo Atayde y el show sobre hielo.</Titular>
+		<Autor>Jesús González</Autor>
+		<Programa>Enfoque Regional Meridiano</Programa>
+		<Dependencia>Turismo</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Entrevista</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Festival Del Paste</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Mineral del Monte</Municipio>
+		<Contenido>Y me da mucho gusto saludar, siempre es un placer saludar a la secretaria de Turismo del Estado de Hidalgo, Elizabeth Quintanar. Secretaria, ¿cómo está? Muy buena tarde.   Elizabeth Quintanar (Secretaria de Turismo de Hidalgo): ¡Amigos de Súper Estéreo, Jesús, qué alegría saludarles y decirles que Hidalgo tiene algo especial para cada uno de ustedes!   Locutor (Jesús): En esta ocasión, secretaria, me gustaría platicar con usted sobre el Festival del Paste que ya se viene en una edición más aquí en el Estado de Hidalgo, secretaria.   Elizabeth Quintanar: 9, 10 y 11 Real del Monte ofrece el sabor del paste. Las casas productoras de paste, las familias que preparan de generación en generación esta receta han preparado para ustedes pastes... Les voy a decir de lo que yo he encontrado y con esto hago la invitación a nombre del gobernador Julio Menchaca, porque el gobernador está invitando a todas y a todos. Estuvimos en una reunión, permítanme compartirles, con diferentes personas de la Guardia Nacional hablando de diferentes temas, y entonces les decía: «Oiga, vengan», como llegó el nuevo dirigente, el general de la Guardia Nacional, le dijo: «Oiga, ¿usted quiere conocer Hidalgo?», lo mismo que yo le repito a todas y a todos los que no lo conocen y los que lo conocen regresen, dijo: «Vaya al Festival del Paste porque es nuestro platillo emblemático de la montaña que nos heredaron los ingleses, pero que las madres de familia, las mamás, las tías, las abuelitas han modificado y chuleado la receta». Y con esto les compartía: he visto pastes de bacalao, de chile en nogada, por supuesto de arroz con leche, de piña, de papa, de frijol, de mole verde, de mole rojo, y es una gran oportunidad para venir a este pueblo en la montaña a probar un café, un chocolate de olla, un paste, un elote, unos esquites y disfrutar de este pueblo mágico que ofrece cinco diferentes museos y pasar un estupendo fin de semana.   Locutor (Jesús): Ya nos dio hambre con eso que nos acaba de decir, secretaria. Ir a disfrutar de los pastes allá en Real del Monte, que además es un pueblo mágico que está precioso, secretaria.   Elizabeth Quintanar: Al estar casi a 3000 metros sobre el nivel del mar, con esas casas características de dos techos de agua en donde escurre el aguanieve, característico la neblina y esa lloviznita, pues es una gran oportunidad subirse a un turibús y dejarse guiar por uno de los guías que cuentan la historia de lo que fue este pueblo minero que hoy ofrece estas calles empedradas, esta comida deliciosa, porque no solo hay pastes, hay restaurantes que ofrecen gastronomía de todo tipo, desde cortes hasta enchiladas mineras, tlacoyos tulancingueños, mole, panza, de todo. Así es que vengan a Real del Monte, caminen, disfruten de la mano de quien más quieran: abuelita, abuelito, novia, novio, hijos. ¿Saben qué es muy hermoso? Ir descubriendo las fachadas, la arquitectura, por supuesto la historia de este hermoso pueblo acá muy cerca del cielo con esta neblina y esta brisna.   Locutor (Jesús): Secretaria, además de que está muy cerca de la capital del estado, está muy fácil el acceso, hay facilidades para poder llegar a este hermoso lugar que tiene Hidalgo.   Elizabeth Quintanar: Vengan con mucho cuidado, se los recomiendo, a cualquier destino. Vengan con mucho cuidado y revisen su auto, y hay dos accesos: lo que llamamos carretera vieja, que es subiendo por San Juan Pachuca. Está a 12 km de Pachuca. En una canción que traigas en tu... te iba a decir en tu estéreo, en Súper Estéreo, en tu CD, en tu memoria, en la radio, en lo que traigas de música, en una canción estás en Pachuca, concluye la canción y ya estás en Real. Porque la llegada es muy, muy breve. Por el corredor de la montaña, que además nos da el inicio de este triángulo mágico de Real del Monte, Huasca, Mineral del Chico, vengan con cuidado porque está lloviendo, pero si usted maneja a 40 por hora con las intermitentes y de manera muy adecuada no hay por qué suceda nada. Así es que vengan, manejen con precaución y visiten Real del Monte en este Festival del Paste 9, 10 y 11 a partir de las 10 de la mañana, que además tiene una cartelera cultural porque hay música, hay danza. En Hidalgo Travel, en Secretaría de Turismo, en Liz Quintanar, en el Ayuntamiento de Real del Monte está la cartelera.   Locutor (Jesús): Va a haber muchos eventos culturales alrededor de este gran evento. Fíjese nada más el plan para fin de semana, secretaria: la gente puede ir a Pachuca, está la feria, y darse tiempo también para ir a este festival tan importante para el Estado de Hidalgo.   Elizabeth Quintanar: Quédese en un hotel, dense ese regalo. No diga: «Luego lo hago, luego que encuentre a alguien, ahorita tengo este pendiente», ¡no, no, no! Hay hoteles a partir de 550 pesos, 900 para dos personas, para tres o para cuatro. Desde 600 pesos hay hoteles o cabañas: 600, 900, 1200, 1500 con diferentes amenidades, pero dense ese lujo, de eso se trata la vida. Todas las doctoras y los doctores deberían de recomendar hacer turismo para que las personas la pasen bien emocionalmente, físicamente y energéticamente. Dense ese regalo, reserve un hotel. Como bien lo dices, Jesús: Feria San Francisco y después Festival del Paste, ¡qué buen plan!   Locutor (Jesús): Secretaria de Turismo aquí en Hidalgo, Liz Quintanar, muchas gracias, siempre es un gusto platicar con usted por toda la manera en que expresa Hidalgo, porque como usted lo dice: «Hidalgo tiene algo», secretaria.   Elizabeth Quintanar: Sí, amigos de Súper Estéreo, vengan fin de semana. 60 pesos la entrada de la feria, 40 pesos a niños y tercera edad. Jesús, permíteme decirles que vengan al festival... a la feria, que vengan al evento del circo, es la familia Atayde, es esa garantía, es ese sello. Es un circo que en cualquier ciudad costaría quizás 600 u 700 u 800 pesos la entrada y aquí lo goza solo al pagar su boleto de la feria. Fue un compromiso del gobernador Julio Menchaca. Y el espectáculo sobre hielo se llama Destino, es de la calidad de Broadway. de cualquier lugar del mundo, désele ese regalo a su familia. El espectáculo sobre hielo, el circo, el megadomo de las estrellas, y visitas del pabellón. Mirá, algo tiene algo, porque están los pueblos mágicos, los pueblos con sabor y muchas personas ofertando sus destinos, entre ellos el Festival del Paste. Hay que ir al Festival del Paste y a la feria. Gracias secretaria que tengan buena tarde. Jesús amigos, un abrazo y sean felices viniendo fin de semana aquí a la feria y al Festival del Paste, los esperamos Muchas gracias, ella es la secretaria de turismo aquí en Hidalgo, Liz Quintanar</Contenido>
+		<Liga>https://drive.google.com/file/d/1GR7QU-yKNk5de6d5oYga9mY6q-WkRVPW/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>388</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Personas_mencionadas>Elizabeth Quintanar</Personas_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Radio Lobo 96.7 FM</Radiodifusora>
+		<Titular>Invierten 20.4 millones de pesos a nuevo bachillerato nacional de Tezontepet de Aldama. Natividad Castrejón destacó que el nuevo plantel permitirá ampliar las oportunidades educativas para jóvenes de la región, como parte de las acciones para fortalecer y ampliar la cobertura educativa en Hidalgo. El secretario de Educación Pública del Estado, Natividad Castrejón Valdés, encabezó la colocación de la primera piedra de bachillerato nacional, Margarita Maza, en Tezontepet de Aldama, obra que contará con una inversión de 20.4 millones de pesos.</Titular>
+		<Autor>Gina Lorenzo</Autor>
+		<Programa>Enlace Noticias</Programa>
+		<Dependencia>SEPH</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Bachillerato Nacional</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Tezontepec de Aldama</Municipio>
+		<Contenido>Tenemos noticias desde el estado de Hidalgo, invierten 20.4 millones de pesos a nuevo bachillerato nacional de Tezontepet de Aldama. Natividad Castrejón destacó que el nuevo plantel permitirá ampliar las oportunidades educativas para jóvenes de la región, Como parte de las acciones para fortalecer y ampliar la cobertura educativa en Hidalgo, el secretario de Educación Pública del estado, Natividad Castrejón Valdez, encabezó la colocación de la primera piedra del Bachillerato Nacional “Margarita Maza”, en Tezontepec de Aldama, obra que contará con una inversión de 20.4 millones de pesos.Durante el acto, el titular de la Secretaría de Educación Pública de Hidalgo (SEPH) destacó que la educación media superior constituye un nivel decisivo dentro del sistema educativo, pues además de representar un derecho establecido en la Constitución, es una etapa fundamental en la que las y los jóvenes construyen su identidad, fortalecen su autonomía y amplían sus perspectivas para comprender y transformar su entorno.En representación del gobernador Julio Menchaca Salazar, Natividad Castrejón señaló que la construcción de nuevos planteles permitirá acercar los servicios educativos a más comunidades y avanzar en el reto de garantizar que las y los jóvenes en edad escolar ingresen, permanezcan y concluyan su educación media superior. Por su parte, la presidenta municipal de Tezontepec de Aldama destacó que la construcción del bachillerato representa una oportunidad para las nuevas generaciones y refleja el compromiso de las instituciones con el derecho de las y los jóvenes a contar con mejores condiciones para construir su futuro.</Contenido>
+		<Liga>https://drive.google.com/file/d/1U2Rb6g_fKzJQe2ifSYY2DzgPh_cmkiLG/view?usp=drivesdk</Liga>
+		<Duracion>Sí</Duracion>
+		<Medida_de_tiempo>122</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Medio_de_origen>Comunicado gubernamental</Medio_de_origen>
+		<Personas_mencionadas>Natividad Castrejón</Personas_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Radioescucha reporta la calle de Cuesco y casi toda la avenida tiene muchos baches nuevamente, piden arreglarla</Titular>
+		<Autor>Radioescucha</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Ayuntamiento</Dependencia>
+		<Organismo>Ayuntamiento</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Vialidad En Mal Estado</Tema>
+		<Estatus>Negativo</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Radioescucha comenta que ya se tardaron en arreglar en Venta Prieta, habían dicho que eran solo 45 dias y ya se pasaron del tiempo</Titular>
+		<Autor>Radioescucha</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Sipdus</Dependencia>
+		<Organismo>Sipdus</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Rehabilitación Vial</Tema>
+		<Estatus>Negativo</Estatus>
+		<Municipio>Pachuca</Municipio>
+		<Contenido>Radioescucha 2737 dice buenos días licenciado, un abrazo a su equipo de trabajo, solo para recordar a las autoridades que la obra de Venta Prieta comentaron que sería en 45 días, ya se pasaron del tiempo, a caray hay que revisar esto.</Contenido>
+		<Liga>https://drive.google.com/file/d/1ksnkMBl3r-76qCyqbawnb_mdoJ1sf_8X/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>13</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>La SIPDUS realiza labores para habilitar caminos y carreteras por las lluvias que han afectado en los ultimos días y en las ultimas horas al estado de Hidalgo</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Sipdus</Dependencia>
+		<Organismo>Sipdus</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Atención Afectaciones Por Lluvias</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>N/A</Municipio>
+		<Contenido>La SIPDUS realiza labores para habilitar caminos y carreteras por las lluvias que han afectado en los ultimos días y en las ultimas horas al estado de Hidalgo</Contenido>
+		<Liga>https://drive.google.com/file/d/1TBTZKQK-u7lDbVIjNzaHOLiSMCjsuUev/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>10</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>El réferi Gerardo Germán Pineda, también conocido como el Búho, murió durante una función de lucha libre realizada la noche del pasado martes en el Deportivo 11 de Julio. Durante la función, el luchador identificado como el hijo de Fishman le dio varios golpes al réferi y le aplicó una llave conocida como el martinete, lo que derivó en un desvanecimiento sobre el ring. Al lugar acudieron paramédicos para brindarle atención, sin embargo, el réferi falleció. De acuerdo con la Procuraduría General de Justicia del Estado de Hidalgo, el hijo de Fishman identificado con las iniciales J.A.N.L., quien participaba como luchador, fue detenido por la autoridad municipal y puesto a disposición del Ministerio Público por hechos posiblemente constitutivos de delito de homicidio culposo, toda vez que los hechos ocurrieron en el desarrollo de un espectáculo deportivo de lucha libre.</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>PGJEH</Dependencia>
+		<Organismo>PGJEH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Homicidios</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Mineral de la Reforma</Municipio>
+		<Contenido>El réferi Gerardo Germán Pineda, también conocido como el Búho, murió durante una función de lucha libre realizada la noche del pasado martes en el Deportivo 11 de Julio. Durante la función, el luchador identificado como el hijo de Fishman le dio varios golpes al réferi  y le aplicó una llave conocida como el martinete, lo que derivó en un desvanecimiento sobre el ring. Al lugar acudieron paramédicos para brindarle atención, sin embargo, el réferi falleció. De acuerdo con la Procuraduría General de Justicia del Estado de Hidalgo, el hijo de Fishman identificado con las iniciales J.A.N.L., quien participaba como luchador, fue detenido por la autoridad municipal y puesto a disposición del Ministerio Público por hechos posiblemente constitutivos de delito de homicidio culposo, toda vez que los hechos ocurrieron en el desarrollo de un espectáculo deportivo de lucha libre.</Contenido>
+		<Liga>https://drive.google.com/file/d/1-Hlrqw0TI0WbntLQ5tijSKb9jtW8kMsh/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>48</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Radioescucha Sr. Fidel pide apoyo para limpieza de calle primera cerrada de Ferrocarril Centra delante de la calle 14l; está muy sucia y ya hasta personas encontraron serpientes</Titular>
+		<Autor>Radioescucha</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Ayuntamiento</Dependencia>
+		<Organismo>Ayuntamiento</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Limpieza Urbana</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Vía telefonica diputada Claudia Lilia Luna Islas con el tema: Reformas aprobadas para grupos prioritarios y el trabajo legislativo que se a realizado.</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Congreso</Dependencia>
+		<Organismo>GLPAN</Organismo>
+		<Genero>Entrevista</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Trabajo legislativo</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Fíjese que en el Congreso del Estado de Hidalgo, se confirmó que el titular de la Oficina Mayor del Gobierno del Estado de Hidalgo, Orlando Ángeles Pérez, acudirá a comparecer el próximo jueves 22 de octubre. Adelante Jacky, La Junta de Gobierno del Congreso del Estado de Hidalgo, en uso de sus facultades y como parte de los ejercicios de análisis y rendición de cuentas del Poder Legislativo, acordó la comparecencia del titular de la Oficina Mayor del Gobierno del Estado, Edgar Orlando Ángeles Pérez, quien acudirá ante el Pleno el próximo jueves 22 de octubre, a las 16 horas.La determinación se realizó de común acuerdo entre el Congreso del Estado y el Poder Ejecutivo, privilegiando el diálogo, la coordinación y el respeto institucional entre poderes. La Junta de Gobierno, presidida por el diputado Andrés Velázquez Vázquez, estableció que este ejercicio permitirá a las y los legisladores ampliar la información y plantear los castigamientos correspondientes sobre los asuntos relacionados con esta dependencia. Asimismo, quedó abierta la posibilidad de emplear estos ejercicios de rendición de cuentas con titulares de otras dependencias y organismos del Gobierno del Estado, en caso de que así se determine.</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Congreso</Dependencia>
+		<Organismo>Junta de Gobierno</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Pachuca</Municipio>
+		<Contenido>Fíjese que en el Congreso del Estado de Hidalgo, se confirmó que el titular de la Oficina Mayor del Gobierno del Estado de Hidalgo, Orlando Ángeles Pérez, acudirá a comparecer el próximo jueves 22 de octubre. Adelante Jacky,  La Junta de Gobierno del Congreso del Estado de Hidalgo, en uso de sus facultades y como parte de los ejercicios de análisis y rendición de cuentas del Poder Legislativo, acordó la comparecencia del titular de la Oficina Mayor del Gobierno del Estado, Edgar Orlando Ángeles Pérez, quien acudirá ante el Pleno el próximo jueves 22 de octubre, a las 16 horas.La determinación se realizó de común acuerdo entre el Congreso del Estado y el Poder Ejecutivo, privilegiando el diálogo, la coordinación y el respeto institucional entre poderes. La Junta de Gobierno, presidida por el diputado Andrés Velázquez Vázquez, estableció que este ejercicio permitirá a las y los legisladores ampliar la información y plantear los castigamientos correspondientes sobre los asuntos relacionados con esta dependencia. Asimismo, quedó abierta la posibilidad de emplear estos ejercicios de rendición de cuentas con titulares de otras dependencias y organismos del Gobierno del Estado, en caso de que así se determine. Jacqueline Servín</Contenido>
+		<Liga>https://drive.google.com/file/d/1V7c1h6oJe30F__cztwrEGB6NRpapl1uQ/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>63</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Dependencias_mencionadas>Oficina Mayor del Gobierno del Estado</Dependencias_mencionadas>
+		<Personas_mencionadas>Edgar Orlando Ángeles Pérez</Personas_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Actas certificadas de nacimiento, matrimonio, defunción y otros actos del estado civil pueden solicitarse directamente en el Registro del Estado Familiar de Hidalgo, como parte de la política del gobernador Julio Menchaca Salazar de acercar los servicios a la población y facilitar el acceso a trámites que brindan certeza jurídica.A través de la Secretaría de Gobierno, se fortalecen las acciones del Registro del Estado Familiar para que, de manera ágil, la ciudadanía acceda a documentos oficiales que acreditan su identidad o estado civil, y que son necesarios para realizar trámites personales, escolares, laborales, administrativos y legales. Celia Ramírez Godínez, directora general del organismo, informó que en sus instalaciones pueden solicitarse actas correspondientes a registros realizados en Hidalgo, así como documentos de otras entidades federativas, siempre que la información se encuentre disponible en el Sistema Nacional SIDEA.</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>Segobh</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Registro Familiar</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Pachuca</Municipio>
+		<Contenido>Actas certificadas de nacimiento, matrimonio, defunción y otros actos del estado civil pueden solicitarse directamente en el Registro del Estado Familiar de Hidalgo, como parte de la política del gobernador Julio Menchaca Salazar de acercar los servicios a la población y facilitar el acceso a trámites que brindan certeza jurídica.A través de la Secretaría de Gobierno, se fortalecen las acciones del Registro del Estado Familiar para que, de manera ágil, la ciudadanía acceda a documentos oficiales que acreditan su identidad o estado civil, y que son necesarios para realizar trámites personales, escolares, laborales, administrativos y legales. Celia Ramírez Godínez, directora general del organismo, informó que en sus instalaciones pueden solicitarse actas correspondientes a registros realizados en Hidalgo, así como documentos de otras entidades federativas, siempre que la información se encuentre disponible en el Sistema Nacional SIDEA. El costo de las actas certificadas es de 152 pesos, mientras que las constancias de inexistencia de registro tienen un costo de 76 pesos, conforme a las tarifas establecidas. Además de la expedición de actas, se ofrecen servicios relacionados con los actos del estado civil, entre ellos constancias de inexistencia de matrimonio e inexistencia de hijos, correcciones administrativas, enrolamiento de CURP biométrica, expedición de actas certificadas para apostilla, anotaciones marginales, inscripciones de nacimiento y servicios del área de extranjería.La atención, refirió Celia Ramírez, se brinda de lunes a viernes, de 9:00 a 16:00 horas, en las instalaciones ubicadas en bulevar Everardo Márquez número 208, colonia Ex Hacienda de Coscotitlán, en Pachuca.</Contenido>
+		<Liga>https://drive.google.com/file/d/1H48ATph_P9wq0hlKwEw79Y-atv0EF46e/view?usp=drivesdk</Liga>
+		<Duracion>Sí</Duracion>
+		<Medida_de_tiempo>98</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Medio_de_origen>Comunicado gubernamental</Medio_de_origen>
+		<Personas_mencionadas>Celia Ramírez Godínez</Personas_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Derivado de las precipitaciones pluviales, elementos de la Secretaría de Seguridad Pública de Hidalgo (SSPH) participan en acciones de auxilio, abanderamiento y vigilancia en carreteras y caminos de comunidades pertenecientes a los municipios de Tlanchinol, Yahualica, Xochiatipan, Huejutla de Reyes y Tenango de Doria, entre otras localidades</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>SSPH</Dependencia>
+		<Organismo>SSPH</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Atención Afectaciones Por Lluvias</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>N/A</Municipio>
+		<Contenido>La Secretaría de Seguridad Pública de Hidalgo mantiene apoyos de vigilancia en los municipios de la Sierra Huasteca Hidalguense afectados por las últimas, por las lluvias de los últimos días y de las últimas horas. Escuchamos a Jacky Servín. Derivado de las precipitaciones pluviales, elementos de la Secretaría de Seguridad Pública de Hidalgo participan en acciones de auxilio, abanderamiento y vigilancia en carreteras y caminos de comunidades pertenecientes a los municipios de Tlanchinol, Yahualica, Xochiatipan, Huejutla de Reyes y Tenango de Doria, entre otras localidades. En coordinación con otras instancias, se realizan maniobras para liberar vialidades, prevenir accidentes y mantener cierres preventivos en zonas de riesgo ante derrumbes, afectaciones en puentes y aumento de niveles de agua.</Contenido>
+		<Liga>https://drive.google.com/file/d/12DUoTZZYRcbQI9VcoSpSd8DBg96eVIYv/view?usp=drivesdk</Liga>
+		<Duracion>Sí</Duracion>
+		<Medida_de_tiempo>42</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Medio_de_origen>Comunicado gubernamental</Medio_de_origen>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Particular agrede violentamente a servidores públicos del Sitmah cuando estos se encontraban desempeñando las labores que les señala la ley, estos hechos acontecieron aproximadamente a las 8:25 horas de este día, en el exterior de la estación San Antonio, en sentido sur. Por estos hechos se ha iniciado ante las autoridades competentes la carpeta de investigación respectiva para el deslinde y fincamiento de lo que resulte.</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Semot</Dependencia>
+		<Organismo>Sitmah</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Agresión a servidor público</Tema>
+		<Estatus>Neutro</Estatus>
+		<Municipio>Pachuca</Municipio>
+		<Contenido>Fíjese que un automovilista agredió con líquido, pues muy caliente, a un inspector del Tuzobús, en la estación San Antonio. Ya se inició una carpeta de investigación, vamos a escuchar la información al respecto. Adelante. La Secretaría de Movilidad y Transporte de Hidalgo informó que un automovilista particular agredió violentamente a servidores públicos del Sistema Integrado de Transporte Masivo, cuando estos se encontraban desempeñando las labores que le señala la ley. Estos hechos ocurrieron en el exterior de la estación San Antonio en sentido sur. Por esta agresión se ha iniciado ante las autoridades competentes la carpeta de investigación respectiva para el deslinde y fincamiento de lo que resulte. El hecho sucedió mientras el personal del organismo realizaba labores de supervisión y vigilancia durante las cuales intervino a una persona motociclista por hacer uso indebido del carril confinado. Mientras se desarrollaba esta intervención, una persona totalmente ajena al asunto, a bordo de un vehículo particular que circulaba por los carriles centrales, se aproximó al lugar y agredió de manera física y verbal al personal. Ante esta situación, uno de los inspectores realizó una intervención para contener la agresión. Posteriormente, la persona señalada como agresora se retiró del lugar no sin antes arrojar líquido hirviente en contra del personal. El sistema integrado de transporte masivo hace un llamado a respetar el carril confinado y las disposiciones de tránsito, así como el personal que realiza labores de supervisión y vigilancia, quienes desempeñan sus funciones en cumplimiento de la normatividad vigente.</Contenido>
+		<Liga>https://drive.google.com/file/d/15ww7-VFf1WAN-vxYpSRiaP9PKpJGqY35/view?usp=drivesdk</Liga>
+		<Duracion>Sí</Duracion>
+		<Medida_de_tiempo>83</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Medio_de_origen>Comunicado gubernamental</Medio_de_origen>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Eulalio Larrieta agradece Hans Islas del ayuntamiento de Mineral de la Reforma , por su apoyo en pasar los reportes.</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Ayuntamiento</Dependencia>
+		<Organismo>Ayuntamiento</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Atención Ciudadana</Tema>
+		<Estatus>Positivo</Estatus>
+		<Municipio>Mineral de la Reforma</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Eulalio Larrieta informa que Jorge Hernández del ayuntamiento de Pachuca, esta al pendiente de todos los reportes de la ciudadania del Municipio de Pachuca</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Ayuntamiento</Dependencia>
+		<Organismo>Ayuntamiento</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Atención Ciudadana</Tema>
+		<Estatus>Positivo</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Eulalio Larrieta agradece a Carlos Gamiño por estar al pendiente de temas.</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Congreso</Dependencia>
+		<Organismo>Congreso</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Atención Ciudadana</Tema>
+		<Estatus>Positivo</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Eulalio Larrieta agradece a Jair Martínez de la SEGOBH, porque esta al pendiente de lo que se necesite y los reportes.</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>Segobh</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Atención Ciudadana</Tema>
+		<Estatus>Positivo</Estatus>
+		<Municipio>N/A</Municipio>
+		<Contenido>Y Jair Martínez de la Secretaría de Gobierno. Muchas, pero muchas gracias a todos y a cada uno de ustedes que siempre están con nosotros con Panorama Informativo de Pachuca.</Contenido>
+		<Liga>https://drive.google.com/file/d/1nXvJq1rm-7cXvuGg091qJn_JUjngPuzb/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>9</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Personas_mencionadas>Jair Martínez</Personas_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Eulalio Larrieta agradece a Cristian Yahir Castañeda supervisor de la región Pachuca quien nos va atender los reportes que correspondan a la SEMOT</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Semot</Dependencia>
+		<Organismo>Semot</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Atención Ciudadana</Tema>
+		<Estatus>Positivo</Estatus>
+		<Municipio>N/A</Municipio>
+		<Contenido>Está con nosotros Cristian Yahir Castañeda, Movilidad Transporte</Contenido>
+		<Liga>https://drive.google.com/file/d/1_Pvs_lkzpmNFSLnj0YAiO1cyuStHM9Tq/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>3</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Personas_mencionadas>Cristian Yahir Castañeda</Personas_mencionadas>
+	</Nota>
+	<Nota>
+		<Fecha>46303</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Eulalio Larrieta agradece Paola García y Lic. Sarahi Pineda, por estar atentas a los mensajes de la ciudadanía y por atenderlos.</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Sipdus</Dependencia>
+		<Organismo>Caasim</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Atención Ciudadana</Tema>
+		<Estatus>Positivo</Estatus>
+		<Municipio>N/A</Municipio>
+		<Contenido>Bueno, también de las diferentes dependencias, también está Paola García junto con Sarahi Pineda de la Caasim.</Contenido>
+		<Liga>https://drive.google.com/file/d/15Rp8xbZ830WHz5H2Ntuplz3jLS8VvO_P/view?usp=drivesdk</Liga>
+		<Duracion>No</Duracion>
+		<Medida_de_tiempo>6</Medida_de_tiempo>
+		<Replica>Segundos</Replica>
+		<Personas_mencionadas>Paola García, Sarahi Pineda</Personas_mencionadas>
+	</Nota>
+</NotasRadio>

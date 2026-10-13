@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NotasRadio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Nota>
+		<Numero>34</Numero>
+		<ID>SEPH/Bol.1924-A/2026</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Más y mejores espacios para aprender; Natividad Castrejón entrega obra educativa por 12.9 mdp en Huichapan</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>SEPH</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Entrega de infraestructura escolar</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Huichapan</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>33</Numero>
+		<ID>STPSH/Bol.88/2026</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Empleotón 2026 impulsa inclusión laboral en Hidalgo</Titular>
+		<Autor>Izza Hernández</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>STPSH</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Inclusión laboral</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>29</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Tres personas fueron encontradas sin vida y con quemaduras al interior de una vivienda en la comunidad de Palo Hueco, dentro del municipio de Tepeapulco, durante la madrugada de este lunes, luego de que se reportara un incendio en el inmueble. Tras recibir el llamado de emergencia, elementos de la Policía Municipal y de Protección Civil acudieron al lugar para atender el siniestro y realizar las labores para sofocar las llamas. Sin embargo, durante las acciones de atención, los cuerpos de emergencia localizaron tres cuerpos calcinados en el interior de la vivienda, así como un mensaje con amenazas, cuyo contenido y posible relación con los hechos no han sido esclarecidos. Ante el hallazgo, se notificó a la Procuraduría General de Justicia del Estado de Hidalgo para iniciar las investigaciones correspondientes y al Servicio Médico Forense para el levantamiento y traslado de los cuerpos. Hasta el momento, no se ha revelado la identidad de las víctimas ni se ha informado sobre posibles personas detenidas por estos hechos.</Titular>
+		<Autor>Izza Hernández</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>PGJEH</Dependencia>
+		<Organismo>PGJEH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Localización de cuerpo</Tema>
+		<Estatus>Negativa</Estatus>
+		<Municipio>Tepeapulco</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>28</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Un túnel que comunicaba dos espacios dentro de un mismo terreno y diversos indicios de procesamiento de droga sintética fueron localizados durante un cateo realizado en la colonia Guadalupe Victoria, en Cuautepec de Hinojosa, Hidalgo. El operativo fue encabezado por elementos de la Secretaría de Seguridad Pública de Hidalgo (SSPH), en coordinación con la Procuraduría General de Justicia del estado, la Secretaría de la Defensa Nacional y la Guardia Nacional, tras labores de inteligencia. De acuerdo con la información oficial, los inmuebles aparentaban ser propiedades independientes desde el exterior; sin embargo, durante la inspección se descubrió que ambos estaban conectados por un pasadizo subterráneo que iniciaba en el baño de uno de los espacios y llegaba hasta el otro. En el lugar también fueron aseguradas 489 dosis de presuntas drogas: 406 de hierba seca con características similares a la marihuana y 83 de una sustancia granulada con características propias del cristal. Además, las autoridades encontraron un dispositivo artesanal aparentemente utilizado para calentar precursores químicos, dos tinacos con capacidad de mil 100 litros cada uno, ollas con residuos de cocción de presunta metanfetamina, restos de una pasta que aún no terminaba de secarse y utensilios para filtrar y procesar sustancias. Los objetos y materiales localizados quedaron a disposición de las autoridades correspondientes, que continuarán con las investigaciones para establecer qué actividades se realizaban en el predio y determinar las posibles responsabilidades. La SSPH indicó que el aseguramiento forma parte de las acciones coordinadas para combatir la producción y distribución de drogas en Hidalgo.</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>SSPH</Dependencia>
+		<Organismo>SSPH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Narcolaboratorio</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Cuautepec</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>27</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Se confirmó la localización con vida de Isabella Reyes Escalona, una niña de apenas 4 años que había sido reportada como desaparecida en el estado de Hidalgo. La pequeña era buscada desde finales de julio, cuando se perdió el rastro de su paradero, lo que generó preocupación y movilizó los esfuerzos para dar con ella. El hallazgo fue confirmado por una tía de la menor, identificada como Vanessa, quien agradeció la difusión de la ficha de búsqueda y confirmó que la menor se encuentra sana y salva, en compañía de su familia:</Titular>
+		<Autor>Izza Hernández</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>PGJEH</Dependencia>
+		<Organismo>PGJEH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Exigen localización de persona</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Tizayuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>21</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Dos movilizaciones se registraron este lunes en las inmediaciones del Congreso del Estado de Hidalgo, donde manifestantes exigieron la liberación de tres personas que enfrentan procesos judiciales y las protestas coincidieron de hecho con la comparecencia del secretario de gobierno Guillermo Olivares Reina, todo esto como parte de la glosa del cuarto informe del gobernador Julio Menchaca Salazar. Pero por un lado simpatizantes del exalcalde de Tlaxcoapan Miguel Ángel López Hernández se pronunciaron a favor de su liberación, luego de que el ex funcionario iniciara una huelga de hambre la semana pasada en el Cereso de Actopan, donde permanece recluido desde noviembre del 2024. A través de un escrito dirigido a sus familiares y a la ciudadanía, López Hernández señaló que considera ser víctima de su de una presunta persecución política y solicitó también que se revisen los procesos penales en su contra. También afirmó haber pues obtenido resoluciones favorables en tres causas judiciales y cuestionó también la falta de nuevos medicamentos cuando, según su versión, pues estaba cerca de recuperar su libertad. Pero así el exalcalde gobernó Tlaxcoapan durante los periodos 2006-2009 y 2012-2016. La segunda protesta fue encabezada por habitantes de Julián Villagrán, esta comunidad de Ixmiquilpan, quienes pidieron la liberación de Lorenzo Ramírez Ortiz y Macario Cruz Ramírez, ambos en prisión preventiva por un caso relacionado con el conflicto agrario pues que mantienen con pobladores de Pueblo Nuevo. De hecho, los manifestantes sostienen que los dos hombres son inocentes y denuncian también presuntas irregularidades en su detención. De acuerdo con su versión, ambos fueron convocados a una supuesta mesa de diálogo sobre la disputa territorial, esto en un módulo de servicios administrativos del gobierno estatal de Actopan, pero en lugar de concretarse el acuerdo fueron detenidos. De hecho, aseguraron que durante este procedimiento no se les presentó una orden de aprehensión, pero sí el caso está relacionado con hechos ocurridos el 20 de abril del 2024, cuando se registró un conflicto por terrenos entre ambas comunidades. Habitantes de Pueblo Nuevo pues sí señalaron que alrededor de un centenar de personas procedentes del ejido Julián Villagrán ingresaron a la zona con maquinaria pesada y presuntamente también los despojaron de tierras mediante agresiones. Y pues los pobladores de Julián Villagrán rechazan esa acusación, niegan que Ramírez Ruiz y Cruz Ramírez hayan participado en estos hechos.</Titular>
+		<Autor>Izza Hernández</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Exigen liberación de persona</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>20</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>El otro tema que se tocó durante la comparecencia de Guillermo Olivares Reina, secretario general de gobierno del estado de Hidalgo, es la preliberación de 10 personas indígenas que se encuentran pues privadas de libertad, esto por cuestiones legales y que están en este momento en proceso de preliberación. Detalló Guillermo Olivares Reina, secretario general de gobierno del estado, que el pasado 15 de septiembre fue liberado un grupo de cuatro personas que presentaban problemas de salud y que cumplían con las condiciones para obtener su libertad anticipada, al estar sentenciadas por delitos no graves, y seis más están en proceso. Entre ellos, mencionó el de una persona con cuadriplejia que salió del centro de reinserción social de Pachuca, así como una adulta mayor con cáncer en fase terminal en el hígado y los riñones, quien obtuvo su libertad anticipada. Otra con osteoporosis degenerativa, hipertensión, trastorno de ansiedad y depresión, una más con traumatismo craneoencefálico moderado que requería cuidados las 24 horas del día. El funcionario estatal destacó que la defensoría pública ha realizado un excelente trabajo en favor de la población más vulnerable, con cerca de 300,000 casos atendidos en el que varias personas han logrado obtener su libertad y enfrentar sus procesos legales fuera de prisión, en especial atención a mujeres indígenas. Agregó que a través de las mesas de acercamiento de bienestar y paz se han recibido casos de personas indígenas que requieren apoyo para su defensa legal debido a sus condiciones económicas y que en muchos casos los enfrentan con la falta de asesoría jurídica. Señaló este sector desde hace desde muchos ángulos necesita apoyo y uno de esos es cuando desgraciadamente son privados de la libertad en ocasiones por delitos menores, pero por falta de asesoría jurídica siguen recluidos. Nosotros, dijo, vamos a hacer que recuperen su libertad. Olivares Reina informó que mediante las mesas de acercamiento de bienestar y paz se han atendido más de 700 casos relacionados con vulneraciones a los derechos humanos, con el acercamiento de las instituciones para dar seguimiento a sus planteamientos.</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>19</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Daniel Martínez respecto a las declaraciones del secretario de Gobierno Guillermo Olivares de que el operativo para retirar a trabajadores del Instituto Mexicano del Seguro Social (IMSS) que se manifestaban el pasado sábado 10 de octubre, fue por incumplimiento de acuerdos establecidos previamente con la Secretaría de Gobierno del Estado de Hidalgo; Daniel Martínez comenta lo siguiente: Me quedo con dos reflexiones de lo dicho por Olivares Huerta en la comparecencia del día de ayer. Dice el titular, el encargado de la política interna y de la seguridad, o de parte de la seguridad del estado de Hidalgo, dice que los trabajadores antepusieron intereses sindicales por encima de otros intereses, es decir, hay intereses de primera y de segunda. Los trabajadores no tienen derecho, entonces, a hablar de sus derechos laborales, de sus derechos sindicales y únicamente se tiene que limitar o circunscribir a otro tipo de derechos. ¿Cuáles son esos derechos de primera y de segunda, entonces? Uno y dos, "acomodé lugar" —y no estoy poniendo de mi cosecha ni nada por el estilo, son las palabras que utilizó Olivares Reina— "acomodé lugar", liberar las vialidades. Y vuelvo al tema del libre derecho a la manifestación. ¿Enoja? Sí. ¿Molesta? Sí. ¿Es un relajo Pachuca? Sí, por obras, por la feria, por muchas circunstancias. Entonces, ¿eso limita o prohíbe el derecho a la libre manifestación? Y finalmente, Olivares Reina también señala que si incumplieron acuerdos, ¿seguirán adelante esos acuerdos? Es pregunta que uno espera que no vaya a ser este, que no se vaya a quedar en el aire.</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Desalojo de manifestantes</Tema>
+		<Estatus>Negativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>15</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>El operativo para retirar a trabajadores del Instituto Mexicano del Seguro Social (IMSS) que se manifestaban el pasado sábado 10 de octubre, fue por incumplimiento de acuerdos establecidos previamente con la Secretaría de Gobierno del Estado de Hidalgo. La justificación fue establecida por el titular de dicha dependencia estatal, Guillermo Olivares Reyna, durante su comparecencia ante integrantes del Congreso del Estado de Hidalgo, este lunes 12 de octubre. Dicha manifestación se realizó frente a las instalaciones de la Clínica 36, en la ciudad de Pachuca, exigiendo la salida de sus representantes sindicales. “Si algo le corresponde a la Secretaría de Gobierno es preservar el orden a toda costa”, señaló Olivares Reyna, al recordar que el pasado sábado se registraron bloqueos tanto en bulevar Felipe Ángeles, como a la altura del Puente Atirantado. El funcionario estatal señaló que con las obras viales que se llevan a cabo en este momento en la capital del Estado de Hidalgo, así como la celebración de la feria San Francisco, la ciudadanía exigía la liberación de las vialidades, y por ello se intervino. Respecto a las denuncias de trabajadores del IMSS sobre el presunto uso de la fuerza pública y el despliegue de binomios caninos, Olivares Reyna aseguró que en todo momento se respetaron los derechos humanos. Afirmó que se atenderán las solicitudes de la ciudadanía, “siempre y cuando sean pacíficas y respetuosas”. Olivares Reyna señaló que los acuerdos iniciales para liberar la circulación y evitar nuevos bloqueos, se estableció generar un vínculo con las autoridades federales, así como realizar recorridos por las unidades médicas para verificar la falta de medicamentos. Aseguró que acudió personalmente para entablar un diálogo con los trabajadores que bloqueaban las vialidades, acción que constituye un “ilícito” y explicó que, inicialmente, los manifestantes reclamaban la falta de insumos, medicamentos y personal médico, sin embargo, posteriormente, las demandas cambiaron y se centraron en un “conflicto sindical”. Reprochó que los manifestantes incumplieron lo pactado durante el viernes 9 de octubre, además de modificar sus exigencias, lo que, dijo, provocó un “choque de los problemas iniciales” y colocó el interés sindical por encima de las demandas iniciales.</Titular>
+		<Autor>Izza Hernández</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Desalojo de manifestantes</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>14</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Vía telefónica Natividad Castrejón, Secretario de la SEPH y el tema de su trabajo al frene de la dependencia informó que el próximo martes será su comparecencia ante el Congreso. Destacó los indicadores estatales en materia educativa, señalando que la entidad cuenta con una eficiencia terminal del 100% en nivel primaria y un destacado posicionamiento nacional en secundaria (94%) y educación superior (84%). No obstante, reconoció que el nivel medio superior representa el mayor reto, aunque la deserción escolar ha disminuido tras aumentar del 69% al 75% la retención en los últimos tres años de la actual administración. Respecto a la infraestructura afectada por las recientes contingencias meteorológicas, el funcionario detalló los trabajos de rehabilitación en municipios como Huehuetla, donde tres escuelas sufrieron daños severos. Tras valoraciones técnicas y la intervención de la CONAGUA con un muro de contención valuado en casi 100 millones de pesos, las obras de reconstrucción en dichos planteles presentan un avance superior al 70%, estimando su conclusión total entre finales de octubre y mediados de noviembre. Asimismo, indicó que persisten retos particulares de atención en regiones como Tlacotengo y Chahuatlán.</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>SEPH</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Entrevista</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>10</Numero>
+		<ID>SEPH/Bol.1924-A/2026</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Huichapan recibe infraestructura educativa por 12.9 mdp</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>SEPH</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Entrega de infraestructura escolar</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Huichapan</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>8</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Hoy tenemos comparecencias; a las 10:00 de la mañana estará la maestra María Esther Ramírez Vargas, de la Secretaría de Hacienda, y más tarde a las 4:00 horas (sic), la secretaria de Turismo, Lizbeth Quintana Gómez.</Titular>
+		<Autor>Aldo Falcón</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Turismo</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>7</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Hoy tenemos comparecencias; a las 10:00 de la mañana estará la maestra María Esther Ramírez Vargas, de la Secretaría de Hacienda, y más tarde a las 4:00 horas (sic), la secretaria de Turismo, Lizbeth Quintana Gómez.</Titular>
+		<Autor>Aldo Falcón</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Hacienda</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>6</Numero>
+		<ID>Segobh/Bol.098-A/2026</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Hidalgo refuerza la seguridad y el diálogo con atención cercana</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>5</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Andrés Torres comenta que siguen fuera del aire en la estación de Jacala en la frecuencia 91.1 FM. esto a causa de problemas técnicos</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>RTVH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Radiodifusoras</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Jacala</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>3</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Andrés Torres envía un saludo a Tizayuca, donde la seguridad es un problema grave. Menciona que la inseguridad, como una forma de contaminación en el Estado de México, afecta a esta área. Recientemente, hubo un asalto en una casa de empeño que resultó en persecuciones y un fuerte despliegue policial en las calles de Tizayuca. Torres expresa la esperanza de que la situación se controle pronto, planteando la difícil tarea de proteger a las comunidades de amenazas tanto internas como externas. Aldo Falcón añade que los delincuentes lograron robar pertenencias, celulares y dinero en efectivo.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>SSPH</Dependencia>
+		<Organismo>SSPH</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Inseguridad</Tema>
+		<Estatus>Negativa</Estatus>
+		<Municipio>Tizayuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>1</Numero>
+		<ID>SSH/Bol.176/2026</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Andrés Torres informó que la Secretaría de Salud del estado de Hidalgo ha iniciado la campaña de vacunación invernal, aunque el invierno aún no comienza. La campaña tiene como objetivo aplicar más de 1.5 millones de dosis para covid e influenza. Los grupos prioritarios incluyen a niños menores de 5 años, adultos mayores y personas con enfermedades crónicas. Se invita a toda la población a acercarse a su centro de salud, hospital o clínica cercana para recibir las vacunas, ya que la inmunización es importante para estar protegidos durante la temporada invernal, que se espera sea fría. Aldo Falcón destacó que acudir al centro de salud para vacunarse es gratuito. Andrés también mencionó que, según los especialistas, es recomendable recibir un refuerzo de la vacuna contra el covid cada año o, si es posible, cada seis meses. Se enfatiza la importancia de la vacunación para asegurar la salud y la protección de las familias.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>SSH</Dependencia>
+		<Organismo>SSH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Tv Local</Canal>
+		<Tema>Vacunación</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>12</Numero>
+		<ID>UPLAPH/Bol.155/2026</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Ke Buena 106.7 FM</Radiodifusora>
+		<Titular>El gobierno de Hidalgo avanza en la simplificación y digitalización de trámites para mejorar la atención ciudadana y fortalecer la transparencia gubernamental, de acuerdo con lo señalado por Onésimo Serrano Rivera, encargado del despacho de la Unidad de Planeación y Prospectiva. Serrano Rivera asumió esta responsabilidad de manera inmediata tras la salida del anterior titular, Miguel Tello, destacando que estos procesos tecnológicos buscan construir un gobierno más cercano, confiable y comprometido con la población.</Titular>
+		<Autor>David Cárdenas</Autor>
+		<Programa>Noticias 106.7</Programa>
+		<Dependencia>Planeación</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Simplificación de trámites</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>San Agustín Tlaxiaca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>11</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Ke Buena 106.7 FM</Radiodifusora>
+		<Titular>Durante las coberturas de las comparecencias en el estado, David Cárdenas destaca la importancia de informar a la ciudadanía sobre este ejercicio fundamental de transparencia y rendición de cuentas. El proceso evalúa el cumplimiento de los criterios establecidos en el plan estatal de desarrollo desde su inicio hasta el momento actual.</Titular>
+		<Autor>David Cárdenas</Autor>
+		<Programa>Noticias 106.7</Programa>
+		<Dependencia>Gobierno</Dependencia>
+		<Organismo>Gobierno</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Positiva</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>10</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Ke Buena 106.7 FM</Radiodifusora>
+		<Titular>Durante su comparecencia ante el Congreso estatal, la secretaria de Hacienda, María Esther Ramírez Vargas, destacó que, bajo el liderazgo del gobernador Julio Menchaca Salazar, Hidalgo se posiciona como referente nacional en el manejo responsable de las finanzas públicas. Informó que el estado obtuvo el primer lugar nacional en crecimiento de recursos del Fondo General de Participaciones en el segundo trimestre de 2026, un incremento del 96% en ingresos propios y el primer lugar global en eficiencia recaudatoria del SAT. Asimismo, resaltó una inversión de más de 45,000 millones de pesos en obra pública y programas sociales, la reducción del 42% en la deuda pública heredada y calificaciones crediticias en nivel doble A.</Titular>
+		<Autor>David Cárdenas</Autor>
+		<Programa>Noticias 106.7</Programa>
+		<Dependencia>Hacienda</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>9</Numero>
+		<ID>Cultura/Bol.710/2026</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Ke Buena 106.7 FM</Radiodifusora>
+		<Titular>Durante su comparecencia ante el Congreso del Estado, la secretaria de Cultura, Neyda Naranjo Baltazar, informó sobre las acciones implementadas en los 84 municipios y destacó la realización de la Feria Internacional del Libro Infantil, así como la participación de Hidalgo en el Congreso Nacional de Bibliotecas Públicas. Asimismo, resaltó el reconocimiento a colaboradores por parte de la Secretaría de Cultura Federal para compartir estrategias en la Biblioteca Vasconcelos, la inclusión en programas sociales y el despliegue del talento artístico hidalguense en escenarios como el Festival Cervantino en Guanajuato, Tamaulipas y Veracruz.</Titular>
+		<Autor>David Cárdenas</Autor>
+		<Programa>Noticias 106.7</Programa>
+		<Dependencia>Cultura</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>8</Numero>
+		<ID>Segobh/Bol.098-A/2026</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Ke Buena 106.7 FM</Radiodifusora>
+		<Titular>Durante su comparecencia ante el Congreso del Estado de Hidalgo con motivo del cuarto informe de administración, el secretario de Gobierno, Guillermo Olivares Reina, destacó los avances en gobernabilidad, seguridad y bienestar social logrados bajo la administración del gobernador Julio Menchaca Salazar. Entre los puntos clave, resaltó que Hidalgo ocupa el noveno lugar nacional en el Índice de Paz México 2026 y la octava posición en percepción de seguridad, producto de la coordinación en más de 220 reuniones de seguridad y miles de acciones de vinculación ciudadana. Asimismo, informó sobre el incremento del 156% en el presupuesto destinado a las mujeres, la digitalización de más de 5 millones de registros y la recuperación de 385 inmuebles estatales. Durante la sesión, la diputada Cynthia Citlali Méndez cuestionó sobre el retraso en el proyecto de construcción de viviendas del bienestar en Ixmiquilpan —específicamente en la comunidad de El Balante— debido a un conflicto agrario. En respuesta, el secretario explicó que, ante la complejidad de dicha disputa, se optó por buscar un nuevo predio ofrecido en donación en el municipio para garantizar la celeridad del proyecto habitacional.</Titular>
+		<Autor>David Cárdenas</Autor>
+		<Programa>Noticias 106.7</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>6</Numero>
+		<ID>SEPH/Bol.1924-A/2026</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>Más y mejores espacios para aprender; Natividad Castrejón entrega obra educativa por 12.9 mdp en Huichapan</Titular>
+		<Autor>Jesús Riveros</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>SEPH</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Entrega de infraestructura escolar</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Huichapan</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>4</Numero>
+		<ID>Cultura/Bol.710/2026</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>A cuatro años del gobierno de Julio Menchaca Salazar, Cultura llegó por primera vez a los 84 municipios</Titular>
+		<Autor>Juan Carlos Santamaría</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>Cultura</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>2</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>A propósito de las acciones de acercamiento con la población y tras la comparecencia del secretario de Gobierno, Guillermo Olivares Reyna, este martes se programó una mesa de seguridad a partir de las 14:15 horas. El encuentro se llevará a cabo en la plaza principal del municipio de Tenango de Doria, con la presencia de las y los integrantes del Gabinete de Seguridad estatal, como parte del compromiso de continuar recorriendo las diversas regiones de la entidad hidalguense.</Titular>
+		<Autor>Juan Carlos Santamaría</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Mesas de acercamiento</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Tenango de Doria</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>1</Numero>
+		<ID>Segobh/Bol.098-A/2026</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>Hidalgo fortalece la paz, seguridad y el diálogo con atención cercana: Guillermo Olivares</Titular>
+		<Autor>Juan Carlos Santamaría</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>14</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Radioescucha Dice: «Muy buenos días, Lalito, bendecido martes. Muchísimas gracias por el apoyo, ¡ya nos cayó agüita! Gracias». ¿Les cayó agua? Porque entonces les cayó un hilito. Les cayó un hilito entonces, hemos de suponer, ¿no? No, ya aquí está, dice: en Río de Janeiro ya cayó agüita, dice. Pues bueno, les ha de haber caído el hilito de agua.</Titular>
+		<Autor>Radioescucha</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Sipdus</Dependencia>
+		<Organismo>Caasim</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Abasto de agua</Tema>
+		<Estatus>Positiva</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>34</Numero>
+		<ID>Saderh/Bol.82/2026</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>7 con 27 minutos. La Secretaría de Agricultura de Hidalgo entregó apoyos por 2.9 millones de pesos a productores de Lolotla (mencionado como Lulotla) en la Sierra Alta. El secretario Napoleón González Pérez informó que el beneficio llegará a 194 familias</Titular>
+		<Autor>Christian García</Autor>
+		<Programa>Enfoque Regional Matutino</Programa>
+		<Dependencia>Saderh</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Apoyo Al Agro</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Lolotla</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>4</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Eulalio Larrieta agradece a Jair Martínez de la SEGOBH, porque esta al pendiente de lo que se necesite y los reportes.</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>Segobh</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Atención Ciudadana</Tema>
+		<Estatus>Positiva</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>3</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Eulalio Larrieta agradece a Edith Balderas de la Secretaria de Educación Pública.</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>SEPH</Dependencia>
+		<Organismo>SEPH</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Atención Ciudadana</Tema>
+		<Estatus>Positiva</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>2</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Eulalio Larrieta agradece a Cristian Yahir Castañeda supervisor de la región Pachuca quien nos va atender los reportes que correspondan a la SEMOT</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Semot</Dependencia>
+		<Organismo>Semot</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Atención Ciudadana</Tema>
+		<Estatus>Positiva</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>1</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Eulalio Larrieta agradece Paola García y Lic. Sarahi Pineda, por estar atentas a los mensajes de la ciudadanía y por atenderlos.</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Sipdus</Dependencia>
+		<Organismo>Caasim</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Atención Ciudadana</Tema>
+		<Estatus>Positiva</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>23</Numero>
+		<ID>Mañanera</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>En dos mil veinticinco de cada cien mil habitantes de México, quince mil seiscientos cuarenta y dos tuvieron contacto con alguna persona servidora pública y experimentaron al menos un acto de corrupción. Hace dos años eran trece mil novecientos sesenta y seis y el INEGI marca ese aumento como estadísticamente significativo. E</Titular>
+		<Autor>Christian García</Autor>
+		<Programa>Enfoque Regional Matutino</Programa>
+		<Dependencia>Contraloría</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Combate a la corrupción</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>37</Numero>
+		<ID>Cultura/Bol.710/2026</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Radio Lobo 96.7 FM</Radiodifusora>
+		<Titular>La secretaria de Cultura, Neyda Naranjo Baltazar, presentó ante la LXVI Legislatura del Congreso del Estado el informe correspondiente al cuarto año de la administración de Julio Menchaca Salazar, enmarcado en el Eje 7 del Plan Estatal de Desarrollo 2022-2028.</Titular>
+		<Autor>Gina Lorenzo</Autor>
+		<Programa>Enlace Noticias</Programa>
+		<Dependencia>Cultura</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>29</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>Durante su comparecencia en el Congreso del Estado de Hidalgo, el secretario de Gobierno, Guillermo Olivares Reyna, fue cuestionado por el uso de la fuerza pública para replegar a trabajadores del Instituto Mexicano del Seguro Social que se manifestaron en bulevar Felipe Ángeles el pasado fin de semana.Al respecto, el secretario de Gobierno justificó la acción argumentando que previamente se había acordado con los manifestantes liberar la circulación y, al no cumplir con lo pactado y a petición de la ciudadanía afectada, se optó por llevar a policías estatales para retirar a los trabajadores inconformes.”Lo rompieron, bloquearon y, a partir de ahí y de surgir que lo que les interesaba era obedecer lo que sus líderes nacionales les decían y les decían que no tenían que levantar el bloqueo y que tenían que permanecer, bueno, pues entonces ya estábamos hablando de otra cosa. Ya estábamos hablando de una agresión a la sociedad, a las vías generales de comunicación, y eso pues, simple y sencillamente, no se puede permitir porque es transgredir el orden”</Titular>
+		<Autor>Christian García</Autor>
+		<Programa>Enfoque Regional Matutino</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>26</Numero>
+		<ID>Segobh/Bol.098-A/2026</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>El secretario de Gobierno de Hidalgo, Guillermo Olivares Reyna, afirmó que el diálogo y la atención directa han fortalecido la paz, la seguridad y la atención a las mujeres. Esto lo señaló durante su comparecencia ante el Congreso Local. Informó que en cuatro años se realizaron más de noventa y seis mil acciones de atención y vinculación, además de dos mil doscientos acercamientos regionales.También destacó una reducción de treinta y seis por ciento en homicidio doloso y de treinta y tres por ciento en delitos de alto impacto. En materia de atención a las mujeres, indicó que más de ciento cuarenta y siete mil usuarias recibieron servicios especializados y operan cuarenta y un Centros Violeta (mencionados como centros libre).</Titular>
+		<Autor>Christian García</Autor>
+		<Programa>Enfoque Regional Matutino</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>11</Numero>
+		<ID>Segobh/Bol.098-A/2026</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>En sesión ordinaria, el secretario de Gobierno, Guillermo Olivares Reyna, compareció ante el Congreso del Estado de Hidalgo como parte del procedimiento relativo al Cuarto Informe del estado que guardan los diversos ramos de la administración pública, encabezada por el gobernador Julio Menchaca.Dentro de los logros más destacados, el secretario informó que, en materia de seguridad y construcción de paz, Hidalgo se ubicó en el noveno lugar nacional en el Índice de Paz México 2026 y en la octava posición en percepción de seguridad.</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>19</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Radioescucha dice: “Muy buenos días, licenciado Larrieta, un gusto y un placer saludarlo a usted, a todo su equipo y a todos sus radioescuchas. Mi punto de vista muy personal, su servidor Emilio Osorio, acerca de lo que dice el secretario de Gobernación de por qué fueron desalojadas las personas del IMSS el día sábado</Titular>
+		<Autor>Radioescucha</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Desalojo de manifestantes</Tema>
+		<Estatus>Negativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>10</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Durante su comparecencia en el Congreso del Estado de Hidalgo, el secretario de Gobierno, Guillermo Olivares Reyna, fue cuestionado por el uso de la fuerza pública para replegar a trabajadores del Instituto Mexicano del Seguro Social que se manifestaron en bulevar Felipe Ángeles el pasado fin de semana.Al respecto,</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Desalojo de manifestantes</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>35</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>El Secretario de Educación Pública de Hidalgo, Natividad Castrejón Valdés, informó que una de cada cuatro estudiantes (jóvenes) interrumpe sus estudios antes de terminar la preparatoria. Ante esta situación, llamó a madres, padres de familia y docentes a acompañar y apoyar a las y los jóvenes para que continúen su formación. En primaria y secundaria, estamos comprometidos a mejorar la calidad educativa, ¿No? Que tengan mejores conocimientos cuando terminan esas etapas, porque ahí la cobertura está cubierta.</Titular>
+		<Autor>Christian García</Autor>
+		<Programa>Enfoque Regional Matutino</Programa>
+		<Dependencia>SEPH</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Deserción escolar</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>27</Numero>
+		<ID>SEPH/Bol.1924-A/2026</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>Con una inversión de doce punto nueve millones de pesos el secretario de educación de Hidalgo Natividad Castrejón Valdés entregó un edificio de dos niveles con doce aulas en la primaria Pedro María Anaya allá en Huichapan. Durante su gira de trabajo también recorrió la Universidad Nacional Rosario Castellanos allá en Tecozautla, donde estudian ciento veintiún jóvenes en tres licenciaturas y noventa aspirantes cursan en el semestre propedéutico para ingresar a medicina o enfermería.R</Titular>
+		<Autor>Christian García</Autor>
+		<Programa>Enfoque Regional Matutino</Programa>
+		<Dependencia>SEPH</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Entrega de infraestructura escolar</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Tecozautla</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>33</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>Familiares exalcalde de Tlaxcoapan, señalado por peculado y recluido desde hace dos años, se manifestaron afuera del Congreso de Hidalgo, exigen libertad para el expresidente municipal y lo consideran como un preso político.</Titular>
+		<Autor>Christian García</Autor>
+		<Programa>Enfoque Regional Matutino</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Exigen liberación de persona</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>18</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Radioescucha Sr. Pedro Nieto dice: Solamente para reportar una pequeña fuga de agua. Esta se está generando... se está generando en la calle de Padierna, frente al número 103, en el barrio San Clemente, envió evidencia</Titular>
+		<Autor>Radioescucha</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Sipdus</Dependencia>
+		<Organismo>Caasim</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Fuga De Agua</Tema>
+		<Estatus>Negativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>31</Numero>
+		<ID>STPSH/Bol.88/2026</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>El Empleotón 2026 reunió a 17 empresas en el CRIT Hidalgo, donde se ofrecieron 397 vacantes para personas que buscan incorporarse al empleo formal. La Feria Nacional de Empleo para Grupos Vulnerables registró la asistencia de 158 personas y contó con empresas como Coppel, Oxxo, Grupo Rica e Invercap.</Titular>
+		<Autor>Christian García</Autor>
+		<Programa>Enfoque Regional Matutino</Programa>
+		<Dependencia>STPSH</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Inclusión laboral</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>36</Numero>
+		<ID>N/A</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>Tres personas murieron calcinadas durante la madrugada de este lunes tras incendiarse una vivienda en la localidad de Palo Hueco en Tepeapulco. De acuerdo con los primeros reportes, el fuego habría sido provocado por terceros. En el lugar presuntamente fue dejada una manta con un mensaje de advertencia e intimidación.Al sofocar las llamas, cuerpos de emergencia localizaron los cuerpos. Hasta el momento se desconoce su identidad y género. La Procuraduría General de Justicia del Estado de Hidalgo inició las investigaciones para esclarecer los hechos, determinar el móvil y establecer quiénes serían los responsables.</Titular>
+		<Autor>Christian García</Autor>
+		<Programa>Enfoque Regional Matutino</Programa>
+		<Dependencia>PGJEH</Dependencia>
+		<Organismo>PGJEH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Localización de cuerpo</Tema>
+		<Estatus>Negativa</Estatus>
+		<Municipio>Tepeapulco</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>8</Numero>
+		<ID>SSPH/Bol.982/2026</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Elementos de la Secretaría de Seguridad Pública de Hidalgo (SSPH) desmantelaron un laboratorio clandestino destinado a la elaboración y procesamiento de droga sintética en Cuautepec de Hinojosa, donde también se descubrió un túnel que comunicaba dos espacios de un mismo terreno, cuyas fachadas aparentaban corresponder a inmuebles independientes</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>SSPH</Dependencia>
+		<Organismo>SSPH</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Narcolaboratorio</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Cuautepec</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>28</Numero>
+		<ID>SSH/Bol.175/2026</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>Con una meta conjunta de más de un millón y medio de dosis, el Gobierno de Hidalgo puso en marcha las campañas de vacunación contra influenza, COVID-19 y virus del papiloma humano (VPH), como parte de las acciones para prevenir enfermedades y reducir el riesgo de complicaciones entre la población.A través de la Secretaría de Salud de Hidalgo (SSH), en coordinación con la Secretaría de Educación Pública estatal (SEPH), se busca proteger a la población durante la temporada invernal y prevenir el desarrollo de cáncer cervicouterino asociado al VPH.Las metas contemplan la aplicación de un millón 8 mil 20 dosis contra influenza, 516 mil 620 contra COVID-19 y 53 mil 60 contra el VPH, de acuerdo con la población objetivo de cada estrategia.</Titular>
+		<Autor>Christian García</Autor>
+		<Programa>Enfoque Regional Matutino</Programa>
+		<Dependencia>SSH</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Vacunación</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>9</Numero>
+		<ID>SSH/Bol.175/2026</ID>
+		<Fecha>46308</Fecha>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Con una meta conjunta de más de un millón y medio de dosis, el Gobierno de Hidalgo puso en marcha las campañas de vacunación contra influenza, COVID-19 y virus del papiloma humano (VPH), como parte de las acciones para prevenir enfermedades y reducir el riesgo de complicaciones entre la población.A través de la Secretaría de Salud de Hidalgo (SSH),</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>SSH</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Vacunación</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+</NotasRadio>

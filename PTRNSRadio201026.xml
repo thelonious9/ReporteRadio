@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NotasRadio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Nota>
+		<Numero>23</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>Un hombre fue localizado sin vida en la comunidad de El Chamizal, perteneciente al municipio de Tezontepec de Aldama, Hidalgo, presentando múltiples heridas por impactos de arma de fuego tras el reporte de detonaciones el martes 20 de octubre. Elementos policíacos y cuerpos de emergencia acudieron al lugar, confirmando el fallecimiento de la víctima y procediendo al acordonamiento de la zona. Posteriormente, se solicitó la intervención de la Procuraduría General de Justicia del Estado de Hidalgo para realizar las diligencias ministeriales e iniciar con la investigación, encontrándose el cuerpo en calidad de desconocido hasta el momento.</Titular>
+		<Autor>Jesús Riveros</Autor>
+		<Programa>Enlace Hidalgo2</Programa>
+		<Dependencia>PGJEH</Dependencia>
+		<Organismo>PGJEH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Localización de cuerpo</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Tezontepec de Aldama</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>22</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>Padres de familia de la Escuela Primaria Benito Juárez bloquearon vialidades principales en la zona centro de Huejutla para exigir el cierre del turno vespertino (correspondiente a la primaria Ildefonso Velázquez Ibarra), el cual comparte las mismas instalaciones. La movilización se originó por desacuerdos en el pago de cuotas escolares y la supuesta falta de aportaciones equitativas por parte del turno vespertino, postura que fue rechazada por los tutores de dicho turno, quienes afirman haber cumplido con los pagos establecidos. Los manifestantes exigen a las autoridades educativas la reubicación de la primaria Ildefonso Velázquez Ibarra para resolver estas diferencias.</Titular>
+		<Autor>Jesús Riveros</Autor>
+		<Programa>Enlace Hidalgo2</Programa>
+		<Dependencia>SEPH</Dependencia>
+		<Organismo>Básica</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Queja padres de familia</Tema>
+		<Estatus>Negativa</Estatus>
+		<Municipio>Huejutla</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>21</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>Locutor Irving Sánchez da lectura a comentario de radioescucha que , reporta irregularidades en el servicio de transporte público (colectivas de la ruta Rojo Gómez), específicamente por no respetar los semáforos y provocar situaciones de riesgo. Ante esto, Locutor Jesús Riveros recordó a la ciudadanía la importancia de formalizar sus quejas ante la Secretaría de Movilidad y Transporte del Estado de Hidalgo mediante el número telefónico 800 503 2002 o 771 526 1284, el correo electrónico quejatransporte@hidalgo.gob.mx, o directamente en las oficinas correspondientes conforme al artículo 286 de la Ley de Movilidad y Transporte, destacando que es indispensable contar con el número de la unidad para dar un seguimiento oficial.</Titular>
+		<Autor>Radioescucha</Autor>
+		<Programa>Enlace Hidalgo2</Programa>
+		<Dependencia>Semot</Dependencia>
+		<Organismo>STCH</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Queja transporte público</Tema>
+		<Estatus>Negativa</Estatus>
+		<Municipio>Tulancingo</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>20</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Canal 12 Huejutla</Radiodifusora>
+		<Titular>En entrevista para el espacio de contacto informativo, la coordinadora estatal del INEGI en Hidalgo, Laura Silvia González Quintos, presentó los resultados de la Encuesta Intercensal 2025, destacando que el estado cuenta actualmente con 3,245,595 habitantes, lo que refleja un crecimiento continuo pero a un ritmo menor (tasa promedio anual de 0.9%) en comparación con el censo de 2020, posicionando a la entidad en el lugar 16 a nivel nacional. Asimismo, la funcionaria detalló una disminución en la tasa global de fecundidad (pasando de 1.8 a 1.1 hijos por mujer), cambios en la estructura poblacional con mayor presencia de adultos mayores, y modificaciones en el acceso a tecnologías e internet, el cual subió del 39.3% al 70.5% en cinco años. Finalmente, en cuanto a población hablante de lengua indígena se registraron 352,062 personas (11.2%), y se informó sobre la reorganización en las categorías de afiliación a los servicios de salud y el parque habitacional, que aumentó a más de un millón de viviendas.</Titular>
+		<Autor>Taide Salazar</Autor>
+		<Programa>Contacto Informativo M</Programa>
+		<Dependencia>OCSAD</Dependencia>
+		<Organismo>OCSAD</Organismo>
+		<Genero>Entrevista pautada</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Censo Inegi</Tema>
+		<Estatus>Positiva</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>19</Numero>
+		<ID>Segobh/Coespo/Bol.41/2026</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Radio Lobo 96.7 FM</Radiodifusora>
+		<Titular>Día Mundial contra el Cáncer de Mama: la detección oportuna puede salvar vidas</Titular>
+		<Autor>Gina Lorenzo</Autor>
+		<Programa>Enlace Noticias</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>Coespo</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Cáncer De Mama</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>18</Numero>
+		<ID>Saderh/Bol.85/2026</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Ke Buena 106.7 FM</Radiodifusora>
+		<Titular>Entrega Saderh apoyos productivos a 476 agro productores</Titular>
+		<Autor>David Cárdenas</Autor>
+		<Programa>Noticias 106.7</Programa>
+		<Dependencia>Saderh</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Apoyo Al Agro</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Zapotlán</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>17</Numero>
+		<ID>SDPEE-OCSAD/FN.37/2026</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Ke Buena 106.7 FM</Radiodifusora>
+		<Titular>Julio Menchaca recorre subestación Hidalgo de CFE</Titular>
+		<Autor>David Cárdenas</Autor>
+		<Programa>Noticias 106.7</Programa>
+		<Dependencia>Gobernador</Dependencia>
+		<Organismo>Gobernador</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Recorrido por instalaciones</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>16</Numero>
+		<ID>SDPEE-OCSAD/Bol.1328/2026</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Ke Buena 106.7 FM</Radiodifusora>
+		<Titular>Menchaca Salazar entrega nuevo Centro de Datos y remodelación del aeropuerto de Pachuca.</Titular>
+		<Autor>David Cárdenas</Autor>
+		<Programa>Noticias 106.7</Programa>
+		<Dependencia>Gobernador</Dependencia>
+		<Organismo>Gobernador</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Centro de datos</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>14</Numero>
+		<ID>SSH/Bol.181/2026</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Ke Buena 106.7 FM</Radiodifusora>
+		<Titular>SSH hace un llamado a reforzar medidas de prevención ante el incremento de enfermedades respiratorias.</Titular>
+		<Autor>David Cárdenas</Autor>
+		<Programa>Noticias 106.7</Programa>
+		<Dependencia>SSH</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Prevención de enfermedades</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>13</Numero>
+		<ID>Semarnath/Bol.SN-L/2026</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>Semarnath Hidalgo fortalece la restauración forestal y la protección ambiental con inversión, ciencia y trabajo en territorio</Titular>
+		<Autor>Juan Carlos Santamaría</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>Semarnath</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>12</Numero>
+		<ID>Sipdus/Bol.61/2026</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>Julio Menchaca invierte más de 25 mil mdp en infraestructura pública: Alejandro Sánchez</Titular>
+		<Autor>Juan Carlos Santamaría</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>Sipdus</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>10</Numero>
+		<ID>SEPH/Bol.1938/2026</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>SEPH realiza el concurso de oratoria “Mi palabra es hoy mi voz y mi fortaleza 2026”</Titular>
+		<Autor>Jesús Riveros</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>SEPH</Dependencia>
+		<Organismo>Básica</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Concurso de oratoria</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>9</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>Se dio a conocer que el secretario de Educación Pública, Natividad Castrejón Valdez, tiene programada su comparecencia ante el Congreso del Estado para el día de hoy.</Titular>
+		<Autor>Jesús Riveros</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>SEPH</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>7</Numero>
+		<ID>SDPEE-OCSAD/FN.37/2026</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>Julio Menchaca recorre subestación Hidalgo de CFE</Titular>
+		<Autor>Juan Carlos Santamaría</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>Gobernador</Dependencia>
+		<Organismo>Gobernador</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Recorrido por instalaciones</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>6</Numero>
+		<ID>SDPEE-OCSAD/Bol.1328/2026</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>Menchaca Salazar entrega nuevo Centro de Datos y remodelación del aeropuerto de Pachuca</Titular>
+		<Autor>Juan Carlos Santamaría</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>Gobernador</Dependencia>
+		<Organismo>Gobernador</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Centro de datos</Tema>
+		<Estatus>Positiva</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>5</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>Sobre la llegada y operación de plataformas de transporte como Uber, el gobernador del estado señaló que el servicio no está prohibido en esencia, pero debe operar bajo los cauces legales y contar con la concesión formal de transporte individual. El mandatario indicó que ofrecer el servicio al margen de la ley implica asumir responsabilidades legales ante el Ministerio Público, y puntualizó que, aunque es necesario buscar opciones y alternativas para los usuarios, los operadores y concesionarios tradicionales también deben cumplir con su compromiso de atención al público de manera responsable.</Titular>
+		<Autor>Jesús Riveros</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>Gobernador</Dependencia>
+		<Organismo>Gobernador</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Apps de transporte</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>4</Numero>
+		<ID>Semot/Bol.4/2026</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>La Secretaría de Movilidad y Transporte (SEMOT) de Hidalgo advirtió que aplicará procedimientos administrativos y sanciones a quienes presten el servicio de transporte a través de la aplicación Uber en Pachuca. Aunque la plataforma comenzó a operar recientemente permitiendo solicitar viajes, la dependencia señaló que este esquema no está contemplado en la Ley de Movilidad y Transporte del estado, por lo que resulta ilegal al no contar con una concesión formal. Asimismo, la SEMOT indicó que se procederá con denuncias penales y multas a los operadores detectados, mientras que el gobernador señaló que cualquier cambio en la materia debe realizarse primero por la vía legislativa, con información de LSRH.</Titular>
+		<Autor>Jesús Riveros</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>Semot</Dependencia>
+		<Organismo>Semot</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Apps de transporte</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>3</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>Entrevista en cabina a las doctoras Miriam Olvera Cuéllar y Alma Delia Vite Rojo, profesoras investigadoras de la Universidad Politécnica de Tulancingo, quienes presentaron los resultados de una investigación publicada recientemente en un capítulo de libro enfocado en la inteligencia artificial. El estudio, realizado en febrero y marzo de 2026 junto con la Red de Estudios Latinoamericanos de Internet mediante 548 encuestas válidas, analizó la percepción de distintos grupos etarios. Los hallazgos revelaron que los jóvenes de 18 a 26 años son quienes muestran mayor preocupación —especialmente en torno al reemplazo laboral y el uso cotidiano de la tecnología—, mientras que los adultos mayores presentan menor inquietud, pero requieren mayor capacitación digital. Asimismo, las investigadoras destacaron el respaldo institucional de la universidad y adelantaron que ya trabajan en nuevas líneas sobre el uso de la inteligencia artificial en la educación preescolar y media superior.</Titular>
+		<Autor>Juan Carlos Santamaría</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>SEPH</Dependencia>
+		<Organismo>Universidades</Organismo>
+		<Genero>Entrevista</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Investigación académica</Tema>
+		<Estatus>Positiva</Estatus>
+		<Municipio>Tulancingo</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>2</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>NQ 90.1 FM</Radiodifusora>
+		<Titular>Durante su colaboración matutina, David Cárdenas informó sobre la comparecencia de Mónica Mixtega respecto a los trabajos de limpieza y trituración de lirio acuático para prevenir su proliferación, un tema prioritario para el estado de Hidalgo. Se destacó que, mediante el plan maestro de la Conagua implementado por el gobierno de la presidenta Claudia Sheinbaum, la superficie afectada por el lirio disminuyó de 900 a 443 hectáreas, respaldado por una inversión superior a los 33 millones de pesos para la adquisición de cuatro nuevas trituradoras. Asimismo, se mencionó la combinación de estrategias de control biológico y químico, cuidando el impacto en el agua para riego, y el fortalecimiento del equipo operativo en beneficio de la ciudadanía.</Titular>
+		<Autor>Jesús Riveros</Autor>
+		<Programa>Enlace Hidalgo1</Programa>
+		<Dependencia>Semarnath</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>44</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Ayer ocurrió un trágico accidente en la mina de San Juan Pachuca, donde murieron dos trabajadores por la caída de material. Según la Secretaría de Seguridad Pública, se recibió una llamada de emergencia informando que dos personas estaban atrapadas en la mina. Al llegar los equipos de rescate, encontraron los cuerpos de ambos trabajadores, uno de 25 años y el otro de 45 años. Ante esta situación, la Procuraduría General de Justicia ha comenzado una investigación del evento. Este accidente resalta la peligrosidad de trabajar en minas, como la histórica mina de San Juan Pachuca.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>PGJEH</Dependencia>
+		<Organismo>PGJEH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>TV local</Canal>
+		<Tema>Accidente en mina</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>43</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>En la Feria San Francisco Pachuca 2026, dos funcionarios de la Secretaría de Educación Pública se pelearon al cierre del evento. La riña ocurrió el domingo por la noche en un bar, donde al parecer habían estado consumiendo alcohol. Aunque se desconoce quién inició la pelea, ambos decidieron resolver sus diferencias a golpes. Los videos del incidente y la prominencia de estos funcionarios, uno de los cuales es hermano del Subsecretario de Educación, han generado un gran revuelo en las redes sociales y los medios de comunicación. Sin embargo, hasta ahora no se ha informado si fueron detenidos o si enfrentarán alguna acción administrativa por su</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>SEPH</Dependencia>
+		<Organismo>SEPH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>TV local</Canal>
+		<Tema>Funcionario ebrio</Tema>
+		<Estatus>Negativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>42</Numero>
+		<ID>SDPEE-OCSAD/Bol.1328/2026</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Menchaca Salazar entrega nuevo Centro de Datos y remodelación del aeropuerto de Pachuca</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Gobernador</Dependencia>
+		<Organismo>Gobernador</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Centro de datos</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>41</Numero>
+		<ID>SSPH/Bol.987/2026</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Policía Estatal recupera tractocamión robado y detiene a un asaltante tras persecución en Emiliano Zapata</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>SSPH</Dependencia>
+		<Organismo>SSPH</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Combate a la delincuencia</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Emiliano Zapata</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>40</Numero>
+		<ID>STPSH/TI.05/2026</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Dos trabajadores de la mina de Loreto fallecieron luego de que una estructura y material cayeran sobre ellos y los aplastara, confirmaron autoridades del municipio de Pachuca. Autoridades confirmaron que en el accidente ocurrido durante la tarde del lunes 19 de octubre, los trabajadores quedaron atrapados bajo los escombros. Al sitio acudió personal de atención a emergencias para iniciar las labores de rescate de las personas; tras recuperar los cuerpos se realizó valoración de su estado físico, confirmando que ya no contaban con signos vitales. La Procuraduría General de Justicia del Estado de Hidalgo inició las investigaciones respectivas al caso, para conocer las circunstancias en las que se registró el accidente, así como las causas. Con ello se deslindarán las responsabilidades legales respectivas al caso. A su vez, la Secretaría del Trabajo y Previsión Social de Hidalgo dio a conocer que puso a su disposición, de manera gratuita, los servicios de asesoría y orientación de la Procuraduría Estatal de la Defensa del Trabajo, en caso de que requieran acompañamiento en materia laboral. La dependencia señala a través de un comunicado oficial que estableció comunicación con la representación en la entidad de la Secretaría del Trabajo y Previsión Social del Gobierno de México para atender el caso. La dependencia estatal señaló que, debido a las características del centro laboral y a las circunstancias del accidente, la atención del caso corresponde a las autoridades federales, conforme a las normativas legales vigentes. Se precisó que este apoyo busca brindar orientación a los familiares sobre los asuntos laborales que pudieran derivarse del accidente. Al tiempo, la dependencia estatal expresó su solidaridad con las familias de los trabajadores fallecidos ante el caso ocurrido en el inicio de esta semana.</Titular>
+		<Autor>Izza Hernández</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>PGJEH</Dependencia>
+		<Organismo>PGJEH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Accidente en mina</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>39</Numero>
+		<ID>STPSH/TI.05/2026</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Dos trabajadores de la mina de Loreto fallecieron luego de que una estructura y material cayeran sobre ellos y los aplastara, confirmaron autoridades del municipio de Pachuca. Autoridades confirmaron que en el accidente ocurrido durante la tarde del lunes 19 de octubre, los trabajadores quedaron atrapados bajo los escombros. Al sitio acudió personal de atención a emergencias para iniciar las labores de rescate de las personas; tras recuperar los cuerpos se realizó valoración de su estado físico, confirmando que ya no contaban con signos vitales. La Procuraduría General de Justicia del Estado de Hidalgo inició las investigaciones respectivas al caso, para conocer las circunstancias en las que se registró el accidente, así como las causas. Con ello se deslindarán las responsabilidades legales respectivas al caso. A su vez, la Secretaría del Trabajo y Previsión Social de Hidalgo dio a conocer que puso a su disposición, de manera gratuita, los servicios de asesoría y orientación de la Procuraduría Estatal de la Defensa del Trabajo, en caso de que requieran acompañamiento en materia laboral. La dependencia señala a través de un comunicado oficial que estableció comunicación con la representación en la entidad de la Secretaría del Trabajo y Previsión Social del Gobierno de México para atender el caso. La dependencia estatal señaló que, debido a las características del centro laboral y a las circunstancias del accidente, la atención del caso corresponde a las autoridades federales, conforme a las normativas legales vigentes. Se precisó que este apoyo busca brindar orientación a los familiares sobre los asuntos laborales que pudieran derivarse del accidente. Al tiempo, la dependencia estatal expresó su solidaridad con las familias de los trabajadores fallecidos ante el caso ocurrido en el inicio de esta semana.</Titular>
+		<Autor>Izza Hernández</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>STPSH</Dependencia>
+		<Organismo>STPSH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Accidente en mina</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>38</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>El cuerpo de una persona fue localizado la tarde del domingo 18 de octubre en las inmediaciones de las minas del Cerro del Judío, en los límites de Pachuca y San Agustín Tlaxiaca. Vecinos de la zona reportaron a instituciones de seguridad pública respecto al hallazgo del cuerpo de una persona flotando en una zona con agua acumulada por las recientes lluvias, en las faldas del cerro. Al sitio acudieron elementos de Protección Civil de ambos municipios, Policía Estatal, Bomberos de Hidalgo y personal de la Comisión de Búsqueda de Personas del Estado de Hidalgo, realizando labores para el rescate del cuerpo. De manera preliminar, se señaló que el cuerpo podría corresponder a J.C.G.C., un joven de 27 años con domicilio en Santiago Tlapacoya y quien contaba con una ficha de búsqueda. Sin embargo, hasta el momento, las autoridades no han confirmado oficialmente su identidad, así como la causa del fallecimiento. Autoridades ministeriales han iniciado investigación respecto al caso, para establecer lo ocurrido, así como las responsabilidades legales respectivas.</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>CBPEH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Localización de cuerpo</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>San Agustín Tlaxiaca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>34</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>La plataforma Uber todavía no cuenta con autorización para prestar servicios de transporte en Pachuca, afirmó el gobernador de Hidalgo, Julio Menchaca Salazar. Advirtió que, si comienza a operar sin los permisos correspondientes, podría haber sanciones para quienes participen en la prestación de los viajes. En entrevista, el titular del Poder Ejecutivo del Estado de Hidalgo sostuvo que la legislación vigente aún no permite la operación de esta modalidad de transporte y señaló que, hasta el momento, la empresa no se ha acercado al gobierno estatal para dialogar sobre su posible incorporación. Menchaca Salazar indicó que las personas que decidan ofrecer viajes mediante la aplicación podrían enfrentar sanciones conforme a la ley. También mencionó posibles consecuencias legales por fraude, aunque precisó que corresponderá al Ministerio Público determinar si existe alguna conducta que deba investigarse. El gobernador reconoció que no descarta la posibilidad de ampliar las alternativas de movilidad para la población; sin embargo, reiteró que cualquier servicio deberá ajustarse a las disposiciones legales vigentes. Asimismo, hizo un llamado a quienes buscan obtener ingresos como conductores de la plataforma para que consideren las implicaciones de trabajar sin autorización. Añadió que el Gabinete de Seguridad definirá las acciones de supervisión para detectar la posible prestación de servicios mediante aplicaciones que no cuenten con los permisos correspondientes. Finalmente, Menchaca Salazar pidió evitar generalizaciones contra quienes trabajan en el transporte público y reconoció que existen operadores que cumplen con sus responsabilidades.</Titular>
+		<Autor>Izza Hernández</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Gobernador</Dependencia>
+		<Organismo>Gobernador</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Apps de transporte</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>32</Numero>
+		<ID>Sipdus/Bol.61/2026</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Hasta el momento, se ha finalizado 45 de las 213 obras de reconstrucción de infraestructura dañada por la vaguada monzónica registrada en octubre del año pasado en varios municipios del Estado de Hidalgo. El dato fue ofrecido por Alejandro Sánchez García, titular de la Secretaría de Infraestructura Pública y Desarrollo Urbano Sostenible en el Estado de Hidalgo (Sipdus), en el marco de su comparecencia ante legisladores del Congreso estatal, realizada este lunes 19 de octubre. La cifra de obras concretadas representa el 21 por ciento del total de las establecidas; el funcionario señaló que el avance total de dichas obras para resarcir los daños, alcanza el 58 por ciento. Las 45 obras concluidas contaron con una inversión global por 491 millones de pesos, mientras que otras 82 se encuentran en ejecución, con un monto asignado por 868 millones. Además, otras 55 obras están en proceso de contratación, por 454 millones; y 31 en validación, con inversión por 348 millones. En total, se contempla una inversión de 2 mil 164 millones de pesos para 213 obras a desarrollarse en los municipios con mayores afectaciones, producto de las torrenciales lluvias registradas en el mes de octubre del año pasado. En el caso del Estado de Hidalgo, la vaguada monzónica provocó 675 derrumbes y 158 deslaves en 28 de los 84 municipios de Hidalgo. Además, dejó incomunicadas 236 comunidades, dañó 50 puentes, inutilizó 190 sistemas de agua y drenaje y ocasionó el bloqueo de 359 caminos. Veracruz, San Luis Potosí y Querétaro, son otras entidades del país afectadas por las torrenciales lluvias registradas en octubre del año pasado. Cabe señalar que previamente la titular de la Secretaría de Hacienda en Hidalgo, Esther Ramírez Vargas, informó en su respectiva comparecencia que se tienen considerados dos mil 400 millones de pesos para atender la rehabilitación de infraestructura dañada por la vaguada del 2025.Consultar atlas Sobre la diferencia de 236 millones de pesos, el titular de la Sipdus, señaló que corresponde a obras a cargo del Instituto de Infraestructura Física Educativa y a infraestructura de agua potable reportada por los municipios. Por otra parte, el funcionario calificó como histórica la inversión de 25 mil millones de pesos destinada a infraestructura pública durante la administración. Entre los resultados, destacó el mejoramiento de 847 kilómetros de caminos rurales en 33 municipios y 118 localidades. Asimismo, indicó que, con una inversión superior a los 3 mil 46 millones de pesos, se atendieron vialidades urbanas en 71 municipios, con la construcción, ampliación y mejoramiento de más de 269 kilómetros de calles, avenidas, bulevares, guarniciones y banquetas. En materia de agua potable, informó una inversión de más de 5 mil 239 millones de pesos para construir y mejorar pozos, líneas de conducción y redes de distribución en 68 municipios, además, destacó 6 mil 616 millones de pesos para rescatar y modernizar 329 espacios públicos. Respecto al saneamiento, el secretario reportó la construcción de 37 plantas de tratamiento de aguas residuales en 20 municipios, lo que permitió alcanzar una cobertura estatal del 32 por ciento.</Titular>
+		<Autor>Izza Hernández</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Sipdus</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>31</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Abrimos con dos temas de seguridad pública esta mañana: eh el asunto ocurrido el día de ayer en Media Sierras y la cuestión la advertencia que hace la diputada Yarabi González en el caso de la Sierra Otomí-Tepehua y concretamente de Acaxochitlán. Y me parece muy pertinente compartir esta reflexión completísima, muy concreta respecto a los temas de seguridad. Señalan que en materia de seguridad la preocupación que hoy compartimos no es exclusiva de nuestro municipio, es una realidad que se vive a nivel estatal y nacional. Cuando la mayoría de los ciudadanos coincidimos en que la estrategia de seguridad no está funcionando, difícilmente podemos estar equivocados. Hace algunos meses el señor gobernador afirmó que Hidalgo era tan seguro que hasta los delincuentes venían a vivir aquí. -Que hacían operaciones, ¿eh? Recuerdo más o menos las declaraciones del gobernador que se parecían delicadas-. Con todo respeto, la realidad que vivimos día a día demuestra lo contrario. Lo que hemos visto en el crecimiento y el arraigo de la delincuencia en nuestro estado. Un problema que no solo obedece a una estrategia de seguridad insuficiente, sino también a la falta de empleo, de oportunidades y de un diagnóstico honesto de la realidad. Ante esto, es momento que como ciudadanos asumamos una postura activa, reflexiva y responsable. Hablamos de niños desaparecidos, de jóvenes y de trabajadores que no regresan a casa, de personas que pierden la vida en su propio centro de trabajo. Es evidente que la situación ha rebasado a las autoridades. Por ello es indispensable que actuemos como sociedad con unidad y exigencia, pero también con propuesta. Gracias, me parece importante y pertinente ante la realidad que estamos viviendo.</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Gobernador</Dependencia>
+		<Organismo>Gobernador</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Estrategia de seguridad</Tema>
+		<Estatus>Negativa</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>29</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Con la asistencia de aproximadamente mil supervisores, docentes, madres, padres de familia y personas tutoras de escuelas de educación básica de las 12 regiones de la entidad, el secretario de Educación Pública de Hidalgo, Natividad Castrejón Valdez, impartió la conferencia magistral "El papel de las madres, padres, personas y tutoras también con formación de las infancias". Durante este mensaje, el titular de la SEP Hidalgo destacó que desde el inicio de la administración del gobernador Julio Menchaca Salazar, la atención integral a la comunidad escolar ha sido una prioridad, esto como parte de estos esfuerzos y de hecho sí señaló también la creación de la Dirección General de Acompañamiento Socioemocional y Educativo, instancia pues concebida para brindar herramientas y estrategia también pues a las familias y también a las instituciones educativas que contribuyan al desarrollo integral de las y los estudiantes. Y pues en la conferencia en Actividad Castrejón abordó la importancia pues de atender las necesidades fundamentales de las niñas y los niños, entre ellas pues el afecto, el tiempo también de calidad, el acceso a información adecuada y también las condiciones materiales indispensables para el crecimiento digno. De hecho y así mismo hizo un llamado también a madres y a padres de familia para poder mantener una escuela activa con sus hijas, con sus hijos, acompañar, acompañarlos de manera cercana a las distintas etapas de su vida y permanecer también atentos pues a sus emociones y cambios de conducta. De hecho, subrayó que el entorno familiar constituye también la primera red de apoyo y aprendizaje para las niñas. Y pues en el encuentro estuvieron presentes el titular de la oficina de enlace educativo del Gobierno de México en Hidalgo, José Nereo Olguín Moreno, el subsecretario de educación media superior y superior Daniel Fragoso Torres, entre otros funcionarios también. Pero bien, de esa manera es como Natividad Castrejón destaca el papel de las familias en la formación de niñas y niños.</Titular>
+		<Autor>Izza Hernández</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>SEPH</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Conferencia magistral</Tema>
+		<Estatus>Positiva</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>27</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Daniel Martínez: Bueno, pues yo creo que tiene que ser una revisada de las estrategias en materia de prevención, sobre todo de prevención del delito y cuando sea necesario de atención. ¿Botón de muestra? ¿Qué tanto han funcionado los patrullajes, no? Con ese incremento de más del doble del registro de robo de vehículos automotores en Acaxochitlán, 130.3% de aumento entre el 2025 al comparativo de lo que va del presente 2026, 130%. Y la ubicación que señala con preocupación la diputada Yarabi González, la ubicación geográfica de Acaxochitlán que permite el paso de personas que están dedicadas a hechos delictivos, sobre todo provenientes de Cuautepec o hacia Cuautepec y provenientes del estado de Puebla o hacia el estado de Puebla. Bueno, estamos haciendo patrullajes. Bueno, creo que hay que revisar la estrategia de vigilancia y prevención del delito.</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>SSPH</Dependencia>
+		<Organismo>SSPH</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Estrategia de seguridad</Tema>
+		<Estatus>Negativa</Estatus>
+		<Municipio>Acaxochitlán</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>26</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Debido a su colindancia con el municipio de Cuautepec, así como con municipios del Estado de Puebla, Acaxochitlán enfrenta inseguridad, debido a que su ubicación geográfica es estratégica para grupos delincuenciales. Lo anterior fue planteado por Yarabi González Martínez, diputada por el distrito IX local, con cabecera en Metepec, durante la comparecencia, la semana pasada, de Salvador Cruz Neri, titular de la Secretaría de Seguridad Pública de Hidalgo (SSH). Señaló que de acuerdo con el Secretariado Ejecutivo del Sistema Nacional de Seguridad Pública (SESNSP), este año Acaxochitlán registró 76 carpetas de investigación por robo de vehículo. La cantidad significa un aumento del 130.3 por ciento en este tipo de delito, en el comparativo con el año anterior. A ello se agregan 76 76 denuncias ante el Ministerio Público por violencia familiar y nueve más por narcomenudeo. Uno de los asuntos más graves que se registraron en la demarcación, ocurrió el pasado 20 de febrero de este año, cuando fueron localizados dos cuerpos sin vida en un camino que comunica con el Estado de Puebla. De acuerdo a reportes de la misma SSPH, las víctimas habrían fallecido fuera de Hidalgo y sus cadáveres fueron abandonados en ese sitio, recordó González Martínez. “También se detectaron 439 tomas de hidrocarburo en el municipio Cuautepec de Hinojosa y ha habido algunos enfrentamientos en comunidades de Acaxochitlán, como Santiago Tepepa”, refirió la legisladora del Congreso del Estado de Hidalgo. Dijo entender las dificultades que enfrentan las autoridades de los tres niveles de gobierno por ser una zona que registra marcada incidencia de delitos de alto impacto. Por lo que durante la comparecencia de Cruz Neri, le solicitó que citara las acciones específicas están implementado para reforzar su vigilancia, así como un análisis de las zonas dentro de Acaxochitlán con mayor incidencia delictiva. Al respecto, el mando policiaco estatal dijo que existe patrullaje constante dentro del municipio por parte de elementos de la SSPH, lo que se refleja en el aseguramiento de vehículos automotores, así como de madera sustraída por tala clandestina. “Los patrullajes que tenemos en los límites con esta entidad (Puebla) han funcionado, pero estamos pendientes para atender cualquier situación”, enfatizó Cruz Neri.</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>SSPH</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Negativa</Estatus>
+		<Municipio>Acaxochitlán</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>25</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>Daniel Martínez: comentan que qué onda este con gobierno del estado de Hidalgo, ¿qué es lo que está haciendo falta para que se permita la entrada de servicio de plataformas de transporte de pasajeros, sobre todo lo que se refiere a la modalidad taxis? Cito textual, "El lema del gobierno del estado es primero el pueblo, pero no permite que dicho pueblo elija en qué transportarse. Deben hacer una consulta para que los pobladores de Pachuca decidan si quieren o no los servicios de taxis de aplicación".</Titular>
+		<Autor>Radioescucha</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>Semot</Dependencia>
+		<Organismo>Semot</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Apps de transporte</Tema>
+		<Estatus>Negativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>24</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Ultra 102.9 FM</Radiodifusora>
+		<Titular>La Secretaría de Educación Pública de Hidalgo (SEPH) expresó sus condolencias por el homicidio de un trabajador adscrito a la Subsecretaría de Servicios Regionales de Educación en Tulancingo, quien perdió la vida tras un ataque con arma de fuego registrado la mañana de este lunes, en el exterior de las oficinas de la dependencia. A través de un comunicado, la SEPH informó que brinda acompañamiento institucional a los familiares, amistades y compañeros de trabajo de la víctima, además de señalar que colabora con las autoridades competentes en las investigaciones correspondientes. De acuerdo con los reportes preliminares, el trabajador fue agredido a balazos en las inmediaciones del inmueble, ubicado en la colonia La Herradura. Tras el reporte de la agresión, elementos de seguridad y cuerpos de emergencia acudieron al lugar; sin embargo, la persona ya no contaba con signos vitales. Las autoridades ministeriales realizan las diligencias correspondientes para esclarecer los hechos e identificar a los responsables. Hasta el momento, no se han dado a conocer mayores detalles sobre el móvil del ataque.</Titular>
+		<Autor>Daniel Martínez</Autor>
+		<Programa>Ultra Noticias1</Programa>
+		<Dependencia>SEPH</Dependencia>
+		<Organismo>SEPH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Condolencias</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Tulancingo</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>21</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>El gobernador tiene un evento en Pachuca a la 1 de la tarde junto con Pemex hará entrega de equipamiento para fortalecer la infraestructura pública, esto se realizará en las instalaciones de la Comisión de Agua, Alcantarillado y Sistemas Intermunicipales (Caasim).</Titular>
+		<Autor>Aldo Falcón</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Gobernador</Dependencia>
+		<Organismo>Gobernador</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>TV local</Canal>
+		<Tema>Infraestructura Hidráulica</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>20</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>En unos momentos más se llevarán a cabo las diferentes comparecencias por parte del secretario de Educación Pública, Natividad Castrejón. Esto será a las 10 de la mañana y horas más tarde el maestro Onésimo Serrano Rivera de la Secretaría de Planeación a las 4 de la tarde.</Titular>
+		<Autor>Aldo Falcón</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Planeación</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>TV local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>19</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>En unos momentos más se llevarán a cabo las diferentes comparecencias por parte del secretario de Educación Pública, Natividad Castrejón. Esto será a las 10 de la mañana y horas más tarde el maestro Onésimo Serrano Rivera de la Secretaría de Planeación a las 4 de la tarde.</Titular>
+		<Autor>Aldo Falcón</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>SEPH</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>TV local</Canal>
+		<Tema>Comparecencias</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>18</Numero>
+		<ID>SDPEE-OCSAD/Bol.1329/2026</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Concluye sin incidentes Feria de San Francisco Pachuca 2026</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Gobernador</Dependencia>
+		<Organismo>Gobernador</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>TV local</Canal>
+		<Tema>Reunión Gabinete De Seguridad</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>17</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Radioescucha: "Aquí en Huejutla circulan varias unidades de taxis piratas autorizadas por el mismo coordinador del transporte, Omar. Se observan que usan las mismas placas en diferentes carros, lo que hacen poner es solamente una placa en cada carro". Andrés Torres comenta que lamentablemente es muy común que haya transporte público "pirata".</Titular>
+		<Autor>Radioescucha</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Semot</Dependencia>
+		<Organismo>STCH</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>TV local</Canal>
+		<Tema>Transporte pirata</Tema>
+		<Estatus>Negativa</Estatus>
+		<Municipio>Huejutla</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>16</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Andrés Torres en respuesta al radioescucha Lorenzo Cruz, quien señala que Uber ha llegado a Pachuca, pero sostiene que esto no es legal en el estado de Hidalgo y que como concesionarios de taxi ellos pagan impuestos. Andrés Torres responde que tiene razón, señalando que Uber no ha entrado a Pachuca, sino que han identificado algunos vehículos de Uber que estaban circulando. El gobernador Julio Menchaca declaró que no hay permisos o concesiones para Uber en el estado, y que los vehículos de esta plataforma serán sancionados. Según el gobernador y la Secretaría del Transporte, cualquier vehículo que preste servicio de Uber en Hidalgo será detenido y multado. Aunque algunos vehículos están circulando sin permiso, al ser ubicados, pueden enfrentar el decomiso del auto y multas. La declaración del gobernador es clara: Uber no está autorizado para operar en territorio hidalguense. Esto ha sido motivado por la aparición de vehículos de Uber en la zona, lo que llevó a la necesidad de una respuesta contundente del gobierno estatal. En resumen, Uber no tiene autorización para funcionar en Hidalgo y cualquier infracción será sancionada.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Gobernador</Dependencia>
+		<Organismo>Gobernador</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>TV local</Canal>
+		<Tema>Apps de transporte</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>15</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Andrés Torres en respuesta al radioescucha Lorenzo Cruz, quien señala que Uber ha llegado a Pachuca, pero sostiene que esto no es legal en el estado de Hidalgo y que como concesionarios de taxi ellos pagan impuestos. Andrés Torres responde que tiene razón, señalando que Uber no ha entrado a Pachuca, sino que han identificado algunos vehículos de Uber que estaban circulando. El gobernador Julio Menchaca declaró que no hay permisos o concesiones para Uber en el estado, y que los vehículos de esta plataforma serán sancionados. Según el gobernador y la Secretaría del Transporte, cualquier vehículo que preste servicio de Uber en Hidalgo será detenido y multado. Aunque algunos vehículos están circulando sin permiso, al ser ubicados, pueden enfrentar el decomiso del auto y multas. La declaración del gobernador es clara: Uber no está autorizado para operar en territorio hidalguense. Esto ha sido motivado por la aparición de vehículos de Uber en la zona, lo que llevó a la necesidad de una respuesta contundente del gobierno estatal. En resumen, Uber no tiene autorización para funcionar en Hidalgo y cualquier infracción será sancionada.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Semot</Dependencia>
+		<Organismo>Semot</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>TV local</Canal>
+		<Tema>Apps de transporte</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>12</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Fuera del aire de la Emisión de Vocales Radio, Andrés Torres emitió el siguiente comentario: El otro día vino aquí, dice que a grabar y no tiene ni idea ni dónde se prenden las cosas. Había que grabar un texto. No lo leo, yo lo leo. Somos locutores, no lectores. ¿No? Este, piensa que cualquiera puede pasar, ¿no? Este, no sabe impostar la voz, ¿no? No sabe hacer pausas, ¿no? ¿Aquí cuántas veces yo hago pausa y Aldo me se adelanta? Yo así estamos haciendo la pausa. No, pues no. No, no tiene ni idea, no, no tiene ni idea. No, no, ahorita yo Ese día mejor lo despaché, "Ay, mira, vete a chayotear para allá con la secretaria", "Mire, déjeme trabajar", ¿no? Pues es lo que hace, ¿no? Chayotear a todos los secretarios, despide a todos. E inmediatamente Napoleón me dijo, "Ya está" ¿No? Todos, a todos despide. ¿No? Se estaban quejando también los de Coespo, ¿no? Que no les este que no les quisieran hacer su programa de televisión, ¿no? ¿Qué les pidieron? Sí, imagínate. Es un tema bien interesante, chayotear dentro del gobierno, o sea, ¿eres parte del gobierno y chayotear dentro del gobierno? Así le hacía también Alan, Alan también les pedía. Una vez Natividad Castrejón nos dijo que le pidió 2,000 pesos, ¿ah? Aquí en entrevista, aquí en entrevista nos dijo, "Alan me pidió 2,000 pesos." Está grabado, güey, viendo el programa. Este señor le pidió que dos plazas, ¿no? A dos plazas a la Secretaría de Turismo, ¿no? Barrera le pidió dos plazas para sus hijos de para los hijos de sus directores. Napo también En la junta con el gobernador, lo único que pidió fue que su carro tuviera llanta de refacción porque su carro no tenía llanta de refacción. ¿Qué necesitas? Y ahí sí, no se fue, no se fue de gobierno ese día hasta que le dieron un vehículo. No fuera para trabajar, porque entonces ni se presenta, ¿no? No me voy hasta que me den mi vehículo con mi llanta de refacción. Qué lado, ¿no? Pero bueno, es lo que de verdad es lo que también uno dice, "Ahí está." Cuando dicen, "No puedes exigir." Pues, ¿qué puedes esperar? ¿Qué puedes esperar de alguien que siempre se ha dedicado a engañar? ¿No? El tipo no sabe nada de medios de comunicación, es evidente, ¿no? Como ya no puede ir al área académica, porque está vetado en todas las escuelas por acosador sexual. Fue expulsado de las áreas por acosador sexual, todos los maestros te lo dicen. En la universidad también salió por acoso sexual. En todas las escuelas ha tenido problemas, en todas las escuelas donde va a pedir pidió trabajo en el Tec de Monterrey también ya me lo confirmaron. Ni siquiera lo recibieron. ¿No? Entonces, al verse vetado de la del mundo académico, pues se tuvo que meter a hacer TikToks, ¿no? Y luego ya se dijo periodista.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>RTVH</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>TV local</Canal>
+		<Tema>Mal Desempeño</Tema>
+		<Estatus>Muy negativo</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>11</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>La Voz de la Sierra Gorda en Jacala de Ledezma sigue fuera del aire en la frecuencia 91.1, y no hay soluciones a la vista. La administración enfrenta problemas financieros, no pueden manejar 10 millones de pesos y les han devuelto documentación para justificar gastos. No les cuadran las cuentas a pesar de que falsifican facturas, documentos y firmas. De hecho, se perdieron más de 14 millones de pesos, que fueron autorizados por el Congreso en 2026 para instalar dos nuevas estaciones de radio, una en Pachuca y otra en Tenango de Doria. Este dinero está en el aire y se desconoce su paradero. Aunque estaba presupuestado y aprobado, nadie sabe si se devolvió o se ejerció. Esto impide la apertura de las estaciones programadas para 2026. Andrés Torres asevera que tendrían que comparecer los responsables de estos temas, por ejemplo, porque también en los temas de comunicación se gasta muchísimo, muchísimo dinero y nadie da razón de ello. "En lugar de pedir vales de gasolina, lugares de estacionamiento, hagan fiestas para festejarse entre ellos y festinarse sus burradas, mejor se pongan a trabajar, ¿no? Mejor aprendan cuáles son los lineamientos eh oficiales del gobierno del estado de los diferentes programas que maneja la Secretaría de Hacienda, la Unidad de Planeación y Prospectiva, la propia Secretaría de Gobierno, ni qué decir de por ejemplo otras áreas como la Oficialía Mayor porque todas en todas están reprobados. Y bueno pues mejor en lugar de estarle haciendo al canelas, ¿no?, en lugar de torcer la boca y estar enojados y levantar actas de abandono de empleo y abrir y levantar este todos los días falsos en contra de los trabajadores, ¿no? Porque ya no pueden de demandas, eso sí, ¿eh? Ya tienen muchas demandas ante la Procuraduría General de Justicia del Estado de Hidalgo, ¿no? Ya no es ya no es nada más demandas laborales, ya son demandas que van a otro tipo de nivel. Pero ellos siguen diciendo que los de radio somos los malos."</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>RTVH</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>TV local</Canal>
+		<Tema>Subejercicio</Tema>
+		<Estatus>Muy negativo</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>10</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Nos preguntaron sobre la estación de radio en Tula. En noviembre de 2022, cerraron 11 estaciones del Sistema Estatal de Radio, incluida la de Tula. No hay planes ni intención de recuperar las transmisiones o contratar una licencia para esa región. Es una pena, pero este problema es resultado de las decisiones de administraciones pasadas que ignoraron las necesidades de las estaciones de radio, lo que llevó a perder las concesiones.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>RTVH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>TV local</Canal>
+		<Tema>Radiodifusoras</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Tula</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>8</Numero>
+		<ID>Semot/Bol.4/2026</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>SEMOTH procederá conforme a derecho ante la operación de transporte sin autorización en Hidalgo</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Semot</Dependencia>
+		<Organismo>Semot</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>TV local</Canal>
+		<Tema>Apps de transporte</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>7</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>El gobernador fue cuestionado por la prensa sobre los autos de alquiler, conocidos como Uber. Mencionó que hay una invasión de vehículos de esta plataforma en el estado. El gobernador afirmó que estos vehículos no cuentan con permisos y están operando fuera de la ley. También indicó que, por esta razón, podrían ser sancionados. La Secretaría de Transporte emitió un boletín sobre este tema.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Gobernador</Dependencia>
+		<Organismo>Gobernador</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>TV local</Canal>
+		<Tema>Apps de transporte</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>6</Numero>
+		<ID>SDPEE-OCSAD/Bol.1328/2026</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Menchaca Salazar entrega nuevo Centro de Datos y remodelación del aeropuerto de Pachuca</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Gobernador</Dependencia>
+		<Organismo>Gobernador</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>TV local</Canal>
+		<Tema>Centro de datos</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>4</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Ayer, temprano en la mañana, un funcionario de la Secretaría de Educación Pública en Tulancingo fue asesinado a tiros por una persona que se acercó mientras viajaba en bicicleta. El incidente ocurrió en las instalaciones de la SEPH, donde el agresor disparó al menos dos veces, causando la muerte del funcionario. La Secretaría emitió un comunicado confirmando lo sucedido y aclarando que las autoridades de la Procuraduría General de Justicia y de Seguridad Pública son responsables de investigar el caso. El funcionario tenía 67 años. Después del ataque, el presunto homicida huyó en bicicleta, lo que llevó a las autoridades a implementar un operativo de búsqueda, pero hasta el momento no han logrado localizarlo. Se informó que el agresor se dirigió hacia una comunidad cercana, Medias Tierras, en Cuautepec. Pese a los esfuerzos de los efectivos de seguridad, no se ha encontrado al sospechoso. Este trágico hecho fue notificado poco después de que terminara el programa Las Vocales Radio. La comunidad se encuentra conmocionada por el asesinato del funcionario en un espacio tan público y se espera que las investigaciones avancen para dar con el responsable.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>SEPH</Dependencia>
+		<Organismo>SEPH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>TV local</Canal>
+		<Tema>Homicidios</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Tulancingo</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>3</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Hay una campaña de vacunación invernal que comenzó el pasado lunes, patrocinada por la Secretaría de Salud del estado. Se dispone de más de 1,500,000 dosis gratuitas. Los grupos prioritarios son niños menores de 5 años, adultos mayores y personas con enfermedades crónico-degenerativas. Sin embargo, se recomienda que todas las personas se vacunen, ya sea contra el COVID o contra la influenza estacional.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>SSH</Dependencia>
+		<Organismo>SSH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>TV local</Canal>
+		<Tema>Vacunación</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>2</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>Ayer ocurrió un trágico accidente en la mina de San Juan Pachuca, donde murieron dos trabajadores por la caída de material. Según la Secretaría de Seguridad Pública, se recibió una llamada de emergencia informando que dos personas estaban atrapadas en la mina. Al llegar los equipos de rescate, encontraron los cuerpos de ambos trabajadores, uno de 25 años y el otro de 45 años. Ante esta situación, la Procuraduría General de Justicia ha comenzado una investigación del evento. Este accidente resalta la peligrosidad de trabajar en minas, como la histórica mina de San Juan Pachuca.</Titular>
+		<Autor>Andrés Torres</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>SSPH</Dependencia>
+		<Organismo>SSPH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>TV local</Canal>
+		<Tema>Accidente en mina</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>1</Numero>
+		<ID>N/A</ID>
+		<Fecha>46315</Fecha>
+		<Radiodifusora>Canal del Pueblo</Radiodifusora>
+		<Titular>La Subsecretaría de Protección Civil del Gobierno del Estado de Hidalgo ha confirmado que las lluvias continuarán en el este del estado, especialmente en la región Otomí-Tepehua y en la Sierra, incluyendo San Bartolo Tutotepec y Tenango de Doria. También se espera un descenso importante de temperaturas en la mayoría del estado, con registros de hasta 4 grados en algunas áreas, y entre 6 y 8 grados en Pachuca esta mañana. Se recomienda a la población abrigarse bien y prepararse, ya que este descenso de temperaturas continuara hasta febrero. Actualmente, se están sintiendo los efectos del segundo frente frío que afecta al país, lo que ha llevado a una marcada disminución de la temperatura. La Subsecretaría de Protección Civil, informa sobre el pronóstico para el 20 de octubre de 2026. Se esperan chubascos de 5 a 25 mm, sobre todo en el este de Hidalgo, con temperaturas entre 0 y 5 grados. También se pronostican vientos de 10 a 20 km por hora, con rachas de 30 a 50 km por hora.</Titular>
+		<Autor>Aldo Falcón</Autor>
+		<Programa>Vocales Radio</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>PC</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>TV local</Canal>
+		<Tema>Alerta Meteorológica</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+</NotasRadio>

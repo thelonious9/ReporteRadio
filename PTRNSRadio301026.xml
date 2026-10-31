@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NotasRadio xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Nota>
+		<Numero>24</Numero>
+		<ID>N/A</ID>
+		<Fecha>46325</Fecha>
+		<Usuario>Izamara Quiroz</Usuario>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>Mire, ya para cerrar nuestra emisión de Enfoque Regional, esto seguramente usted lo vio en las redes sociales, que por ahí apareció. Hay un activista digital que es Rú Abogado, quien se ha hecho popular en plataformas digitales por documentar abusos de autoridad, detenciones arbitrarias y presuntos actos de extorsión por parte de policías. Bueno, pues fue intervenido en una visita que hizo aquí a Pachuca por agentes estatales de Hidalgo, cuando circulaba a bordo de una camioneta sobre el boulevard Felipe Ángeles aquí en Pachuca. Sin identificarse, los elementos le dijeron que se trataba de una inspección de rutina.</Titular>
+		<Autor>Jesús González</Autor>
+		<Programa>Enfoque Regional Matutino</Programa>
+		<Dependencia>SSPH</Dependencia>
+		<Organismo>SSPH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Abuso de autoridad</Tema>
+		<Estatus>Negativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>7</Numero>
+		<ID>N/A</ID>
+		<Fecha>46325</Fecha>
+		<Usuario>Izamara Quiroz</Usuario>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Una estudiante de 14 años de edad, identificada como Zaira, sufrió quemaduras durante un concurso de disfraces realizado en la Escuela Secundaria General Teodomiro Manzano, ubicada en el municipio de Huasca.De acuerdo con lo observado en un video difundido en redes sociales, la estudiante llevaba un vestido de Catrina elaborado con hojas secas de tamal que habría entrado en contacto con una veladora encendida de una ofrenda, por lo que fue auxiliada por sus compañeros y un docente</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>SEPH</Dependencia>
+		<Organismo>SEPH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Accidente en escuela</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Huasca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>18</Numero>
+		<ID>N/A</ID>
+		<Fecha>46325</Fecha>
+		<Usuario>Izamara Quiroz</Usuario>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Radioescucha manda audio «Hola, Lalo, un saludo para ti y para todo tu equipo. Para comentarte, acaba de suceder un accidente de transporte público de una Urvan con un particular aquí sobre Javier Rojo Gómez al cruce que está abajo del puente de Río de las Avenidas con dirección hacia Everardo Márquez, para que eviten la zona porque están ahí atravesados. Un saludo, Lalo, buenos días.»</Titular>
+		<Autor>Radioescucha</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Semot</Dependencia>
+		<Organismo>STCH</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Accidente transporte público</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>3</Numero>
+		<ID>N/A</ID>
+		<Fecha>46325</Fecha>
+		<Usuario>Izamara Quiroz</Usuario>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Eulalio Larrieta agradece a Jair Martínez y Uriel Ramírez de la SEGOBH, porque esta al pendiente de lo que se necesite y los reportes.</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Segobh</Dependencia>
+		<Organismo>Segobh</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Atención a la ciudadanía</Tema>
+		<Estatus>Positiva</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>2</Numero>
+		<ID>N/A</ID>
+		<Fecha>46325</Fecha>
+		<Usuario>Izamara Quiroz</Usuario>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Eulalio Larrieta agradece a Cristian Yahir Castañeda supervisor de la región Pachuca quien nos va atender los reportes que correspondan a la SEMOT</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Semot</Dependencia>
+		<Organismo>Semot</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Atención a la ciudadanía</Tema>
+		<Estatus>Positiva</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>1</Numero>
+		<ID>N/A</ID>
+		<Fecha>46325</Fecha>
+		<Usuario>Izamara Quiroz</Usuario>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Eulalio Larrieta agradece Paola García y Lic. Sarahi Pineda, por estar atentas a los mensajes de la ciudadanía y por atenderlos.</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Sipdus</Dependencia>
+		<Organismo>Caasim</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Atención a la ciudadanía</Tema>
+		<Estatus>Positiva</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>25</Numero>
+		<ID>N/A</ID>
+		<Fecha>46324</Fecha>
+		<Usuario>Izamara Quiroz</Usuario>
+		<Radiodifusora>Ke Buena 106.7 FM</Radiodifusora>
+		<Titular>Vía telefónica a la secretaria de Cultura del Gobierno de Hidalgo, Neyda Naranjo Baltazar con el tema Día de muertos</Titular>
+		<Autor>David Cárdenas</Autor>
+		<Programa>Noticias 106.7</Programa>
+		<Dependencia>Cultura</Dependencia>
+		<Organismo>Titular</Organismo>
+		<Genero>Entrevista pautada</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Día De Muertos</Tema>
+		<Estatus>Positiva</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>19</Numero>
+		<ID>N/A</ID>
+		<Fecha>46325</Fecha>
+		<Usuario>Izamara Quiroz</Usuario>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Radioescucha Sr. Fidel: Licenciado, muy buenos días. Reportando esta pequeña fuga: es en la calle 18 esquina con primera cerrada de Ferrocarril Central, Ampliación Santa Julia.</Titular>
+		<Autor>Radioescucha</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Sipdus</Dependencia>
+		<Organismo>Caasim</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Fuga De Agua</Tema>
+		<Estatus>Negativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>22</Numero>
+		<ID>DPEE-OCSAD/Bol.1339/2026</ID>
+		<Fecha>46325</Fecha>
+		<Usuario>Izamara Quiroz</Usuario>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>Siete de la mañana ya con 29 minutos y viene con una inversión proyectada de 10.106 millones de pesos. El gobernador Julio Menchaca y el secretario de Economía Federal, Marcelo Ebrard, encabezaron el arranque de obras del Polo de Desarrollo Económico para el Bienestar Reserva Zapotlán. El complejo industrial abarcará 910 hectáreas y se desarrollará en cinco etapas con espacios destinados a las industrias farmacéuticas, automotriz, aeroespacial y logística, además de pequeñas y medianas empresas. Para su primera fase, el gobierno estatal anunció una inversión de 557 millones de pesos en infraestructura vial.</Titular>
+		<Autor>Jesús González</Autor>
+		<Programa>Enfoque Regional Matutino</Programa>
+		<Dependencia>Gobernador</Dependencia>
+		<Organismo>Gobernador</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Polos del Bienestar</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Zapotlán</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>8</Numero>
+		<ID>SDPEE-OCSAD/Bol.1339/2026</ID>
+		<Fecha>46325</Fecha>
+		<Usuario>Izamara Quiroz</Usuario>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>El gobernador Julio Menchaca y el secretario de Economía del Gobierno de México, Marcelo Ebrard encabezaron el arranque de obra del Polo de Desarrollo Económico para el Bienestar (Podecobi) Reserva Zapotlán,</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Gobernador</Dependencia>
+		<Organismo>Gobernador</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Polos del Bienestar</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Zapotlán</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>23</Numero>
+		<ID>SSH/Bol.184/2026</ID>
+		<Fecha>46325</Fecha>
+		<Usuario>Izamara Quiroz</Usuario>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>Y mire, ya casi casi cerrando esta primera emisión de Enfoque Regional, porque además en este fin de semana tenemos celebraciones de Día de Muertos, bueno pues ante estas celebraciones de Día de Muertos y Xantolo, la Secretaría de Salud de Hidalgo llamó a la población a extremar las medidas de higiene en la preparación y conservación de alimentos para prevenir enfermedades diarréicas. Nancy Cerón Delgado, Coordinadora Estatal de Enfermedades Diarréicas Agudas, advirtió sobre los riesgos de consumir alimentos que permanecen expuestos durante varias horas en altares y ofrendas, especialmente cuando no cuentan con refrigeración adecuada. La dependencia pidió especial atención a menores de edad y adultos mayores, quienes pueden presentar mayores complicaciones.</Titular>
+		<Autor>Jesús González</Autor>
+		<Programa>Enfoque Regional Matutino</Programa>
+		<Dependencia>SSH</Dependencia>
+		<Organismo>SSH</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Prevención De Enfermedades</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>28</Numero>
+		<ID>SDPEE-OCSAD/Bol.1340/2026</ID>
+		<Fecha>46324</Fecha>
+		<Usuario>Izamara Quiroz</Usuario>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>Cabe destacar que la presidenta Claudia Sheinbaum y el gobernador de Hidalgo, Julio Menchaca Salazar, encabezaron también la inauguración de estos dos proyectos empresariales ubicados en el parque industrial Plata, en Villa de Tezontepec, el centro de distribución robótica de Mercado Libre, que tiene una capacidad operativa que supera los 6.8 millones de pedidos mensuales, con una proyección de alcanzar los quince millones durante dos mil veintisiete, por otra parte, laboratorios Carnot, puso en marcha la primera etapa de sus instalaciones, con una inversión inicial de dos mil cuatrocientos millones de pesos, que se prevé incremente a tres mil quinientos millones, el proyecto contempla, además, la generación de seiscientos puestos de trabajo especializados.</Titular>
+		<Autor>Jesús González</Autor>
+		<Programa>Enfoque Regional Meridiano</Programa>
+		<Dependencia>Gobernador</Dependencia>
+		<Organismo>Gobernador</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Visita Sheinbaum</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Villa de Tezontepec</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>21</Numero>
+		<ID>DPEE-OCSAD/Bol.1340/2026</ID>
+		<Fecha>46325</Fecha>
+		<Usuario>Izamara Quiroz</Usuario>
+		<Radiodifusora>Súper Stéreo 100.5 FM</Radiodifusora>
+		<Titular>Vamos con la información porque la presidenta Claudia Sheinbaum y el gobernador Julio Menchaca inauguraron el Parque Industrial Plata, el primer centro de distribución robótica de mercado libre y la primera etapa de laboratorios Carnot. Como parte de la 17ª visita de la mandataria federal a Hidalgo. Durante el evento, Sheinbaum destacó que el aumento al salario mínimo y la preparación de trabajadores especializados han fortalecido la economía y la atracción de inversiones.</Titular>
+		<Autor>Jesús González</Autor>
+		<Programa>Enfoque Regional Matutino</Programa>
+		<Dependencia>Gobernador</Dependencia>
+		<Organismo>Gobernador</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Visita Sheinbaum</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Villa de Tezontepec</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>9</Numero>
+		<ID>SDPEE-OCSAD/Bol.1340/2026</ID>
+		<Fecha>46325</Fecha>
+		<Usuario>Izamara Quiroz</Usuario>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Reconoce la presidenta Claudia Sheinbaum el crecimiento industrial de Hidalgo y su capacidad de atracción de inversiones. ¡Qué importante! Dice: Desde el Parque Industrial Platah, la presidenta de México,</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Gobernador</Dependencia>
+		<Organismo>Gobernador</Organismo>
+		<Genero>Boletín</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Visita Sheinbaum</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Villa de Tezontepec</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>17</Numero>
+		<ID>N/A</ID>
+		<Fecha>46325</Fecha>
+		<Usuario>Izamara Quiroz</Usuario>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Vía telefónica, Guillermo Huerta Meneses, subsecretario de Ingresos de la Secretaría de Hacienda de Hidalgo: Cierre de Refrendó Vehicular. informó que la recaudación por refrendo vehicular superó en más de 20 millones de pesos lo obtenido el año anterior, logrando regularizar cerca del 60% del padrón vehicular.</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Hacienda</Dependencia>
+		<Organismo>Hacienda</Organismo>
+		<Genero>Entrevista</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Xantolo</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>N/A</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>11</Numero>
+		<ID>Cultura/Bol.726/2026</ID>
+		<Fecha>46325</Fecha>
+		<Usuario>Izamara Quiroz</Usuario>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Radioescucha 5215: ¿Desde dónde va a iniciar el desfile el día de hoy?». ¡Ah! Desde el Centro Cultural del Ferrocarril, aquí en la calle de Mejía. Y esto será a las 5:00 de la tarde. Los contingentes se estarán formando desde... ¿qué creen?, ¿desde qué... qué hora?, desde las 3:00 de la tarde, así que pues hay que estar prevenidos para ello</Titular>
+		<Autor>Radioescucha</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Cultura</Dependencia>
+		<Organismo>Cultura</Organismo>
+		<Genero>Opinión</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Xantolo</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+	<Nota>
+		<Numero>10</Numero>
+		<ID>Cultura/Bol.726/2026</ID>
+		<Fecha>46325</Fecha>
+		<Usuario>Izamara Quiroz</Usuario>
+		<Radiodifusora>Acir 92.5 FM</Radiodifusora>
+		<Titular>Este viernes 30 de octubre, a partir de las 17:00 horas, iniciarán los cierres viales con motivo del desfile Fiesta de las Almas, cuyo recorrido partirá del Centro Cultural</Titular>
+		<Autor>Eulalio Larrieta</Autor>
+		<Programa>Panorama Informativo Pachuca</Programa>
+		<Dependencia>Cultura</Dependencia>
+		<Organismo>Cultura</Organismo>
+		<Genero>Noticia</Genero>
+		<Canal>Radio local</Canal>
+		<Tema>Xantolo</Tema>
+		<Estatus>Informativa</Estatus>
+		<Municipio>Pachuca</Municipio>
+	</Nota>
+</NotasRadio>
